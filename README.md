@@ -1,4 +1,4 @@
-## printing:
+## printing-v1:
 
 <h3>Problem:</h3>
 <p>Write programs to do the following:</p>
@@ -7,7 +7,7 @@
 <h3>Solution:</h3>
 <p>print-square.cpp, print-h.cpp, and print-text.cpp</p>
 
-## Printing-v2:
+## printing-v2:
 
 <h3>Problem:</h3>
 <p>Remove all std:: from all the program in the Printing problems</p>
