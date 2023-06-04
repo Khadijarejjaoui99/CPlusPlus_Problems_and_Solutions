@@ -20,4 +20,4 @@
 <p>Write programs to do the following:</p>
 <img src="escape-sequences/escape-seq.PNG" alt="escape-sequence problem">
 <h3>Solution:</h3>
-<p>ring-bell.cpp, text.cpp, and names.cpp</p>
+<p>ring-bell.cpp, message.cpp, and names.cpp</p>
