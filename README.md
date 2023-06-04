@@ -1,4 +1,4 @@
-## Printing:
+## printing:
 
 <h3>Problem:</h3>
 <p>Write programs to do the following:</p>
