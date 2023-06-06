@@ -20,4 +20,6 @@ int main()
     cout << "Gender: " << gender << endl;
     cout << "Married: " << isMarried << endl;
     cout << "***************************\n";
+
+    return 0;
 }
