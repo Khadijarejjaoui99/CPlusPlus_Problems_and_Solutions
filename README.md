@@ -34,3 +34,8 @@
 <img src = "variables/variables-p2.PNG" alt = "variable problem 2">
 <h3>solution:</h3>
 <p>var-sum-operation.cpp</p>
+<h3>Problem 3:</h3>
+<p>Consider that the age is equal now to 25 years old print the age after 5 years like the following:</p>
+<img src = "variables/variables-p3.PNG" alt = "variable problem 3">
+<h3>solution:</h3>
+<p>var-age-calculation.cpp</p>
