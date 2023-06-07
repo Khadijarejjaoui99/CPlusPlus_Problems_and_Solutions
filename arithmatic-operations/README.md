@@ -61,3 +61,14 @@ Dollar = 100
 
 <h3>Solution</h3>
 <p>total-dollars-pennies.cpp</p>
+<h3>Problem 7</h3>
+<p>
+Write a program to read TotalBill and CashPaid and calculate the remainder to be paid back.
+20
+50
+Output:
+30
+</p>
+
+<h3>Solution</h3>
+<p>calculate-remainder.cpp</p>
