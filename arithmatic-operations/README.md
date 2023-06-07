@@ -48,3 +48,16 @@ Output:
 </p>
 <h3>Solution</h3>
 <p>calculate-power.cpp</p>
+<h3>Problem 6</h3>
+<p>
+Write a program to ask the user to enter Pennies, Nickels, Dimes, Quarters,
+Dollars. Print the TotalPennies and TotalDollars.
+Penny = 1
+Nickel = 5
+Dime = 10
+Quarter = 25
+Dollar = 100
+</p>
+
+<h3>Solution</h3>
+<p>total-dollars-pennies.cpp</p>
