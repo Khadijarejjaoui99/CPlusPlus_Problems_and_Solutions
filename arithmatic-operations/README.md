@@ -72,3 +72,16 @@ Output:
 
 <h3>Solution</h3>
 <p>calculate-remainder.cpp</p>
+
+<h3>Problem 8</h3>
+<p>
+ A restaurant charges 10% service fees and 16% sales tax.
+Write a program to read BillValue and add service fees and sales tax to it, and
+print TotalBill on screen.
+100
+Output:
+127.6
+</p>
+
+<h3>Solution</h3>
+<p>total-bill.cpp</p>
