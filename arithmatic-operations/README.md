@@ -38,3 +38,13 @@ Output:
 </p>
 <h3>Solution</h3>
 <p>calculate-average.cpp</p>
+<h3>Problem 5</h3>
+<p>Write a program to ask the user to enter a number and print number^2, number^3, number^4
+Example Input:
+3
+Output:
+9
+27
+</p>
+<h3>Solution</h3>
+<p>calculate-power.cpp</p>
