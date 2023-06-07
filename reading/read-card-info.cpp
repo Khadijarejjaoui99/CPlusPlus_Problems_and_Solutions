@@ -19,9 +19,9 @@ int main()
     cin >> country;
     cout << "Please enter your monthly salary: \n";
     cin >> monthlySalary;
-    cout << "In case you are male enter M, if you are female enter F \n";
+    cout << "Please enter your gender F/M \n";
     cin >> gender;
-    cout << "If you are married enter 1 else enter 0 \n";
+    cout << "If you are married please enter 1 if not please enter 0 \n";
     cin >> isMarried;
 
     cout << "***************************\n";
