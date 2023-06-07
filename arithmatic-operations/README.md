@@ -14,3 +14,15 @@ Half of 50 is 25
 </p>
 <h3>Solution</h3>
 <p>half-number.cpp</p>
+<h3>Problem 3</h3>
+<p>Write a program to ask the user to enter 3 numbers, then print sum of the
+entered numbers.
+Example Input:
+10
+30
+5
+Output:
+45
+</p>
+<h3>Solution</h3>
+<p>sum-operation.cpp</p>
