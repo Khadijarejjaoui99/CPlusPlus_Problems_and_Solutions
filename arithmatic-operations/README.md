@@ -75,7 +75,7 @@ Output:
 
 <h3>Problem 8</h3>
 <p>
- A restaurant charges 10% service fees and 16% sales tax.
+A restaurant charges 10% service fees and 16% sales tax.
 Write a program to read BillValue and add service fees and sales tax to it, and
 print TotalBill on screen.
 100
@@ -85,3 +85,20 @@ Output:
 
 <h3>Solution</h3>
 <p>total-bill.cpp</p>
+<h3>Problem 9</h3>
+<p>
+Write a program to calculate the task duration in seconds and print it on the
+screen. -> Given the time duration of task in the number of days, hours, minutes,
+and seconds.
+example
+2
+5
+45
+35
+Output:
+193,535 Seconds
+
+</p>
+
+<h3>Solution</h3>
+<p>task-in-seconds.cpp</p>
