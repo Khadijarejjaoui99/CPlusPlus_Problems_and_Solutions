@@ -26,3 +26,15 @@ Output:
 </p>
 <h3>Solution</h3>
 <p>sum-operation.cpp</p>
+<h3>Problem 4</h3>
+<p>Write a program to ask the user to enter 3, then print average of the entered
+marks.
+Example Input:
+50
+60
+70
+Output:
+60
+</p>
+<h3>Solution</h3>
+<p>calculate-average.cpp</p>
