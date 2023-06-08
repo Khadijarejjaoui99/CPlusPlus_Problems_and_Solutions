@@ -130,3 +130,30 @@ calculate how many months you need to settle the loan
 
 <h3>Solution</h3>
 <p>calculate-monthly-payment.cpp</p>
+<h3>Problem 12</h3>
+<p>
+ Write a program to calculate rectangle area and print it on the screen
+ <img src = "rectangle-rule.PNG" alt = "rectangle area">
+<br>Example input:
+<br>5
+<br>10
+<br>Output:
+<br>50
+
+</p>
+
+<h3>Solution</h3>
+<p>calculate-rectangle-area.cpp</p>
+<h3>Problem 13</h3>
+<p>
+ Write a program to calculate triangle area then print it on the screen
+<br>Example input:
+<br>10
+<br>8
+<br>Output:
+<br>40
+
+</p>
+
+<h3>Solution</h3>
+<p>calculate-triangle-area.cpp</p>
