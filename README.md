@@ -300,7 +300,7 @@ print it on the screen.
 
 <h3>Problem</h3>
 <p>Using relational operators write a program to do the following </p>
-<img stc = "relational-operators/relational-operators-problem.PNG" alt = "relational operators problem">
+<img src = "relational-operators/relational-operators-problem.PNG" alt = "relational operators problem">
 <h3>Solution</h3>
 <p>relational-operators.cpp</p>
 
@@ -308,6 +308,6 @@ print it on the screen.
 
 <h3>Problem1</h3>
 <p>write programs to solve the following problems: </p>
-<img stc = "logical-operators/logical-operators-problem1.PNG" alt = "logical operators problem 1">
+<img src = "logical-operators/logical-operators-problem1.PNG" alt = "logical operators problem 1">
 <h3>Solution</h3>
 <p>logical-operators-problem1.cpp</p>
