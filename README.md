@@ -234,3 +234,64 @@ calculate how many months you need to settle the loan
 
 <h3>Solution</h3>
 <p>calculate-circle-area.cpp</p>
+
+<h3>Problem 15</h3>
+<p>
+ Write a program to calculate circle area through diameter, then print it on the
+screen.
+<br>Example input:
+<br>10
+<br>Output:
+<br>78.5
+
+</p>
+ <img src = "circle-area-rule2.PNG" alt = "circle area rule 2">
+
+<h3>Solution</h3>
+<p>circle-area-through-diameter.cpp</p>
+<h3>Problem 16</h3>
+<p>
+Write a program to calculate circle area inscribed in a square, then print it on
+the screen.
+<br>Example input:
+<br>10
+<br>Output:
+<br>78.5
+
+</p>
+ <img src = "circle-area-rule3.PNG" alt = "circle area rule 3">
+
+<h3>Solution</h3>
+<p>circle-area-inscribed-square.cpp</p>
+
+<h3>Problem 17</h3>
+<p>
+Write a program to calculate circle area along the circumference, then print it on
+the screen
+<br>Example input:
+<br>20
+<br>Output:
+<br>31.847
+
+</p>
+ <img src = "circle-area-rule4.PNG" alt = "circle area rule 4">
+
+<h3>Solution</h3>
+<p>circle-area-along-circumference.cpp</p>
+
+<h3>Problem 18</h3>
+<p>
+Write a program to calculate circle area inscribed in an isosceles triangle, then
+print it on the screen.
+
+<br>Example input:
+<br>20
+<br>10
+<br>Output:
+<br>47.1
+
+</p>
+ <img src = "circle-area-rule5.PNG" alt = "circle area rule 5">
+
+<h3>Solution</h3>
+<p>circle-area-inscribed-isosceles-triangle.cpp</p>
