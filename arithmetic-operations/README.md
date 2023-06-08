@@ -214,3 +214,20 @@ the screen
 
 <h3>Solution</h3>
 <p>circle-area-along-circumference.cpp</p>
+
+<h3>Problem 18</h3>
+<p>
+Write a program to calculate circle area inscribed in an isosceles triangle, then
+print it on the screen.
+
+<br>Example input:
+<br>20
+<br>10
+<br>Output:
+<br>47.1
+
+</p>
+ <img src = "circle-area-rule5.PNG" alt = "circle area rule 5">
+
+<h3>Solution</h3>
+<p>circle-area-inscribed-isosceles-triangle.cpp</p>
