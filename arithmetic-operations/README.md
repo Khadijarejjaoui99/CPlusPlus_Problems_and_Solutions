@@ -185,3 +185,17 @@ screen.
 
 <h3>Solution</h3>
 <p>circle-area-through-diameter.cpp</p>
+<h3>Problem 16</h3>
+<p>
+Write a program to calculate circle area inscribed in a square, then print it on
+the screen.
+<br>Example input:
+<br>10
+<br>Output:
+<br>78.5
+
+</p>
+ <img src = "circle-area-rule3.PNG" alt = "circle area rule3">
+
+<h3>Solution</h3>
+<p>circle-area-inscribed-square.cpp</p>
