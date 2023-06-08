@@ -129,4 +129,4 @@ calculate how many months you need to settle the loan
 </p>
 
 <h3>Solution</h3>
-<p>calculate-monthly-installments.cpp</p>
+<p>calculate-monthly-payment.cpp</p>

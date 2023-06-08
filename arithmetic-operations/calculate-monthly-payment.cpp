@@ -11,6 +11,6 @@ int main()
     cin >> NumberOfMonths;
 
     MonthlyPayment = LoanAmount / NumberOfMonths;
-    cout << "Your monthly installments is: " << MonthlyPayment << endl;
-    return 0;
+
+    cout << MonthlyPayment << endl;
 }
