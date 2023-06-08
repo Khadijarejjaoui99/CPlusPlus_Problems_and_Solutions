@@ -133,7 +133,6 @@ calculate how many months you need to settle the loan
 <h3>Problem 12</h3>
 <p>
  Write a program to calculate rectangle area and print it on the screen
- <img src = "rectangle-rule.PNG" alt = "rectangle area">
 <br>Example input:
 <br>5
 <br>10
@@ -141,6 +140,7 @@ calculate how many months you need to settle the loan
 <br>50
 
 </p>
+ <img src = "rectangle-rule.PNG" alt = "rectangle rule">
 
 <h3>Solution</h3>
 <p>calculate-rectangle-area.cpp</p>
@@ -154,6 +154,7 @@ calculate how many months you need to settle the loan
 <br>40
 
 </p>
+ <img src = "triangle-rule.PNG" alt = "triangle rule">
 
 <h3>Solution</h3>
 <p>calculate-triangle-area.cpp</p>
