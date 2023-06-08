@@ -245,7 +245,7 @@ screen.
 <br>78.5
 
 </p>
- <img src = "circle-area-rule2.PNG" alt = "circle area rule 2">
+ <img src = "arithmetic-operations/circle-area-rule2.PNG" alt = "circle area rule 2">
 
 <h3>Solution</h3>
 <p>circle-area-through-diameter.cpp</p>
@@ -259,7 +259,7 @@ the screen.
 <br>78.5
 
 </p>
- <img src = "circle-area-rule3.PNG" alt = "circle area rule 3">
+ <img src = "arithmetic-operations/circle-area-rule3.PNG" alt = "circle area rule 3">
 
 <h3>Solution</h3>
 <p>circle-area-inscribed-square.cpp</p>
@@ -274,7 +274,7 @@ the screen
 <br>31.847
 
 </p>
- <img src = "circle-area-rule4.PNG" alt = "circle area rule 4">
+ <img src = "arithmetic-operations/circle-area-rule4.PNG" alt = "circle area rule 4">
 
 <h3>Solution</h3>
 <p>circle-area-along-circumference.cpp</p>
@@ -291,7 +291,15 @@ print it on the screen.
 <br>47.1
 
 </p>
- <img src = "circle-area-rule5.PNG" alt = "circle area rule 5">
+ <img src = "arithmetic-operations/circle-area-rule5.PNG" alt = "circle area rule 5">
 
 <h3>Solution</h3>
 <p>circle-area-inscribed-isosceles-triangle.cpp</p>
+
+## relational-operators
+
+<h3>Problem</h3>
+<p>Using relational operators write a program to do the following </p>
+<img stc = "relational-operators/relational-operators-problem.PNG" alt = "relational operators problem">
+<h3>Solution</h3>
+<p>relational-operators.cpp</p>
