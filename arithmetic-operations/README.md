@@ -158,3 +158,16 @@ calculate how many months you need to settle the loan
 
 <h3>Solution</h3>
 <p>calculate-triangle-area.cpp</p>
+<h3>Problem 14</h3>
+<p>
+ Write a program to calculate circle area then print it on the screen.
+<br>Example input:
+<br>5
+<br>Output:
+<br>78.54
+
+</p>
+ <img src = "circle-area-rule1.PNG" alt = "circle area rule1">
+
+<h3>Solution</h3>
+<p>calculate-circle-area.cpp</p>
