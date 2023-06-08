@@ -167,7 +167,7 @@ calculate how many months you need to settle the loan
 <br>78.5
 
 </p>
- <img src = "circle-area-rule1.PNG" alt = "circle area rule1">
+ <img src = "circle-area-rule1.PNG" alt = "circle area rule 1">
 
 <h3>Solution</h3>
 <p>calculate-circle-area.cpp</p>
@@ -181,7 +181,7 @@ screen.
 <br>78.5
 
 </p>
- <img src = "circle-area-rule2.PNG" alt = "circle area rule2">
+ <img src = "circle-area-rule2.PNG" alt = "circle area rule 2">
 
 <h3>Solution</h3>
 <p>circle-area-through-diameter.cpp</p>
@@ -195,7 +195,22 @@ the screen.
 <br>78.5
 
 </p>
- <img src = "circle-area-rule3.PNG" alt = "circle area rule3">
+ <img src = "circle-area-rule3.PNG" alt = "circle area rule 3">
 
 <h3>Solution</h3>
 <p>circle-area-inscribed-square.cpp</p>
+
+<h3>Problem 17</h3>
+<p>
+Write a program to calculate circle area along the circumference, then print it on
+the screen
+<br>Example input:
+<br>20
+<br>Output:
+<br>31.847
+
+</p>
+ <img src = "circle-area-rule4.PNG" alt = "circle area rule 4">
+
+<h3>Solution</h3>
+<p>circle-area-along-circumference.cpp</p>
