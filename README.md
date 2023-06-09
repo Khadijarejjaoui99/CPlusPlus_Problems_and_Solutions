@@ -331,6 +331,7 @@ rectangle and print it on the screen.
 <br>198.431
 
 </p>
+<img src = "cmath-function/problem1.PNG" alt = "problem 1">
 
 <h3>Solution</h3>
 <p>rectangle-area-diagonal-side.cpp</p>
