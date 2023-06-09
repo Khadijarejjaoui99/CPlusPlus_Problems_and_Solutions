@@ -377,3 +377,18 @@ result.
 <img src = "cmath-function/problem4.PNG" alt = "problem 4">
 <h3>Solution</h3>
 <p>circle-area-3.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Write a program to calculate circle area along the circumstance, then print it
+on the screen.
+After finding the result use the floor function, and print the final result
+<br>Example input:
+<br>20
+<br>Output:
+<br>31
+
+</p>
+<img src = "cmath-function/problem5.PNG" alt = "problem 5">
+<h3>Solution</h3>
+<p>circle-area-4.cpp</p>
