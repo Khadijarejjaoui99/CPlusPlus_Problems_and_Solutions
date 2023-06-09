@@ -1,13 +1,15 @@
 #include <iostream>
 #include <string>
 using namespace std;
-struct stContactInfo
-{
-    string Phone, FacebookID, TwitterID;
-};
+
 struct stAddressInfo
 {
     string Street, HouseNumber, ZipCode, City, Country;
+};
+struct stContactInfo
+{
+    stAddressInfo AddressInfo;
+    string Phone, Email, FacebookID, TwitterID;
 };
 struct stPersonInfo
 {
@@ -16,7 +18,6 @@ struct stPersonInfo
     float MonthlySalary, YearlySalary;
     char Gender;
     bool isMarried;
-    stAddressInfo AddressInfo;
     stContactInfo ContactInfo;
 };
 
@@ -35,17 +36,19 @@ int main()
     cout << "Please enter your 0 if you are single, and 1 if you are married:\n";
     cin >> PersonInfo.isMarried;
     cout << "Please enter your street:\n";
-    cin >> PersonInfo.AddressInfo.Street;
+    cin >> PersonInfo.ContactInfo.AddressInfo.Street;
     cout << "Please enter your house number:\n";
-    cin >> PersonInfo.AddressInfo.HouseNumber;
+    cin >> PersonInfo.ContactInfo.AddressInfo.HouseNumber;
     cout << "Please enter your zip code:\n";
-    cin >> PersonInfo.AddressInfo.ZipCode;
+    cin >> PersonInfo.ContactInfo.AddressInfo.ZipCode;
     cout << "Please enter your city:\n";
-    cin >> PersonInfo.AddressInfo.City;
+    cin >> PersonInfo.ContactInfo.AddressInfo.City;
     cout << "Please enter your country:\n";
-    cin >> PersonInfo.AddressInfo.Country;
+    cin >> PersonInfo.ContactInfo.AddressInfo.Country;
     cout << "Please enter your phone number:\n";
     cin >> PersonInfo.ContactInfo.Phone;
+    cout << "Please enter your email:\n";
+    cin >> PersonInfo.ContactInfo.Email;
     cout << "Please enter your Facebook ID:\n";
     cin >> PersonInfo.ContactInfo.FacebookID;
     cout << "Please enter your Twitter ID:\n";
@@ -59,8 +62,13 @@ int main()
     cout << "Yearly Salary: " << PersonInfo.YearlySalary << endl;
     cout << "Gender: " << PersonInfo.Gender << endl;
     cout << "Married: " << PersonInfo.isMarried << endl;
-    cout << "Address: " << PersonInfo.AddressInfo.Street << " " << PersonInfo.AddressInfo.HouseNumber << " " << PersonInfo.AddressInfo.ZipCode << ", " << PersonInfo.AddressInfo.City << ", " << PersonInfo.AddressInfo.Country << endl;
+    cout << "Street: " << PersonInfo.ContactInfo.AddressInfo.Street << endl;
+    cout << "House Number: " << PersonInfo.ContactInfo.AddressInfo.HouseNumber << endl;
+    cout << "Zip Code: " << PersonInfo.ContactInfo.AddressInfo.ZipCode << endl;
+    cout << "City: " << PersonInfo.ContactInfo.AddressInfo.City << endl;
+    cout << "Country: " << PersonInfo.ContactInfo.AddressInfo.Country << endl;
     cout << "Phone Number: " << PersonInfo.ContactInfo.Phone << endl;
+    cout << "Email: " << PersonInfo.ContactInfo.Email << endl;
     cout << "Facebook ID: " << PersonInfo.ContactInfo.FacebookID << endl;
     cout << "Twitter ID: " << PersonInfo.ContactInfo.TwitterID << endl;
     cout << "***********************************\n";
