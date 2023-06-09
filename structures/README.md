@@ -1,3 +1,5 @@
+## structures
+
 <h3>Problem 1</h3>
 <p>
  Write a program using struct to do the following (The data should be taken
