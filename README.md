@@ -466,3 +466,9 @@ Repeat the previous problem, but this time add structure another structure by ad
 </p>
 <h3>Solution</h3>
 <p>info-card-v2.cpp</p>
+<h3>Problem 3</h3>
+<p>
+instead of using char for gender and boolean for isMarried use enums in info-card-v1.cpp, but this time hardcode the inputs
+</p>
+<h3>Solution</h3>
+<p>info-card-v3.cpp</p>
