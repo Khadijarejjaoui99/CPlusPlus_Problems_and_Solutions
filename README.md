@@ -317,3 +317,20 @@ print it on the screen.
 <img src = "logical-operators/logical-operators-problem2.PNG" alt = "logical operators problem 2">
 <h3>Solution</h3>
 <p>logical-operators-problem2.cpp</p>
+
+## cmath-function
+
+<h3>Problem 1</h3>
+<p>
+ Write a program to calculate rectangle area through diagonal and side area of
+rectangle and print it on the screen.
+<br>Example input:
+<br>5
+<br>40
+<br>Output:
+<br>198.431
+
+</p>
+
+<h3>Solution</h3>
+<p>rectangle-area-diagonal-side.cpp</p>
