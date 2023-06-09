@@ -457,7 +457,7 @@ Write a program to ask the user to enter a number and power and print result
  Write a program using struct to do the following (The data should be taken
 from the user).
 </p>
-<img src = "structures/problem.PNG" alt = "problem image">
+<img src = "structures-and-enums/problem.PNG" alt = "problem image">
 <h3>Solution</h3>
 <p>info-card-v1.cpp</p>
 <h3>Problem 2</h3>
