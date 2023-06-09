@@ -407,3 +407,19 @@ After finding the result use the floor function, and print the final result
 <img src = "cmath-function/problem6.PNG" alt = "problem 6">
 <h3>Solution</h3>
 <p>circle-area-5.cpp</p>
+<h3>Problem 7</h3>
+<p>
+Write a program to calculate circle area circle described around an arbitrary
+triangle, then print it on the screen. After finding the result use the round function, and print the final
+result.
+<br>Example input:
+<br>5
+<br>6
+<br>7
+<br>Output:
+<br>40
+
+</p>
+<img src = "cmath-function/problem7.PNG" alt = "problem 7">
+<h3>Solution</h3>
+<p>circle-area-6.cpp</p>
