@@ -335,3 +335,15 @@ rectangle and print it on the screen.
 
 <h3>Solution</h3>
 <p>rectangle-area-diagonal-side.cpp</p>
+<h3>Problem 2</h3>
+<p>
+Write a program to calculate circle area then print it on the screen. After finding the result use the ceil function, and print the final
+result.
+<br>Example input:
+<br>5
+<br>Output:
+<br>79
+</p>
+<img src = "problem2.PNG" alt = "problem 2">
+<h3>Solution</h3>
+<p>circle-area-1.cpp</p>
