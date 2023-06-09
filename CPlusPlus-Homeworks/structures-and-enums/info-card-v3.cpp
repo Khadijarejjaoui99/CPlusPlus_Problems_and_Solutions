@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
-enum euStatus
+enum enStatus
 {
     Single,
     Married
 };
-enum euGender
+enum enGender
 {
     Female,
     Male
@@ -15,8 +15,8 @@ struct stPersonInfo
     string Name, City, Country;
     short Age;
     float MonthlySalary, YearlySalary;
-    euGender Gender;
-    euStatus isMarried;
+    enGender Gender;
+    enStatus isMarried;
 };
 
 int main()
@@ -28,8 +28,8 @@ int main()
     PersonInfo.City = "El Jadida";
     PersonInfo.Country = "Morocco";
     PersonInfo.MonthlySalary = 5576.87;
-    PersonInfo.Gender = euGender::Female;
-    PersonInfo.isMarried = euStatus::Single;
+    PersonInfo.Gender = enGender::Female;
+    PersonInfo.isMarried = enStatus::Single;
 
     PersonInfo.YearlySalary = PersonInfo.MonthlySalary * 12;
     cout << "***********************************\n";
