@@ -71,3 +71,19 @@ After finding the result use the floor function, and print the final result
 <img src = "problem5.PNG" alt = "problem 5">
 <h3>Solution</h3>
 <p>circle-area-4.cpp</p>
+
+<h3>Problem 6</h3>
+<p>
+Write a program to calculate circle area inscribed in an isosceles triangle, then
+print it on the screen.
+After finding the result use the floor function, and print the final result
+<br>Example input:
+<br>20
+<br>10
+<br>Output:
+<br>47
+
+</p>
+<img src = "problem6.PNG" alt = "problem 6">
+<h3>Solution</h3>
+<p>circle-area-5.cpp</p>
