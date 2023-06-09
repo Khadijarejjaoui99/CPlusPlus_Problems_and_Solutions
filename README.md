@@ -362,3 +362,18 @@ result.
 <img src = "cmath-function/problem3.PNG" alt = "problem 3">
 <h3>Solution</h3>
 <p>circle-area-2.cpp</p>
+<h3>Problem 4</h3>
+<p>
+Write a program to calculate circle area inscribed in a square, then print it on
+the screen. After finding the result use the ceil function, and print the final
+result.
+
+<br>Example input:
+<br>10
+<br>Output:
+<br>79
+
+</p>
+<img src = "cmath-function/problem4.PNG" alt = "problem 4">
+<h3>Solution</h3>
+<p>circle-area-3.cpp</p>
