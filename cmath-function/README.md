@@ -26,3 +26,18 @@ result.
 <img src = "problem2.PNG" alt = "problem 2">
 <h3>Solution</h3>
 <p>circle-area-1.cpp</p>
+<h3>Problem 3</h3>
+<p>
+Write a program to calculate circle area through diameter, then print it on the
+screen. After finding the result use the ceil function, and print the final
+result.
+
+<br>Example input:
+<br>10
+<br>Output:
+<br>79
+
+</p>
+<img src = "problem3.PNG" alt = "problem 3">
+<h3>Solution</h3>
+<p>circle-area-2.cpp</p>
