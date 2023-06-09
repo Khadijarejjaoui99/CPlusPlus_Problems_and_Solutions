@@ -359,6 +359,6 @@ result.
 <br>79
 
 </p>
-<img src = "problem3.PNG" alt = "problem 3">
+<img src = "cmath-function/problem3.PNG" alt = "problem 3">
 <h3>Solution</h3>
 <p>circle-area-2.cpp</p>
