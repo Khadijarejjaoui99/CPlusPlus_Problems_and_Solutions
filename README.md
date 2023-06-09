@@ -423,3 +423,17 @@ result.
 <img src = "cmath-function/problem7.PNG" alt = "problem 7">
 <h3>Solution</h3>
 <p>circle-area-6.cpp</p>
+
+<h3>Problem 8</h3>
+<p>
+Write a program to ask the user to enter a number and print number^2,
+number^3, number^4
+<br>Example input:
+<br>3
+<br>Output:
+<br>9
+<br>27
+<br>81
+</p>
+<h3>Solution</h3>
+<p>calculate-power-1.cpp</p>
