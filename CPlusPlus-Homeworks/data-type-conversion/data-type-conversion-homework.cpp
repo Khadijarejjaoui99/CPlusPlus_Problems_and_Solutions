@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <typeinfo>
 using namespace std;
 
 int main()
@@ -9,6 +10,10 @@ int main()
     float stFloat = stof(St1);
     double stDouble = stod(St1);
     int stInt = stoi(St1);
+
+    cout << "type of stFloat is: " << typeid(stFloat).name() << endl;
+    cout << "type of stDouble is: " << typeid(stDouble).name() << endl;
+    cout << "type of stInt is: " << typeid(stInt).name() << endl;
 
     return 0;
 }
