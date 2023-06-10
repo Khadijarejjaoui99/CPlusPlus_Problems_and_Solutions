@@ -26,5 +26,11 @@ int main()
     double N2 = 33.5;
     string Str2 = to_string(N2);
 
+    // 4- Convert float N3 = 55.23 to string and integer
+
+    double N3 = 55.23;
+    string Str3 = to_string(N3);
+    int N4 = (int)N3;
+
     return 0;
 }
