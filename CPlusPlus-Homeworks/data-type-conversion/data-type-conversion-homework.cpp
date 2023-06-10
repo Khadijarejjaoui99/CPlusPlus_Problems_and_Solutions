@@ -21,5 +21,10 @@ int main()
     int N1 = 20;
     string Str1 = to_string(N1);
 
+    // 3- Convert double N2 = 33.5 to string.
+
+    double N2 = 33.5;
+    string Str2 = to_string(N2);
+
     return 0;
 }
