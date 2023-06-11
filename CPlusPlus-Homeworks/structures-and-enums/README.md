@@ -62,3 +62,11 @@ Create an instance of the "Person" struct and assign values to its members. Prin
 </p>
 <h3>Solution</h3>
 <p>person-car.cpp</p>
+
+<h3>Problem 7</h3>
+<p>
+Design a struct called "Point" that represents a point in a 2D coordinate system with x and y coordinates as its members. Initialize two Point objects and calculate the distance between them using the Euclidean distance formula: sqrt((x2-x1)^2 + (y2-y1)^2). Print the distance on the screen.
+
+</p>
+<h3>Solution</h3>
+<p>calculate-distance.cpp</p>
