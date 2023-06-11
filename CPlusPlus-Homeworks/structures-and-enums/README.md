@@ -1,4 +1,4 @@
-## structures
+## structures-and-enums
 
 <h3>Problem 1</h3>
 <p>
