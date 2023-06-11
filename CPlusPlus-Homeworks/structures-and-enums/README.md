@@ -34,3 +34,14 @@ Create two instances of the "Book" struct and print their details.
 </p>
 <h3>Solution</h3>
 <p>book-details.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Design a program that defines a struct called "Student" with the following members:
+name (string)
+age (int)
+GPA (float)
+Create three instances of the "Student" struct and print their details.
+</p>
+<h3>Solution</h3>
+<p>student-details.cpp</p>
