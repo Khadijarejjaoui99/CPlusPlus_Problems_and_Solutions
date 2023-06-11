@@ -28,4 +28,6 @@ int main()
     cout << "Author(s): " << book2.author << "\n";
     cout << "Publication Year: " << book2.publicationYear << "\n";
     cout << "**************************************\n";
+
+    return 0;
 }
