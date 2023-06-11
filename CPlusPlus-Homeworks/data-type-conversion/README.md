@@ -10,3 +10,10 @@ Write a program to do the following:
 </p>
 <h3>Solution</h3>
 <p>data-type-conversion-homework1.cpp</p>
+
+<h3>Problem 2</h3>
+<p>
+Write a program that prompts the user to enter a floating-point number and converts it to an integer, truncating the decimal part. Print the resulting integer.
+</p>
+<h3>Solution</h3>
+<p>data-type-conversion-homework2.cpp</p>
