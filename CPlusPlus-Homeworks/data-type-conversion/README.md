@@ -24,3 +24,17 @@ Create a program that asks the user to enter a character and converts it to its 
 </p>
 <h3>Solution</h3>
 <p>data-type-conversion-homework3.cpp</p>
+
+<h3>Problem 4</h3>
+<p>
+Design a program that takes an integer as input and converts it to a floating-point number. Multiply the resulting float by 1.5 and print the final result.
+</p>
+<h3>Solution</h3>
+<p>data-type-conversion-homework4.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Develop a program that reads a decimal number and converts it to a character. Print the character on the screen.
+</p>
+<h3>Solution</h3>
+<p>data-type-conversion-homework5.cpp</p>

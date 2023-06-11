@@ -12,4 +12,6 @@ int main()
     num_int = int(num_float);
 
     cout << num_int << endl;
+
+    return 0;
 }

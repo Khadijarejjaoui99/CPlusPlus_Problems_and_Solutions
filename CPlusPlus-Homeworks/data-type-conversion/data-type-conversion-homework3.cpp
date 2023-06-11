@@ -12,4 +12,6 @@ int main()
     ascii_value = (int)c;
 
     cout << "ASCII value of " << c << " is: " << ascii_value << endl;
+
+    return 0;
 }
