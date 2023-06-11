@@ -21,3 +21,16 @@ instead of using char for gender and boolean for isMarried use enums in info-car
 </p>
 <h3>Solution</h3>
 <p>info-card-v3.cpp</p>
+
+<h3>Problem 4</h3>
+<p>
+Design a program that defines a struct called "Book" with the following members:
+
+title (string)
+author (string)
+publicationYear (int)
+Create two instances of the "Book" struct and print their details.
+
+</p>
+<h3>Solution</h3>
+<p>book-details.cpp</p>
