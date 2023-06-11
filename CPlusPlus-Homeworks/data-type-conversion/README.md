@@ -17,3 +17,10 @@ Write a program that prompts the user to enter a floating-point number and conve
 </p>
 <h3>Solution</h3>
 <p>data-type-conversion-homework2.cpp</p>
+
+<h3>Problem 3</h3>
+<p>
+Create a program that asks the user to enter a character and converts it to its corresponding ASCII value. Print the ASCII value on the screen.
+</p>
+<h3>Solution</h3>
+<p>data-type-conversion-homework3.cpp</p>
