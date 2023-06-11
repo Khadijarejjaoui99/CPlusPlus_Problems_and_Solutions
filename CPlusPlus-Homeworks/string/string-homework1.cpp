@@ -18,4 +18,6 @@ int main()
     cout << "characters at position 0, 2,4,8 are: " << string1[0] << " " << string1[2] << " " << string1[4] << " " << string1[8] << "\n";
     cout << "concatenating string1 and string2: " << string2 + string3 << "\n";
     cout << string2 << " + " << string3 << " = " << stoi(string2) * stoi(string3) << "\n";
+
+    return 0;
 }
