@@ -38,3 +38,8 @@ Develop a program that reads a decimal number and converts it to a character. Pr
 </p>
 <h3>Solution</h3>
 <p>data-type-conversion-homework5.cpp</p>
+<h3>Problem 6</h3>
+<p>
+Write a program that prompts the user to enter a character and converts it to its lowercase equivalent. If the character is already lowercase, print it as is. Otherwise, convert it to lowercase and display the result.</p>
+<h3>Solution</h3>
+<p>data-type-conversion-homework6.cpp</p>
