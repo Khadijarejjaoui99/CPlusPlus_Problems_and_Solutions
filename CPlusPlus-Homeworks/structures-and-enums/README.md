@@ -45,3 +45,20 @@ Create three instances of the "Student" struct and print their details.
 </p>
 <h3>Solution</h3>
 <p>student-details.cpp</p>
+
+<h3>Problem 6</h3>
+<p>
+Create a program that defines a struct called "Car" with the following members:
+
+brand (string)
+model (string)
+year (int)
+Define another struct called "Person" with the following members:
+name (string)
+age (int)
+car (Car)
+Create an instance of the "Person" struct and assign values to its members. Print the person's name, age, and the details of their car.
+
+</p>
+<h3>Solution</h3>
+<p>person-car.cpp</p>
