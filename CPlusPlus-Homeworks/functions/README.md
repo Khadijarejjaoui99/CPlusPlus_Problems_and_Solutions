@@ -22,3 +22,9 @@ Solve the following problems using procedures or functions:
 </p>
 <h3>Solution</h3>
 <p>print-my-name.cpp</p>
+<h3>Problem4</h3>
+<p>Write a program to ask the user to enter his/her name and print it on the
+screen.
+</p>
+<h3>Solution</h3>
+<p>print-user-name.cpp</p>
