@@ -54,3 +54,15 @@ rectangle and print it on the screen.
 <img src = "problem-6.PNG" alt = "problem 6">
 <h3>Solution</h3>
 <p>rectangle-area-2.cpp</p>
+
+<h3>Problem7</h3>
+<p>
+Write a program to calculate circle area then print it on the screen.
+<br>Example Input:
+<br>5
+<br>Output: 78.5
+
+</p>
+<img src = "problem-7.PNG" alt = "problem 7">
+<h3>Solution</h3>
+<p>circle-area-1.cpp</p>
