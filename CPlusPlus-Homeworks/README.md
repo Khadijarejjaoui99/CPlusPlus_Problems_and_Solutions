@@ -584,3 +584,10 @@ the main function.
 <img src = "functions/problem-2.PNG" alt = "problem 2">
 <h3>Solution</h3>
 <p>procedure-and-function.cpp</p>
+Solve the following problems using procedures or functions:
+
+<h3>Problem3</h3>
+<p>Write a program to print your name on the screen.
+</p>
+<h3>Solution</h3>
+<p>print-my-name.cpp</p>
