@@ -608,4 +608,18 @@ Write a program to calculate rectangle area and print it on the screen.
 </p>
 <img src = "functions/problem-5.PNG" alt = "problem 5">
 <h3>Solution</h3>
-<p>rectangle-area.cpp</p>
+<p>rectangle-area-1.cpp</p>
+
+<h3>Problem6</h3>
+<p>
+Write a program to calculate rectangle area through diagonal and side area of
+rectangle and print it on the screen.
+<br>Example Input:
+<br>5
+<br>40
+<br>Output: 198.431
+
+</p>
+<img src = "problem-6.PNG" alt = "problem 6">
+<h3>Solution</h3>
+<p>rectangle-area-2.cpp</p>
