@@ -648,3 +648,16 @@ screen.
 <img src = "functions/problem-8.PNG" alt = "problem 8">
 <h3>Solution</h3>
 <p>circle-area-2.cpp</p>
+
+<h3>Problem9</h3>
+<p>
+Write a program to calculate circle area inscribed in a square, then print it on
+the screen.
+<br>Example Input:
+<br>10
+<br>Output: 78.5
+
+</p>
+<img src = "problem-9.PNG" alt = "problem 9">
+<h3>Solution</h3>
+<p>circle-area-3.cpp</p>
