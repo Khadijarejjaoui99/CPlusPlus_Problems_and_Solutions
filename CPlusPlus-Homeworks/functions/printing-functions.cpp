@@ -20,9 +20,18 @@ void PrintSquareStars()
     cout << "********\n";
     cout << "********\n";
 }
+void PrintILoveProgramming()
+{
+    cout << "I love programming!\n\n";
+    cout << "I promise to be the best developer ever!\n\n";
+    cout << "I know it will take sometimes to practice, but I will acheive my goal.\n\n";
+    cout << "Best regards,\n";
+    cout << "Khadija Rejjaoui\n";
+}
 int main()
 {
     DisplayMyInfoCard();
     PrintSquareStars();
+    PrintILoveProgramming();
     return 0;
 }
