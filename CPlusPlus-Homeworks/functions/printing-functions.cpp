@@ -28,10 +28,19 @@ void PrintILoveProgramming()
     cout << "Best regards,\n";
     cout << "Khadija Rejjaoui\n";
 }
+void PrintH()
+{
+    cout << "*   *\n";
+    cout << "*   *\n";
+    cout << "*****\n";
+    cout << "*   *\n";
+    cout << "*   *\n";
+}
 int main()
 {
     DisplayMyInfoCard();
     PrintSquareStars();
     PrintILoveProgramming();
+    PrintH();
     return 0;
 }
