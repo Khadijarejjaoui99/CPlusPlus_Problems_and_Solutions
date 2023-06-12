@@ -28,3 +28,15 @@ screen.
 </p>
 <h3>Solution</h3>
 <p>print-user-name.cpp</p>
+
+<h3>Problem5</h3>
+<p>
+Write a program to calculate rectangle area and print it on the screen.
+<br>Example Input:
+<br>5
+<br>10
+<br>Output: 50
+</p>
+<img src = "problem-5.PNG" alt = "problem 5">
+<h3>Solution</h3>
+<p>rectangle-area.cpp</p>
