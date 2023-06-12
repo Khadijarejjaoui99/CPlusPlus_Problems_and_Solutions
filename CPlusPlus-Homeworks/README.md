@@ -632,6 +632,6 @@ Write a program to calculate circle area then print it on the screen.
 <br>Output: 78.5
 
 </p>
-<img src = "problem-7.PNG" alt = "problem 7">
+<img src = "functions/problem-7.PNG" alt = "problem 7">
 <h3>Solution</h3>
 <p>circle-area-1.cpp</p>
