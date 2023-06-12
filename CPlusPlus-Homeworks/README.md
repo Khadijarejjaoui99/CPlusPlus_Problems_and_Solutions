@@ -620,6 +620,6 @@ rectangle and print it on the screen.
 <br>Output: 198.431
 
 </p>
-<img src = "problem-6.PNG" alt = "problem 6">
+<img src = "functions/problem-6.PNG" alt = "problem 6">
 <h3>Solution</h3>
 <p>rectangle-area-2.cpp</p>
