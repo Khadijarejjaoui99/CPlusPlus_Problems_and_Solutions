@@ -13,7 +13,16 @@ void DisplayMyInfoCard()
     cout << "Country: " << Country << endl;
     cout << "***********************************\n";
 }
+void PrintSquareStars()
+{
+    cout << "********\n";
+    cout << "********\n";
+    cout << "********\n";
+    cout << "********\n";
+}
 int main()
 {
     DisplayMyInfoCard();
+    PrintSquareStars();
+    return 0;
 }
