@@ -690,3 +690,19 @@ print it on the screen.
 <img src = "functions/problem-11.PNG" alt = "problem 11">
 <h3>Solution</h3>
 <p>circle-area-5.cpp</p>
+
+<h3>Problem 12</h3>
+<p>
+Write a program to calculate circle area circle described around an arbitrary
+triangle, then print it on the screen.
+
+<br>Example Input:
+<br>5
+<br>6
+<br>7
+<br>Output: 40. 0677
+
+</p>
+<img src = "functions/problem-12.PNG" alt = "problem 12">
+<h3>Solution</h3>
+<p>circle-area-6.cpp</p>
