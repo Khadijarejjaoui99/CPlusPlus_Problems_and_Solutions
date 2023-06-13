@@ -1,6 +1,6 @@
 ## functions
 
-<h3>Problem1</h3>
+<h3>Problem 1</h3>
 <p>write a program that contains functions that do the following and call them in
 the main function.
 </p>
@@ -8,7 +8,7 @@ the main function.
 <h3>Solution</h3>
 <p>printing-functions.cpp</p>
 
-<h3>Problem2</h3>
+<h3>Problem 2</h3>
 <p>write a procedure and a function to do the following in one program:
 </p>
 <img src = "problem-2.PNG" alt = "problem 2">
@@ -17,7 +17,7 @@ the main function.
 
 Solve the following problems using procedures or functions:
 
-<h3>Problem3</h3>
+<h3>Problem 3</h3>
 <p>Write a program to print your name on the screen.
 </p>
 <h3>Solution</h3>
@@ -29,7 +29,7 @@ screen.
 <h3>Solution</h3>
 <p>print-user-name.cpp</p>
 
-<h3>Problem5</h3>
+<h3>Problem 5</h3>
 <p>
 Write a program to calculate rectangle area and print it on the screen.
 <br>Example Input:
@@ -41,7 +41,7 @@ Write a program to calculate rectangle area and print it on the screen.
 <h3>Solution</h3>
 <p>rectangle-area-1.cpp</p>
 
-<h3>Problem6</h3>
+<h3>Problem 6</h3>
 <p>
 Write a program to calculate rectangle area through diagonal and side area of
 rectangle and print it on the screen.
@@ -55,7 +55,7 @@ rectangle and print it on the screen.
 <h3>Solution</h3>
 <p>rectangle-area-2.cpp</p>
 
-<h3>Problem7</h3>
+<h3>Problem 7</h3>
 <p>
 Write a program to calculate circle area then print it on the screen.
 <br>Example Input:
@@ -67,7 +67,7 @@ Write a program to calculate circle area then print it on the screen.
 <h3>Solution</h3>
 <p>circle-area-1.cpp</p>
 
-<h3>Problem8</h3>
+<h3>Problem 8</h3>
 <p>
 Write a program to calculate circle area through diameter, then print it on the
 screen.
@@ -80,7 +80,7 @@ screen.
 <h3>Solution</h3>
 <p>circle-area-2.cpp</p>
 
-<h3>Problem9</h3>
+<h3>Problem 9</h3>
 <p>
 Write a program to calculate circle area inscribed in a square, then print it on
 the screen.
@@ -92,3 +92,17 @@ the screen.
 <img src = "problem-9.PNG" alt = "problem 9">
 <h3>Solution</h3>
 <p>circle-area-3.cpp</p>
+
+<h3>Problem 10</h3>
+<p>
+Write a program to calculate circle area along the circumstance, then print it
+on the screen.
+
+<br>Example Input:
+<br>20
+<br>Output: 31.847
+
+</p>
+<img src = "problem-10.PNG" alt = "problem 10">
+<h3>Solution</h3>
+<p>circle-area-4.cpp</p>
