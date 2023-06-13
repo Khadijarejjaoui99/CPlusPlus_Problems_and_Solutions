@@ -29,5 +29,5 @@ int main()
 
     TotalNumberOfSeconds = TasksInSeconds(NumberOfDays, NumberOfHours, NumberOfMinutes, NumberOfSeconds);
 
-    cout << "Task in second is: " << TotalNumberOfSeconds << endl;
+    cout << "Task in second is: " << TotalNumberOfSeconds << " seconds" << endl;
 }
