@@ -748,3 +748,16 @@ and seconds
 </p>
 <h3>Solution</h3>
 <p>task-in-seconds.cpp</p>
+
+<h3>Problem 15</h3>
+<p>Write a program that takes number of seconds as inputs and change it into
+days, hours, minutes, and seconds
+<br>Example Input:
+<br>193,535
+<br>Output:
+
+2:5:45:35
+
+</p>
+<h3>Solution</h3>
+<p>task-duration.cpp</p>
