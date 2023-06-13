@@ -719,3 +719,15 @@ number^3, number^4
 </p>
 <h3>Solution</h3>
 <p>power-of-2-3-4.cpp</p>
+
+<h3>Problem 14</h3>
+<p>Write a program to ask the user to enter a number and power and print
+result
+<br>Example Input:
+<br>2
+<br>4
+<br>Output:
+16
+</p>
+<h3>Solution</h3>
+<p>power-of-M.cpp</p>
