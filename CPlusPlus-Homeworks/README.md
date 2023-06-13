@@ -675,3 +675,18 @@ on the screen.
 <img src = "functions/problem-10.PNG" alt = "problem 10">
 <h3>Solution</h3>
 <p>circle-area-4.cpp</p>
+
+<h3>Problem 11</h3>
+<p>
+ Write a program to calculate circle area inscribed in an isosceles triangle, then
+print it on the screen.
+
+<br>Example Input:
+<br>20
+<br>10
+<br>Output: 47.1
+
+</p>
+<img src = "functions/problem-11.PNG" alt = "problem 11">
+<h3>Solution</h3>
+<p>circle-area-5.cpp</p>
