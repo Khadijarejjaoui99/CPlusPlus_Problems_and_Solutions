@@ -162,3 +162,20 @@ result
 </p>
 <h3>Solution</h3>
 <p>power-of-M.cpp</p>
+
+<h3>Problem 14</h3>
+<p>Write a program to calculate the task duration in seconds and print it on the
+screen. -> Given the time duration of task in the number of days, hours, minutes,
+and seconds
+<br>Example Input:
+<br>2
+<br>5
+<br>45
+<br>35
+
+<br>Output:
+193,535 Seconds
+
+</p>
+<h3>Solution</h3>
+<p>task-in-seconds.cpp</p>
