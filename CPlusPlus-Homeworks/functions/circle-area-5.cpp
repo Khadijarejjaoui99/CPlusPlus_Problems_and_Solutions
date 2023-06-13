@@ -7,7 +7,7 @@ float CircleAreaInscribedInIsosTriangle(float a, float b)
     const float PI = 3.14;
     float Area;
 
-    Area = PI * pow(b, 2) / 4 * ((2 * a - b) / (2 * a + b));
+    Area = (PI * pow(b, 2) / 4) * ((2 * a - b) / (2 * a + b));
 
     return Area;
 }
