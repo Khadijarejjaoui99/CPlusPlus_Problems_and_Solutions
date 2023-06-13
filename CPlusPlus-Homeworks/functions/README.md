@@ -140,6 +140,13 @@ triangle, then print it on the screen.
 
 <h3>Problem 13</h3>
 <p>Write a program to ask the user to enter a number and print number^2,
-number^3, number^4</p>
+number^3, number^4
+<br>Example Input:
+<br>3
+<br>Output:
+<br>3^2 = 9
+<br>3^3 = 27
+<br>3^4 = 81
+</p>
 <h3>Solution</h3>
 <p>power-of-2-3-4.cpp</p>
