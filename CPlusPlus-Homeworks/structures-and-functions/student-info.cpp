@@ -30,4 +30,6 @@ int main()
     stStudentInfo StudentInfo;
     ReadInfo(StudentInfo);
     PrintInfo(StudentInfo);
+
+    return 0;
 }
