@@ -21,3 +21,11 @@ Create a program that uses a structure to store employee details such as name, e
 </p>
 <h3>Solution</h3>
 <p>employee-Payroll.cpp</p>
+
+<h3>Problem 4</h3>
+<p>Employee Payroll Calculation:<br>
+Create a program that uses a structure to store employee details such as name, employee ID, and hourly wage. Write functions to calculate and display the weekly pay for an employee, considering their working hours.
+
+</p>
+<h3>Solution</h3>
+<p>employee-Payroll.cpp</p>
