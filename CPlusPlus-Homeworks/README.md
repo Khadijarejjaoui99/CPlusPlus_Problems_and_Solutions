@@ -777,3 +777,11 @@ days, hours, minutes, and seconds
 </p>
 <h3>Solution</h3>
 <p>swap-without-temp-1.cpp, swap-without-temp-2.cpp</p>
+
+## structures-and-functions
+
+<h3>Problem 1</h3>
+<p>Write program that contains a stucture for person information and two function one reads the data and another prints data.
+</p>
+<h3>Solution</h3>
+<p>person-info.cpp</p>
