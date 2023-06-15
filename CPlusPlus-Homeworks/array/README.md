@@ -1,8 +1,8 @@
 ## array
 
 <h3>Problem 1</h3>
-<p>Employee Payroll Calculation:<br>
-write a program to do the following, using array. 
+<p>
+write a program to do the following, using array and without using loops.
 </p>
 <img src = "problem-1.PNG" alt = "problem 1">
 
