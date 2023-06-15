@@ -885,3 +885,18 @@ mark is greater or equal to 50 , otherwise print fail
 </p>
 <h3>Solution</h3>
 <p>pass-fail.cpp</p>
+
+<h3>Problem 3</h3>
+<p>
+Write a program to ask the user to enter 3 marks, then print average of the
+entered marks, if the average >= 50 print "Pass" otherwise print "Fail" .
+<br>Example Input:
+<br>50
+<br>60
+<br>70
+<br>Output:
+<br>60
+"Pass"
+</p>
+<h3>Solution</h3>
+<p>pass-fail-average.cpp</p>
