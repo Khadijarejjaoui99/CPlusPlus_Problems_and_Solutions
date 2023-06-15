@@ -873,3 +873,15 @@ driver's license, otherwise print "Rejected".
 </p>
 <h3>Solution</h3>
 <p>hired-rejected-1.cpp</p>
+
+<h3>Problem 2</h3>
+<p>
+Write a program that ask the user to enter a mark, then print "Pass" if the
+mark is greater or equal to 50 , otherwise print fail
+<br>Example Input:
+<br>80
+<br>Output:
+<br>Pass
+</p>
+<h3>Solution</h3>
+<p>pass-fail.cpp</p>
