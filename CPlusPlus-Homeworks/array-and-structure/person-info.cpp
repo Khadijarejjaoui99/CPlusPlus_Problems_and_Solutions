@@ -1,41 +1,50 @@
 #include <iostream>
 using namespace std;
 
-struct stPersonInfo
+struct stInfo
 {
     string FirstName, LastName, Phone;
     short Age;
 };
 
-void ReadPersonInfo(stPersonInfo &Person)
+void ReadInfo(stInfo &Info)
 {
     cout << "Please enter first name:\n";
-    cin >> Person.FirstName;
+    cin >> Info.FirstName;
     cout << "Please enter last name:\n";
-    cin >> Person.LastName;
+    cin >> Info.LastName;
     cout << "Please enter age:\n";
-    cin >> Person.Age;
+    cin >> Info.Age;
     cout << "Please enter phone number:\n";
-    cin >> Person.Phone;
+    cin >> Info.Phone;
 }
 
-void DisplayPersonInfo(stPersonInfo Person)
+void DisplayInfo(stInfo Info)
 {
     cout << "\n****************************************\n";
-    cout << "First Name: " << Person.FirstName << endl;
-    cout << "Last Name: " << Person.LastName << endl;
-    cout << "Age: " << Person.Age << endl;
-    cout << "Phone Number: " << Person.Phone << endl;
+    cout << "First Name: " << Info.FirstName << endl;
+    cout << "Last Name: " << Info.LastName << endl;
+    cout << "Age: " << Info.Age << endl;
+    cout << "Phone Number: " << Info.Phone << endl;
     cout << "****************************************\n";
+}
+
+void ReadPersonsInfo(stInfo Persons[2])
+{
+    ReadInfo(Persons[0]);
+    ReadInfo(Persons[1]);
+}
+void DisplayPersonsInfo(stInfo Persons[2])
+{
+    DisplayInfo(Persons[0]);
+    DisplayInfo(Persons[1]);
 }
 
 int main()
 {
-    stPersonInfo Persons[2];
+    stInfo Persons[2];
 
-    ReadPersonInfo(Persons[0]);
-    ReadPersonInfo(Persons[1]);
-    DisplayPersonInfo(Persons[0]);
-    DisplayPersonInfo(Persons[1]);
+    ReadPersonsInfo(Persons);
+    DisplayPersonsInfo(Persons);
     return 0;
 }
