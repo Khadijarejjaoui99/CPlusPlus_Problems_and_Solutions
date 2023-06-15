@@ -808,7 +808,7 @@ Create a program that uses a structure to store employee details such as name, e
 <p>
 write a program to do the following, using array and without using loops. 
 </p>
-<img src = "problem-1.PNG" alt = "problem 1">
+<img src = "array/problem-1.PNG" alt = "problem 1">
 
 <h3>Solution</h3>
 <p>average-grade-1.cpp</p>
@@ -817,7 +817,7 @@ write a program to do the following, using array and without using loops.
 <p>
 write a program to do the following, using array and functions without using loops.
 </p>
-<img src = "problem-1.PNG" alt = "problem 1">
+<img src = "array/problem-1.PNG" alt = "problem 1">
 
 <h3>Solution</h3>
 <p>average-grade-2.cpp</p>
