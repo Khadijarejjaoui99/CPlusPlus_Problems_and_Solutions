@@ -47,4 +47,13 @@ and 45 print "Valid Age" otherwise print "Invalid Age"
 Valid Age
 </p>
 <h3>Solution</h3>
-<p>pass-fail-average.cpp</p>
+<p>valid-age.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Write a program to read ATM PIN code from the user, then check if the PIN
+code = 1234, then show the balance to the user, otherwise print "Wrong PIN" and
+Assume user balance is 7800.
+</p>
+<h3>Solution</h3>
+<p>atm-pin.cpp</p>
