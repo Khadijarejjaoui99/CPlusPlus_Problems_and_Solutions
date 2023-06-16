@@ -91,7 +91,7 @@ Write a program to ask the user to enter two numbers and operation type.
 <h3>Solution</h3>
 <p>arithmatic-operation.cpp</p>
 
-<h3>Problem 7</h3>
+<h3>Problem 8</h3>
 <p>
 Write a program to ask the user to enter day number and print the day name.
 <br>1 print Sunday
@@ -104,4 +104,4 @@ Write a program to ask the user to enter day number and print the day name.
 
 </p>
 <h3>Solution</h3>
-<p>print-week-day.cpp</p>
+<p>week-days.cpp</p>
