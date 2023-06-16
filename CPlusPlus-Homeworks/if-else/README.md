@@ -36,3 +36,15 @@ entered marks, if the average >= 50 print "Pass" otherwise print "Fail" .
 </p>
 <h3>Solution</h3>
 <p>pass-fail-average.cpp</p>
+
+<h3>Problem 4</h3>
+<p>
+ Write a program to ask the user to enter his/ her age. If the age is between 18
+and 45 print "Valid Age" otherwise print "Invalid Age"
+<br>Example Input:
+<br>30
+<br>Output:
+Valid Age
+</p>
+<h3>Solution</h3>
+<p>pass-fail-average.cpp</p>
