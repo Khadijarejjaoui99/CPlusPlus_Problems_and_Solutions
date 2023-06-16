@@ -932,3 +932,14 @@ Write a program to ask the user to enter his/ her mark and print his/her grade.
 </p>
 <h3>Solution</h3>
 <p>grades.cpp</p>
+
+<h3>Problem 7</h3>
+<p>
+Write a program to ask the user to enter TotalSales and print the commission.
+The commission is calculated as percentage * the total sale amount.
+<br>>= 1000000 -> percentage is 3%
+<br>>= 100K and < 1000000 -> percentage is 1%
+Otherwise -> percentage 0%
+</p>
+<h3>Solution</h3>
+<p>commission.cpp</p>
