@@ -921,3 +921,14 @@ Assume user balance is 7800.
 </p>
 <h3>Solution</h3>
 <p>atm-pin.cpp</p>
+
+<h3>Problem 6</h3>
+<p>
+Write a program to ask the user to enter his/ her mark and print his/her grade.
+<br>90 - 100 Print A.
+<br>70 - 89 Print B.
+<br>50 - 69 Print C.
+<br>Otherwise Print F
+</p>
+<h3>Solution</h3>
+<p>grades.cpp</p>
