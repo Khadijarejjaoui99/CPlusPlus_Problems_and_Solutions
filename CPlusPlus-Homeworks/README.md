@@ -828,7 +828,7 @@ write a program to do the following, using array and functions without using loo
 <p>
 write a program to do the following, using array, strcture, functions, and without using loops. 
 </p>
-<img src = "array-and-structure/problem-1.PNG" alt = "problem 1">
+<img src = "array-and-structure/problem.PNG" alt = "problem 1">
 
 <h3>Solution</h3>
 <p>person-info.cpp</p>
