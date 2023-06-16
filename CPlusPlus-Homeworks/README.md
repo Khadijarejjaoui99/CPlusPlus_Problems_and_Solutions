@@ -954,3 +954,18 @@ Write a program to ask the user to enter two numbers and operation type.
 </p>
 <h3>Solution</h3>
 <p>arithmatic-operation.cpp</p>
+
+<h3>Problem 8</h3>
+<p>
+Write a program to ask the user to enter day number and print the day name.
+<br>1 print Sunday
+<br>2 print Monday
+<br>3 print Tuesday
+<br>4 print Wednesday
+<br>5 print Thursday
+<br>6 print Friday
+7 print Saturday
+
+</p>
+<h3>Solution</h3>
+<p>week-days.cpp</p>
