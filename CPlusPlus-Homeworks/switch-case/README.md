@@ -33,3 +33,10 @@ Write a function that takes a grade (enum) as input and returns the correspondin
 </p>
 <h3>Solution</h3>
 <p>grades-to-points.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Create an enum that represents different countries (e.g., USA, Canada, Germany). Write a function that takes a country as input and uses a switch...case statement to determine its official language and return it as a string.
+</p>
+<h3>Solution</h3>
+<p>country-official-language.cpp</p>
