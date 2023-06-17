@@ -1041,3 +1041,10 @@ Create an enum that represents different types of fruits (e.g., apple, banana, o
 </p>
 <h3>Solution</h3>
 <p>fruit-colors.cpp</p>
+
+<h3>Problem 4</h3>
+<p>
+Write a function that takes a grade (enum) as input and returns the corresponding grade point using a switch...case statement. For example, if the grade is "A," the function should return 4.0.
+</p>
+<h3>Solution</h3>
+<p>grades-to-points.cpp</p>
