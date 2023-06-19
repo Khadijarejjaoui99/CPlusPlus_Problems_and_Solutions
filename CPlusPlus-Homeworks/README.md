@@ -1131,3 +1131,11 @@ Write a program to ask the user to enter a number and power and print result
 </p>
 <h3>Solution</h3>
 <p>calculate-power-of-M.cpp</p>
+
+<h3>Problem 7</h3>
+<p>
+Write a program that prints letters from A to Z, letters from a to z, and digits from 0 to 9.
+
+</p>
+<h3>Solution</h3>
+<p>print-different-characters.cpp</p>
