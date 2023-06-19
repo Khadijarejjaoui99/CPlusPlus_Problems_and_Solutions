@@ -1097,3 +1097,14 @@ Write a program to sum odd numbers from 1 to N.
 </p>
 <h3>Solution</h3>
 <p>sum-odd-number-from-1-to-N.cpp</p>
+
+<h3>Problem 4</h3>
+<p>
+Write a program to sum even numbers from 1 to N.
+<br>Example input:
+<br>5
+<br>Output:
+<br>6
+</p>
+<h3>Solution</h3>
+<p>sum-even-number-from-1-to-N.cpp</p>

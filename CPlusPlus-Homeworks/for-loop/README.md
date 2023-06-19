@@ -47,7 +47,6 @@ Write a program to sum even numbers from 1 to N.
 <br>5
 <br>Output:
 <br>6
-
 </p>
 <h3>Solution</h3>
 <p>sum-even-number-from-1-to-N.cpp</p>
