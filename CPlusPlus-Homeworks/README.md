@@ -1055,3 +1055,19 @@ Create an enum that represents different countries (e.g., USA, Canada, Germany).
 </p>
 <h3>Solution</h3>
 <p>country-official-language.cpp</p>
+
+## for-loop
+
+<h3>Problem 1</h3>
+<p>
+Write a program that print from 1 to N.
+<br>Example input:
+<br>4
+<br>Output:
+<br>1
+<br>2
+<br>3
+4
+</p>
+<h3>Solution</h3>
+<p>print-from-1-to-N.cpp</p>
