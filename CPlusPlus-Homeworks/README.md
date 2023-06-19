@@ -1139,3 +1139,10 @@ Write a program that prints letters from A to Z, letters from a to z, and digits
 </p>
 <h3>Solution</h3>
 <p>print-different-characters.cpp</p>
+
+<h3>Problem 8</h3>
+<p>
+Write a program to calculate the sum of all numbers from 1 to N.
+</p>
+<h3>Solution</h3>
+<p>print-sum-from-1-to-N.cpp</p>
