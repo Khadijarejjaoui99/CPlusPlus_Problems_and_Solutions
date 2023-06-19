@@ -27,3 +27,15 @@ Write a program that print from N to 1.
 </p>
 <h3>Solution</h3>
 <p>print-from-N-to-1.cpp</p>
+
+<h3>Problem 3</h3>
+<p>
+Write a program to sum odd numbers from 1 to N.
+<br>Example input:
+<br>5
+<br>Output:
+<br>9
+
+</p>
+<h3>Solution</h3>
+<p>sum-odd-number-from-1-to-N.cpp</p>
