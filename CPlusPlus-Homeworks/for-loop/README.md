@@ -50,3 +50,14 @@ Write a program to sum even numbers from 1 to N.
 </p>
 <h3>Solution</h3>
 <p>sum-even-number-from-1-to-N.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Write a program to calculate Factorial of N!. Do not validate positive numbers.
+<br>Example input:
+<br>6
+<br>Output:
+<br>720
+</p>
+<h3>Solution</h3>
+<p>calculate-factorial.cpp</p>
