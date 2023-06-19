@@ -61,3 +61,15 @@ Write a program to calculate Factorial of N!. Do not validate positive numbers.
 </p>
 <h3>Solution</h3>
 <p>calculate-factorial.cpp</p>
+
+<h3>Problem 6</h3>
+<p>
+Write a program to ask the user to enter a number and power and print result
+<br>Example input:
+<br>2
+<br>4
+<br>Output:
+<br>16
+</p>
+<h3>Solution</h3>
+<p>calculate-power-of-M.cpp</p>
