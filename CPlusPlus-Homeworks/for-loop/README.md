@@ -88,3 +88,9 @@ Write a program to calculate the sum of all numbers from 1 to N.
 </p>
 <h3>Solution</h3>
 <p>print-sum-from-1-to-N.cpp</p>
+
+<h3>Problem 9</h3>
+<p>
+Write a program to calculate the product of numbers from 1 to N.</p>
+<h3>Solution</h3>
+<p>print-product-from-1-to-N.cpp</p>
