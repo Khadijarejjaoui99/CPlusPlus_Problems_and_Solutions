@@ -1159,6 +1159,6 @@ Write a program to calculate the product of numbers from 1 to N.</p>
 <p>
 Write a program to do the following:
 </p>
-<img src = "problem.PNG" alt = "problem 1">
+<img src = "for-loop-and-array/problem.PNG" alt = "problem 1">
 <h3>Solution</h3>
 <p>print-sum-and-array-average.cpp</p>
