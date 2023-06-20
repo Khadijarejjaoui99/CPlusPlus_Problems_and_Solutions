@@ -1152,3 +1152,13 @@ Write a program to calculate the sum of all numbers from 1 to N.
 Write a program to calculate the product of numbers from 1 to N.</p>
 <h3>Solution</h3>
 <p>print-product-from-1-to-N.cpp</p>
+
+## for-loop-and-array
+
+<h3>Problem 1</h3>
+<p>
+Write a program to do the following:
+</p>
+<img src = "problem.PNG" alt = "problem 1">
+<h3>Solution</h3>
+<p>print-sum-and-array-average.cpp</p>
