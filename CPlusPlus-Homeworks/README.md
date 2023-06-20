@@ -1170,3 +1170,10 @@ information from user for N number of persons.
 </p>
 <h3>Solution</h3>
 <p>read-info-from-N-persons.cpp</p>
+
+<h3>Problem 3</h3>
+<p>
+Create a program that reads the names and scores of 10 students from the user. Use an array of structures to store the information. Then, calculate and display the average score of the class.
+</p>
+<h3>Solution</h3>
+<p>class-average-score.cpp</p>
