@@ -1177,3 +1177,10 @@ Create a program that reads the names and scores of 10 students from the user. U
 </p>
 <h3>Solution</h3>
 <p>class-average-score.cpp</p>
+
+<h3>Problem 4</h3>
+<p>
+Write a program that prompts the user to enter the sales figures of 12 months for a company. Store the data in an array, where each element represents a month's sales. Display the total sales for each month and calculate the average monthly sales.
+</p>
+<h3>Solution</h3>
+<p>sales-analysis.cpp</p>
