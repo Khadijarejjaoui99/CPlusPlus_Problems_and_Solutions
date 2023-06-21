@@ -36,3 +36,10 @@ Create a program that allows the user to enter information about 5 books, includ
 </p>
 <h3>Solution</h3>
 <p>library-catalog.cpp</p>
+
+<h3>Problem 6</h3>
+<p>
+Design a program that allows the user to input the details of 10 products, such as name, price, and quantity. Use an array of structures to store the product information. Then, display the total value of each product (price * quantity) and calculate the overall inventory value.
+</p>
+<h3>Solution</h3>
+<p>products-inventory-values.cpp</p>
