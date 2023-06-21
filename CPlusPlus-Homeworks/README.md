@@ -1245,6 +1245,6 @@ Write a program to do the following:
 <p>
 Write a program to do the following:
 </p>
-<img src = "problem-6.PNG" alt = "problem 6">
+<img src = "for-nested-for-loop/problem-6.PNG" alt = "problem 6">
 <h3>Solution</h3>
 <p>print-characters-3.cpp</p>
