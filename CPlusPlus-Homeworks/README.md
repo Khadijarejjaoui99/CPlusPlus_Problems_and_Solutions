@@ -1264,11 +1264,3 @@ Write a program to do the following:
 <img src = "for-nested-for-loop/problem-8.PNG" alt = "problem 8">
 <h3>Solution</h3>
 <p>print-numbers-3.cpp</p>
-
-<h3>Problem 9</h3>
-<p>
-Write a program to do the following:
-</p>
-<img src = "for-nested-for-loop/problem-9.PNG" alt = "problem 9">
-<h3>Solution</h3>
-<p>print-numbers-4.cpp</p>
