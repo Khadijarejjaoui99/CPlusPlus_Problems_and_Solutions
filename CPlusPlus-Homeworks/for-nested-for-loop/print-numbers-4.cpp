@@ -9,7 +9,7 @@ void PrintNumbersPatter()
         {
             cout << j;
         }
-        cout << endl;
+        cout << "\n";
     }
 }
 
