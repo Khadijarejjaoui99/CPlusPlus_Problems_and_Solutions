@@ -55,3 +55,11 @@ Write a program to do the following:
 <img src = "problem-7.PNG" alt = "problem 7">
 <h3>Solution</h3>
 <p>print-stars-2.cpp</p>
+
+<h3>Problem 8</h3>
+<p>
+Write a program to do the following:
+</p>
+<img src = "problem-8.PNG" alt = "problem 8">
+<h3>Solution</h3>
+<p>print-numbers-3.cpp</p>
