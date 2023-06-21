@@ -6,4 +6,4 @@ Write a program to do the following:
 </p>
 <img src = "problem-1.PNG" alt = "problem 1">
 <h3>Solution</h3>
-<p>print-sum-and-array-average.cpp</p>
+<p>print-characters-1.cpp</p>
