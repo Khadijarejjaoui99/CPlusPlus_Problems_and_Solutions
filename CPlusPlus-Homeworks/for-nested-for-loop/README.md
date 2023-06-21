@@ -16,7 +16,7 @@ Write a program to do the following:
 <h3>Solution</h3>
 <p>print-stars-1.cpp</p>
 
-<h3>Problem 2</h3>
+<h3>Problem 3</h3>
 <p>
 Write a program to do the following:
 </p>
