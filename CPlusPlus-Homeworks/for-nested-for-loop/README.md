@@ -7,3 +7,11 @@ Write a program to do the following:
 <img src = "problem-1.PNG" alt = "problem 1">
 <h3>Solution</h3>
 <p>print-characters-1.cpp</p>
+
+<h3>Problem 2</h3>
+<p>
+Write a program to do the following:
+</p>
+<img src = "problem-2.PNG" alt = "problem 2">
+<h3>Solution</h3>
+<p>print-stars-1.cpp</p>
