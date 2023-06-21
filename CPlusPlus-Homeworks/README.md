@@ -1184,3 +1184,10 @@ Write a program that prompts the user to enter the sales figures of 12 months fo
 </p>
 <h3>Solution</h3>
 <p>sales-analysis.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Create a program that allows the user to enter information about 5 books, including their title, author, and publication year. Use an array of structures to store the book information. Then, display the details of each book in the catalog.
+</p>
+<h3>Solution</h3>
+<p>library-catalog.cpp</p>
