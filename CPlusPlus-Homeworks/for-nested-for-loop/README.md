@@ -39,3 +39,11 @@ Write a program to do the following:
 <img src = "problem-5.PNG" alt = "problem 5">
 <h3>Solution</h3>
 <p>print-characters-2.cpp</p>
+
+<h3>Problem 6</h3>
+<p>
+Write a program to do the following:
+</p>
+<img src = "problem-6.PNG" alt = "problem 6">
+<h3>Solution</h3>
+<p>print-characters-3.cpp</p>
