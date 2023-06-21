@@ -31,3 +31,11 @@ Write a program to do the following:
 <img src = "problem-4.PNG" alt = "problem 4">
 <h3>Solution</h3>
 <p>print-numbers-2.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Write a program to do the following:
+</p>
+<img src = "problem-5.PNG" alt = "problem 5">
+<h3>Solution</h3>
+<p>print-characters-2.cpp</p>
