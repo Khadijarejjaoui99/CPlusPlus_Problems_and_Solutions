@@ -52,3 +52,16 @@ Write a program to sum odd numbers from 1 to N.
 </p>
 <h3>Solution</h3>
 <p>sum-odd-numbers.cpp</p>
+
+<h3>Problem 8</h3>
+<p>
+Write a program to ask the user to enter a number and power and print result
+<br>Example Input:
+<br>2
+<br>4
+<br>Output:
+<br>16
+
+</p>
+<h3>Solution</h3>
+<p>calculate-power-of-M.cpp</p>
