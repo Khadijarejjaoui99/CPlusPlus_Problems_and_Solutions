@@ -1327,3 +1327,16 @@ Write a program to sum odd numbers from 1 to N.
 </p>
 <h3>Solution</h3>
 <p>print-letters-from-A-to-Z.cpp</p>
+
+<h3>Problem 10</h3>
+<p>
+ Write a program to read numbers from the user and sum them, keep reading
+until the user enter -99 then print the sum on the screen.
+<br>10
+<br>20
+<br>-99
+<br>Output:
+<br>30
+</p>
+<h3>Solution</h3>
+<p>sum-until-99.cpp</p>
