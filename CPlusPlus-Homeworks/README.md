@@ -1301,3 +1301,10 @@ Implement a program that counts the number of digits in a given positive integer
 </p>
 <h3>Solution</h3>
 <p>count-number-of-digits.cpp</p>
+
+<h3>Problem 6</h3>
+<p>
+Write a program that reads integers from the user until a negative number is entered, and then calculates the average of all the entered numbers.
+</p>
+<h3>Solution</h3>
+<p>read-positive-numbers-average.cpp</p>
