@@ -27,3 +27,10 @@ Develop a program that takes an integer input from the user and prints its multi
 </p>
 <h3>Solution</h3>
 <p>number-multiplication-table.cpp</p>
+
+<h3>Problem 5</h3>
+<p>
+Implement a program that counts the number of digits in a given positive integer using a while loop.
+</p>
+<h3>Solution</h3>
+<p>count-number-of-digits.cpp</p>
