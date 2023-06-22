@@ -1340,3 +1340,14 @@ until the user enter -99 then print the sum on the screen.
 </p>
 <h3>Solution</h3>
 <p>sum-until-99.cpp</p>
+
+<h3>Problem 11</h3>
+<p>
+ Write a program to read ATM PIN code from the user, then check if the PIN
+code = 1234, then show the balance to the user, otherwise print "Wrong PIN" and
+ask the user to enter the PIN again.
+Assume user balance is 7800.
+Only allow the user to enter the 3 times. If fails, print "Card is Locked"
+</p>
+<h3>Solution</h3>
+<p>atm-pin.cpp</p>
