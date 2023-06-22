@@ -1264,3 +1264,12 @@ Write a program to do the following:
 <img src = "for-nested-for-loop/problem-8.PNG" alt = "problem 8">
 <h3>Solution</h3>
 <p>print-numbers-3.cpp</p>
+
+## while-loop
+
+<h3>Problem 1</h3>
+<p>
+Write a program that prints all the even numbers from 1 to 20 using a while loop.
+</p>
+<h3>Solution</h3>
+<p>print-even-numbers.cpp</p>
