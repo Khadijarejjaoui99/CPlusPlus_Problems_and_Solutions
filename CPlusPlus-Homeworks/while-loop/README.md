@@ -41,3 +41,14 @@ Write a program that reads integers from the user until a negative number is ent
 </p>
 <h3>Solution</h3>
 <p>read-positive-numbers-average.cpp</p>
+
+<h3>Problem 7</h3>
+<p>
+Write a program to sum odd numbers from 1 to N.
+<br>Example input:
+<br>5
+<br>Output:
+<br>9
+</p>
+<h3>Solution</h3>
+<p>sum-odd-numbers.cpp</p>
