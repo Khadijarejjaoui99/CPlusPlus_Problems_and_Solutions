@@ -1287,3 +1287,10 @@ Write a program that calculates the factorial of a given number using a while lo
 </p>
 <h3>Solution</h3>
 <p>calculate-factorial.cpp</p>
+
+<h3>Problem 4</h3>
+<p>
+Develop a program that takes an integer input from the user and prints its multiplication table using a while loop.
+</p>
+<h3>Solution</h3>
+<p>number-multiplication-table.cpp</p>
