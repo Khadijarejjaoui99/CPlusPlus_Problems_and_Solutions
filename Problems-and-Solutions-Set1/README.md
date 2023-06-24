@@ -29,3 +29,16 @@ Write a program that ask the user to enter his/her:
 Write a program that ask the user to enter his/her:
 Then print "Hired" if s/he has recommendations or if his/her age is greater than
 21 years old and she/he has a driving license, otherwise print "Rejected".
+
+## Problem #6: Full Name
+
+Write a program that ask the user to enter his/her:
+<br> - First name
+<br> - Last name
+Write a program that ask the user to enter his/her:
+Then print the full name on the screen.
+<br> Example Input:
+<br> Khadija
+<br> Rejjaoui
+<br> Output:
+<br> Khadija Rejjaoui
