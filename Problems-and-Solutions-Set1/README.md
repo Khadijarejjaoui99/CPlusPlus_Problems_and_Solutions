@@ -35,7 +35,7 @@ Then print "Hired" if s/he has recommendations or if his/her age is greater than
 Write a program that ask the user to enter his/her:
 <br> - First name
 <br> - Last name
-Write a program that ask the user to enter his/her:
+<br> Write a program that ask the user to enter his/her:
 Then print the full name on the screen.
 <br> Example Input:
 <br> Khadija
