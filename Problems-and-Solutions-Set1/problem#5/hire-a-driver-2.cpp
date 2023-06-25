@@ -14,9 +14,9 @@ stInfo ReadInfo()
 
     cout << "Please enter your age:\n";
     cin >> Info.Age;
-    cout << "Do you have a driving licence:\n";
+    cout << "Do you have a driving licence?\n";
     cin >> Info.HasDrivingLicence;
-    cout << "Do you have a recommendation:\n";
+    cout << "Do you have a recommendation?\n";
     cin >> Info.HasRecommendation;
     return Info;
 }
