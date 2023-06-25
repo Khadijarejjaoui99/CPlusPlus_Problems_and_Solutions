@@ -7,3 +7,5 @@ Write a program that ask the user to enter his/her:
 <br> Write a program that ask the user to enter his/her:
 Then print "Hired" if s/he has recommendations or if his/her age is greater than
 21 years old and she/he has a driving license, otherwise print "Rejected".
+
+<img src = "p5-flow-chart.PNG" alt = "problem #5 flow chart">
