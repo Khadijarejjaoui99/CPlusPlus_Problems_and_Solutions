@@ -6,7 +6,7 @@ Write a program to print your name on the screen.
 
 Write a program to ask the user to enter his/her name and print it on the screen
 
-## Problem #3:
+## Problem #3: Check Odd or Even
 
 Write a program to ask the user to enter a number, then print "Odd" if it is odd,
 or "Even" if it is even.
