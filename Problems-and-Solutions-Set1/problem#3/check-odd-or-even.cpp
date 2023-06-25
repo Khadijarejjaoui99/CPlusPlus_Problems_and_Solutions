@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-enum enOddEven
+enum enNumberType
 {
     Even = 1,
     Odd = 2
@@ -17,19 +17,19 @@ int ReadNumber()
     return Num;
 }
 
-enOddEven CheckNumberType(int Num)
+enNumberType CheckNumberType(int Num)
 {
     int Result = Num % 2;
 
     if (Result == 0)
-        return enOddEven::Even;
+        return enNumberType::Even;
     else
-        return enOddEven::Odd;
+        return enNumberType::Odd;
 }
 
-void PrintNumberType(enOddEven NumberType)
+void PrintNumberType(enNumberType NumberType)
 {
-    if (NumberType == enOddEven::Even)
+    if (NumberType == enNumberType::Even)
         cout << "Number is Even\n";
     else
         cout << "Number is Odd\n";
