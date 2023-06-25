@@ -23,10 +23,7 @@ stInfo ReadInfo()
 
 bool IsAccepted(stInfo Info)
 {
-    if (Info.HasRecommendation)
-        return true;
-    else
-        return (Info.Age > 21 && Info.HasDrivingLicence);
+    return (Info.HasRecommendation || (Info.Age > 21 && Info.HasDrivingLicence));
 }
 
 void PrintResult(stInfo Info)
