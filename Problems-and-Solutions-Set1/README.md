@@ -42,3 +42,11 @@ Then print the full name on the screen.
 <br> Rejjaoui
 <br> Output:
 <br> Khadija Rejjaoui
+
+## Problem #7: Half number
+
+Write a program that ask the user to enter a number, then print "Half of (number) is (???)"on the screen.
+<br>Example Input:
+<br>50
+<br>Output:
+<br>Half of 50 is 25
