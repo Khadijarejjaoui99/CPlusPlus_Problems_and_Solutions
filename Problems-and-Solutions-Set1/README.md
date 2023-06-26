@@ -117,3 +117,12 @@ Write a program to ask the user to enter 3 numbers, then print the max number.
 
 Write a program to ask the user to enter 2 numbers, then print them, after that
 swap them and print them again
+
+## Problem #15: Rectangle Area I
+
+Write a program to calculate rectangle area and print it on the screen.
+<br>Example Input:
+<br>5
+<br>10
+<br>Output:
+<br>50
