@@ -59,3 +59,14 @@ is greater or equal to 50 , otherwise print fail
 <br>80
 <br>Output:
 <br>Pass
+
+## Problem #9: Sum of 3 numbers
+
+Write a program to ask the user to enter 3 numbers, then print sum of the
+entered numbers.
+<br>Example Input:
+<br>10
+<br>30
+<br>5
+<br>Output:
+<br>45
