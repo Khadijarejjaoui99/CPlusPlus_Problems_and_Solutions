@@ -93,3 +93,27 @@ average, if the average >= 50 print "Pass" otherwise print "Fail" .
 <br>Output:
 <br>60
 <br>"Pass"
+
+## Problem #12: Max of 2 numbers
+
+Write a program to ask the user to enter 2 numbers, then print the max number.
+<br>Example Input:
+<br>20
+<br>100
+<br>Output:
+<br>100
+
+## Problem #13: Max of 3 numbers
+
+Write a program to ask the user to enter 3 numbers, then print the max number.
+<br>Example Input:
+<br>20
+<br>100
+<br>300
+<br>Output:
+<br>300
+
+## Problem #14: Swap numbers
+
+Write a program to ask the user to enter 2 numbers, then print them, after that
+swap them and print them again
