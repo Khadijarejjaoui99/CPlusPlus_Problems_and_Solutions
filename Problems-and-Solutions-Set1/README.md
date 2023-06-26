@@ -50,3 +50,12 @@ Write a program that ask the user to enter a number, then print "Half of (number
 <br>50
 <br>Output:
 <br>Half of 50 is 25
+
+## Problem #8: Pass/Fail
+
+Write a program that ask the user to enter a mark, then print "Pass" if the mark
+is greater or equal to 50 , otherwise print fail
+<br>Example Input:
+<br>80
+<br>Output:
+<br>Pass
