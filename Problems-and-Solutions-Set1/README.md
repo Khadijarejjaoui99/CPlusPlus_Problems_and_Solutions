@@ -126,3 +126,4 @@ Write a program to calculate rectangle area and print it on the screen.
 <br>10
 <br>Output:
 <br>50
+<img src = "p15-rule.PNG" alt = "problem #15 rule">
