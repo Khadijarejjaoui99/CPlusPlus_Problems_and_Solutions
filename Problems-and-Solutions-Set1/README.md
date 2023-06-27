@@ -170,3 +170,13 @@ screen.
 <br>Output:
 <br>78.54
 <br><img src = "p19-rule.PNG" alt = "problem #19 rule">
+
+## Problem #20: Circle Area III
+
+Write a program to calculate circle area inscribed in a square, then print it on the
+screen.
+<br>Example Input:
+<br>10
+<br>Output:
+<br>78.54
+<br><img src = "p19-rule.PNG" alt = "problem #19 rule">
