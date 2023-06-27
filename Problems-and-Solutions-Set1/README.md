@@ -180,3 +180,13 @@ screen.
 <br>Output:
 <br>78.54
 <br><img src = "p20-rule.PNG" alt = "problem #20 rule">
+
+## Problem #21: Circle Area IV
+
+Write a program to calculate circle area along the circumstance, then print it on
+the screen.
+<br>Example Input:
+<br>20
+<br>Output:
+<br>31.847
+<br><img src = "p21-rule.PNG" alt = "problem #21 rule">
