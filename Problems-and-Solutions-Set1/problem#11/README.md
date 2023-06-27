@@ -9,4 +9,4 @@ average, if the average >= 50 print "Pass" otherwise print "Fail" .
 <br>Output:
 <br>60
 <br>"Pass"
-<img src = "p11-flow-chart.PNG" alt = "problem #11 flow chart">
+<br><img src = "p11-flow-chart.PNG" alt = "problem #11 flow chart">
