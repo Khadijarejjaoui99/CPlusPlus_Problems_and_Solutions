@@ -179,4 +179,4 @@ screen.
 <br>10
 <br>Output:
 <br>78.54
-<br><img src = "p19-rule.PNG" alt = "problem #19 rule">
+<br><img src = "p20-rule.PNG" alt = "problem #20 rule">
