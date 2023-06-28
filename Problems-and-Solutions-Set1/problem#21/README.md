@@ -1,6 +1,6 @@
 ## Problem #21: Circle Area IV
 
-Write a program to calculate circle area along the circumstance, then print it on
+Write a program to calculate circle area along the circumference, then print it on
 the screen.
 <br>Example Input:
 <br>20
