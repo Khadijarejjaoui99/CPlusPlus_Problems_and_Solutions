@@ -228,3 +228,15 @@ and 45 print "Valid Age" otherwise print "Invalid Age"
 Write a program to ask the user to enter his/ her age. If the age is between 18
 and 45 print "Valid Age" otherwise print "Invalid Age" and re-ask user to enter a
 valid age.
+
+## Problem #26: Print Numbers from 1 to N
+
+Write a program that print from 1 to N.
+<br>Example input:
+<br>5
+<br>Output:
+<br>1
+<br>2
+<br>3
+<br>4
+<br>5
