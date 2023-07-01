@@ -14,7 +14,7 @@ float ReadRadius()
 
 float CalculateCircleArea(float R)
 {
-    const float PI = 3.14;
+    const float PI = 3.141593;
 
     return PI * pow(R, 2);
 }
