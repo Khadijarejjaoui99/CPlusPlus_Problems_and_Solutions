@@ -12,9 +12,9 @@ float ReadSquareSide()
     return A;
 }
 
-float CircleAreaInscribedBySquare(float A)
+float CircleAreaInscribedInSquare(float A)
 {
-    const float PI = 3.14;
+    const float PI = 3.141593;
 
     return (PI * pow(A, 2)) / 4;
 }
@@ -26,7 +26,7 @@ void PrintArea(float Area)
 
 int main()
 {
-    PrintArea(CircleAreaInscribedBySquare(ReadSquareSide()));
+    PrintArea(CircleAreaInscribedInSquare(ReadSquareSide()));
 
     return 0;
 }
