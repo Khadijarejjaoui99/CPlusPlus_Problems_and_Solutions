@@ -14,7 +14,7 @@ float ReadDiameter()
 
 float CircleAreaThroughDiameter(float D)
 {
-    const float PI = 3.14;
+    const float PI = 3.141593;
 
     return (PI * pow(D, 2)) / 4;
 }
