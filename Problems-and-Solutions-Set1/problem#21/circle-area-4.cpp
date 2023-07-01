@@ -14,7 +14,7 @@ float ReadCircumference()
 
 float CircleAreaAlongCircumference(float L)
 {
-    const float PI = 3.14;
+    const float PI = 3.141593;
 
     return pow(L, 2) / (4 * PI);
 }
