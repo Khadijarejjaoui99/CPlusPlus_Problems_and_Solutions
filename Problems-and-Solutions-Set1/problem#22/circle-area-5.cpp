@@ -14,7 +14,7 @@ float ReadNumber(string Msg)
 
 float CircleAreaInscribedByIsosTriangle(float A, float B)
 {
-    const float PI = 3.14;
+    const float PI = 3.141593;
 
     float Area = (PI * pow(B, 2) / 4) * ((2 * A - B) / (2 * A + B));
 
@@ -28,8 +28,8 @@ void PrintArea(float Area)
 
 int main()
 {
-    float A = ReadNumber("Please enter leg length A:");
-    float B = ReadNumber("Please enter Base B:");
+    float A = ReadNumber("Please enter triangle Side A:");
+    float B = ReadNumber("Please enter triangle Base B:");
 
     PrintArea(CircleAreaInscribedByIsosTriangle(A, B));
 
