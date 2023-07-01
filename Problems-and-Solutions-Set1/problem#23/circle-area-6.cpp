@@ -14,7 +14,7 @@ float ReadNumber(string Msg)
 
 float CircleAreaDescribedAroundArbTriangle(float A, float B, float C)
 {
-    const float PI = 3.14;
+    const float PI = 3.141593;
 
     float P = (A + B + C) / 2;
 
@@ -32,9 +32,9 @@ void PrintArea(float Area)
 
 int main()
 {
-    float A = ReadNumber("Please enter leg length A:");
-    float B = ReadNumber("Please enter Base B:");
-    float C = ReadNumber("Please enter leg length C:");
+    float A = ReadNumber("Please enter triangle Side A:");
+    float B = ReadNumber("Please enter triangle Base B:");
+    float C = ReadNumber("Please enter triangle Side C:");
 
     PrintArea(CircleAreaDescribedAroundArbTriangle(A, B, C));
 
