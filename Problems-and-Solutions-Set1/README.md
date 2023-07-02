@@ -277,7 +277,8 @@ Write a program to calculate Factorial of N!
 <br>Output:
 <br>720
 
-Problem #31: Power of 2,3,4
+## Problem #31: Power of 2,3,4
+
 Write a program to ask the user to enter a number and print number^2,
 number^3, number^4
 <br>Example Input:
