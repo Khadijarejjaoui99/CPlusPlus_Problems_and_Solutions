@@ -332,3 +332,13 @@ Write a program to ask the user to enter his/ her mark and print his/her grade.
 <br>110,000
 <br>Output
 <br>3,300
+
+## Problem #36: Piggy Bank Calculator
+
+Write a program to ask the user to enter Pennies, Nickels, Dimes, Quarters,
+Dollars. Print the TotalPennies and TotalDollars.
+<br>Penny = 1
+<br>Nickel = 5
+<br>Dime = 10
+<br>Quarter = 25
+<br>Dollar = 100
