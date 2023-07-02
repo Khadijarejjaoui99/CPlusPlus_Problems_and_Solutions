@@ -14,9 +14,9 @@ int ReadNumber()
     return Number;
 }
 
-int FactorialUsingForLoop(int N)
+int Factorial(int N)
 {
-    cout << "Factorial Using For Loop: ";
+    cout << "Factorial = ";
 
     int Factorial = 1;
 
@@ -28,39 +28,11 @@ int FactorialUsingForLoop(int N)
     return Factorial;
 }
 
-int FactorialUsingWhileLoop(int N)
-{
-    cout << "Factorial Using While Loop: ";
-
-    int i = N, Factorial = 1;
-
-    while (i >= 1)
-    {
-        Factorial *= i;
-        i--;
-    }
-    return Factorial;
-}
-
-int FactorialUsingDoWhileLoop(int N)
-{
-    cout << "Factorial Using Do...While Loop: ";
-
-    int i = N + 1, Factorial = 1;
-
-    do
-    {
-        i--;
-        Factorial *= i;
-    } while (i > 1);
-    return Factorial;
-}
 int main()
 {
     int N = ReadNumber();
 
-    cout << FactorialUsingForLoop(N) << endl;
-    cout << FactorialUsingWhileLoop(N) << endl;
-    cout << FactorialUsingDoWhileLoop(N) << endl;
+    cout << Factorial(N) << endl;
+
     return 0;
 }
