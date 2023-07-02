@@ -1,4 +1,5 @@
-Problem #32: Power of M
+## Problem #33: Power of M
+
 Write a program to ask the user to enter a number and power and print result
 <br>Example Input:
 <br>2

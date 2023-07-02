@@ -300,10 +300,21 @@ number^3, number^4
 <br>27
 <br>81
 
-Problem #32: Power of M
+## Problem #33: Power of M
+
 Write a program to ask the user to enter a number and power and print result
 <br>Example Input:
 <br>2
 <br>4
 <br>Output:
 <br>16
+
+## Problem #34: Grade A,B,C,D,E,F
+
+Write a program to ask the user to enter his/ her mark and print his/her grade.
+<br>90 - 100 Print A.
+<br>80 - 89 Print B.
+<br>70 - 79 Print C.
+<br>60 - 69 Print D.
+<br>50 - 59 Print E.
+<br>Otherwise Print F.
