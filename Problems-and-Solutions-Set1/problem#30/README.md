@@ -3,7 +3,6 @@
 You are tasked with creating a program that calculates the sum of numbers based on user input. The program should provide the user with options to choose what type of numbers they want to include in the sum: all numbers, even numbers, or odd numbers. The program should then calculate the sum based on the selected option and display the result.
 
 <br>Requirements:
-
 <br>1. The program should prompt the user to enter a number.
 <br>2. The program should provide the following options for the user to select what type of numbers they want to include in the sum:
 <br>a. Sum All Numbers: Calculate the sum of all numbers from 1 to the user-entered number.
