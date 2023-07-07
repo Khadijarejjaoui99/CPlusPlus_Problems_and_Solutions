@@ -425,3 +425,7 @@ Write a program to ask the user to enter day number and print the day name.
 <br>5 print Thursday
 <br>6 print Friday
 <br>7 print Saturday
+
+## Problem #45: Print from A to Z
+
+Write a program that prints letters from A to Z.
