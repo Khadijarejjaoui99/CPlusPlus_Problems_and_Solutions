@@ -387,3 +387,8 @@ print TotalBill on screen.
 <br>100
 <br>Output:
 <br>127.6
+
+## Problem #41: Weeks and Days
+
+Write a program to read NumberOfHours and calculate the number of weeks
+and days included in that number.
