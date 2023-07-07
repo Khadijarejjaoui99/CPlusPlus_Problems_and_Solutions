@@ -351,7 +351,7 @@ Write a program to ask the user to enter two numbers and operation type.
 <br>"\*" Multiply two numbers
 <br>"/" Divide two numbers
 
-## Problem #37: Sum Until -99
+## Problem #38: Sum Until -99
 
 Write a program to read numbers from the user and sum them, keep reading
 until the user enter -99 then print the sum on the screen.
@@ -361,7 +361,7 @@ until the user enter -99 then print the sum on the screen.
 <br>Output:
 <br>30
 
-## Problem #38: Is Prime Number
+## Problem #39: Is Prime Number
 
 Write a program to read a number and check if it is a prime number or not. Print
 "Prime" if it is prime, and "Not Prime" otherwise.
@@ -370,7 +370,7 @@ A prime number can only be divided by 1 and itself.
 <br>Output:
 <br>Prime
 
-## Problem #39: Pay Remainder
+## Problem #40: Pay Remainder
 
 Write a program to read TotalBill and CashPaid and calculate the remainder to
 be paid back.
@@ -379,7 +379,7 @@ be paid back.
 <br>Output:
 <br>30
 
-## Problem #40: Service Fee and Sales Tax
+## Problem #41: Service Fee and Sales Tax
 
 A restaurant charges 10% service fees and 16% sales tax.
 Write a program to read BillValue and add service fees and sales tax to it, and
@@ -388,12 +388,12 @@ print TotalBill on screen.
 <br>Output:
 <br>127.6
 
-## Problem #41: Weeks and Days
+## Problem #42: Weeks and Days
 
 Write a program to read NumberOfHours and calculate the number of weeks
 and days included in that number.
 
-## Problem #42:Task Duration In Seconds
+## Problem #43:Task Duration In Seconds
 
 Write a program to calculate the task duration in seconds and print it on the
 screen. -> Given the time duration of task in the number of days, hours, minutes,
@@ -406,7 +406,7 @@ and seconds.
 <br>Output:
 <br>193,535 Seconds
 
-## Problem #43:Seconds to Days Hours Minutes Seconds
+## Problem #44:Seconds to Days Hours Minutes Seconds
 
 Write a program that takes number of seconds as inputs and change it into
 days, hours, minutes, and seconds.
@@ -415,7 +415,7 @@ days, hours, minutes, and seconds.
 <br>Output:
 <br>2:5:45:35
 
-## Problem #44: Day Of Week
+## Problem #45: Day Of Week
 
 Write a program to ask the user to enter day number and print the day name.
 <br>1 print Sunday
@@ -426,6 +426,6 @@ Write a program to ask the user to enter day number and print the day name.
 <br>6 print Friday
 <br>7 print Saturday
 
-## Problem #45: Print from A to Z
+## Problem #46: Print from A to Z
 
 Write a program that prints letters from A to Z.
