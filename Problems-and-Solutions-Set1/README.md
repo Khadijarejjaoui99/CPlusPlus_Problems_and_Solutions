@@ -352,6 +352,7 @@ Write a program to ask the user to enter two numbers and operation type.
 <br>"/" Divide two numbers
 
 ## Problem #37: Sum Until -99
+
 Write a program to read numbers from the user and sum them, keep reading
 until the user enter -99 then print the sum on the screen.
 <br>10
@@ -359,3 +360,12 @@ until the user enter -99 then print the sum on the screen.
 <br>-99
 <br>Output:
 <br>30
+
+## Problem #38: Is Prime Number
+
+Write a program to read a number and check if it is a prime number or not. Print
+"Prime" if it is prime, and "Not Prime" otherwise.
+A prime number can only be divided by 1 and itself.
+<br>5
+<br>Output:
+<br>Prime
