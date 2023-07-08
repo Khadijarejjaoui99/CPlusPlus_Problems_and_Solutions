@@ -469,6 +469,12 @@ to settle the loan, and calculate the monthly installments.
 ## Problem #50: ATM PIN
 
 Write a program to read ATM PIN code from the user, then check if the PIN code
+= 1234, then show the balance to the user, otherwise print "Wrong PIN"
+Assume user balance is 7800.
+
+## Problem #51: ATM PIN 2
+
+Write a program to read ATM PIN code from the user, then check if the PIN code
 = 1234, then show the balance to the user, otherwise print "Wrong PIN" and ask
 the user to enter the PIN again.
 Assume user balance is 7800.
