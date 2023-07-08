@@ -9,7 +9,7 @@ float ReadPositiveNumber(string Msg)
     {
         cout << Msg << endl;
         cin >> Num;
-    } while (Num < 0);
+    } while (Num <= 0);
     return Num;
 }
 
