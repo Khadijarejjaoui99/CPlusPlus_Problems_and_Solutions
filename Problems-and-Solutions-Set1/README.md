@@ -445,3 +445,13 @@ Write a program to ask the user to enter month number and print the month name.
 ## Problem #47: Print from A to Z
 
 Write a program that prints letters from A to Z.
+
+## Problem #48: Loan Instalment Months
+
+Write a program to read a LoanAmount and a MonthlyPayment and calculate
+how many months you need to settle the loan
+<br>Example input:
+<br>5000
+<br>500
+<br>Output:
+<br>10 months
