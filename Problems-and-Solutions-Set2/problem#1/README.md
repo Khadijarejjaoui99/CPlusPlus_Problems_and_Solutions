@@ -2,4 +2,4 @@
 
 Write a program to print the multiplication table as the following:
 
-<img src = "problem#1.png" alt = "Multiplication table">
+<img src = "problem1.png" alt = "Multiplication table">

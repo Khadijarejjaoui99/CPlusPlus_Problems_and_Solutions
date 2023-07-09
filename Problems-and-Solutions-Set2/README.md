@@ -4,4 +4,4 @@ Problems and Solutions Set 2
 
 Write a program to print the multiplication table as the following:
 
-<img src = "./problem#1/problem#1.png" alt = "Multiplication table">
+<img src = "./problem#1/problem1.png" alt = "Multiplication table">
