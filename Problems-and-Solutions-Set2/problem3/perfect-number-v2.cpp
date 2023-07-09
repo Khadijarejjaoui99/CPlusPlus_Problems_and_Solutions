@@ -1,12 +1,6 @@
 #include <iostream>
 using namespace std;
 
-enum enPerfectNotPerfect
-{
-    Perfect = 1,
-    NotPerfect = 2
-};
-
 int ReadPositiveNumber()
 {
     int Num;
