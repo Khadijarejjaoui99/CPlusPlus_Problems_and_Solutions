@@ -6,7 +6,9 @@ Write a program to check if the number is perfect or not.
 <br> Ex: 6 = 1 + 2 + 3
 <br> Example Input:
 <br> 28
+<br> Output:
 <br> 28 is perfect
 <br> Example Input:
 <br> 12
+<br> Output:
 <br> 12 is not perfect
