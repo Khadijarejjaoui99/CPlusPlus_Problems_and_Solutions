@@ -1,4 +1,4 @@
-## Perfect Number:
+## Problem#3:Perfect Number:
 
 Write a program to check if the number is perfect or not.
 <br>Note: Prfect Number = Sum (all divisors).

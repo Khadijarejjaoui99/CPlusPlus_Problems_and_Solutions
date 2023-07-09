@@ -18,7 +18,7 @@ Write a program to print all prime numbers from 1 to N.
 <br>5
 <br>7
 
-## Perfect Number:
+## Problem#3:Perfect Number:
 
 Write a program to check if the number is perfect or not.
 <br>Note: Prfect Number = Sum (all divisors).
