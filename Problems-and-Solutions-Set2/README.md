@@ -112,3 +112,13 @@ Write a program to read a number and check if it palindrome.
 <br>1234
 <br>Ouput:
 <br>Yes, it is a Plaindrome Number.
+
+## Problem12: Inverted Number Pattern:
+
+Write a program to read a number and print inverted pattern as follows:
+<br> Input:
+<br> 3
+<br> Output
+<br> 333
+<br> 22
+<br> 1
