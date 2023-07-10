@@ -122,3 +122,13 @@ Write a program to read a number and print inverted pattern as follows:
 <br> 333
 <br> 22
 <br> 1
+
+## Problem13: Number Pattern
+
+Write a program to read a number and print number pattern as follows:
+<br> Input:
+<br> 3
+<br> Output
+<br> 1
+<br> 22
+<br> 333
