@@ -69,3 +69,12 @@ Write a program to read a number and print its reversed.
 <br> 1234
 <br>Output:
 <br>4321
+
+## Problem8: Digits Frequency
+
+Write a program to read a number and a digit, then print digits frequency in that number.
+<br> Example Input:
+<br> 1223222
+<br> 2
+<br> Output:
+<br> Digit 2 Frequency is 5 Time(s).
