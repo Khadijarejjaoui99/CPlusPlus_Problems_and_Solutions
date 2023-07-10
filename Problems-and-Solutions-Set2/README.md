@@ -1,12 +1,12 @@
 Problems and Solutions Set 2
 
-## Problem#1: Multiplication Table 1 To 10
+## Problem1: Multiplication Table 1 To 10
 
 Write a program to print the multiplication table as the following:
 
 <img src = "./problem1/problem1.png" alt = "Multiplication table">
 
-## Problem#2: Print Prime Numbers From 1 To N
+## Problem2: Print Prime Numbers From 1 To N
 
 Write a program to print all prime numbers from 1 to N.
 <br> Example Input:
@@ -18,7 +18,7 @@ Write a program to print all prime numbers from 1 to N.
 <br>5
 <br>7
 
-## Problem#3:Perfect Number:
+## Problem3:Perfect Number:
 
 Write a program to check if the number is perfect or not.
 <br>Note: Prfect Number = Sum (all divisors).
@@ -33,7 +33,7 @@ Write a program to check if the number is perfect or not.
 <br> Output:
 <br> 12 is not perfect
 
-## Problem#4: Perfect Numbers From 1 To N
+## Problem4: Perfect Numbers From 1 To N
 
 Write a program to print all perfect numbers from 1 to N.
 <br> Example Input:
@@ -43,7 +43,7 @@ Write a program to print all perfect numbers from 1 to N.
 <br>28
 <br>496
 
-## Problem#5: Print Digits in Reversed Order:
+## Problem5: Print Digits in Reversed Order:
 
 Write a program to read a number and print it in the reversed order.
 <br> Input:
@@ -53,3 +53,11 @@ Write a program to read a number and print it in the reversed order.
 <br>3
 <br>2
 <br>1
+
+## Problem6: Sum all digits:
+
+Write a program to read a number and print the sum of its digits.
+<br> Example Input:
+<br> 1234
+<br> Output:
+<br> Sum Of Digits = 10

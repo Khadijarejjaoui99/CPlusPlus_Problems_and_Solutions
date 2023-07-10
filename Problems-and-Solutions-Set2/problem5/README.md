@@ -1,4 +1,4 @@
-## Problem#5: Print Digits in Reversed Order:
+## Problem5: Print Digits in Reversed Order:
 
 Write a program to read a number and print it in the reversed order.
 <br> Input:

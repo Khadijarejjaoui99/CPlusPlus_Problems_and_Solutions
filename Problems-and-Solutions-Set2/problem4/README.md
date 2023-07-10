@@ -1,4 +1,4 @@
-## Problem#4: Perfect Numbers From 1 To N
+## Problem4: Perfect Numbers From 1 To N
 
 Write a program to print all perfect numbers from 1 to N.
 <br> Example Input:

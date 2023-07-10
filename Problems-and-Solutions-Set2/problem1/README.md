@@ -1,4 +1,4 @@
-## Problem#1: Multiplication Table 1 To 10
+## Problem1: Multiplication Table 1 To 10
 
 Write a program to print the multiplication table as the following:
 
