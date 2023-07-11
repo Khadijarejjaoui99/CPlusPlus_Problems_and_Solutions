@@ -1,4 +1,4 @@
-## Problem23: Repeated Element Count In An Array
+## Problem22: Repeated Element Count In An Array
 
 Write a program to N numbers and store them in an array the print all array elements and ask for a number to check, then print how many times that number is repeated in an array.
 <br>Example:
