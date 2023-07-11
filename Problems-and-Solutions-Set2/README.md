@@ -221,7 +221,7 @@ write a program to generate random keys.
 <br>Key [4]: NIOL-HDEY-BIHB-TKVM
 <br>Key [5]: OVKK-UQBX-OLGF-IJMX
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem23" >Problem22: Repeated Element Count In An Array</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem22" >Problem22: Repeated Element Count In An Array</a>
 
 Write a program to N numbers and store them in an array the print all array elements and ask for a number to check, then print how many times that number is repeated in an array.
 <br>Example:
