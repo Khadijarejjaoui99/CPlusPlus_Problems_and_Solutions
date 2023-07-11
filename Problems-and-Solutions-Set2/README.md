@@ -1,6 +1,6 @@
 Problems and Solutions Set 2
 
-## Problem1: Multiplication Table 1 To 10
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem1" >Problem1: Multiplication Table 1 To 10</a>
 
 Write a program to print the multiplication table as the following:
 
