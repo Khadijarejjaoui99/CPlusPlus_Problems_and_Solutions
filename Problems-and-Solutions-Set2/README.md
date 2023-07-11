@@ -237,3 +237,11 @@ Write a program to N numbers and store them in an array the print all array elem
 <br>1
 <br>Original Array: 1 1 1 2 3
 <br>1 is repeated 3 time(s)
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem23" >Problem23: Fill Array With Random Numbers From 1 To 100 </a>
+
+Write a program to N numbers and fill the array with random numbers from 1 to 100 and print the array.
+<br>Example:
+<br>How many elements do you want in the array:
+<br>10
+<br>Array Elements: 71 56 45 27 56 96 87 42 90 13
