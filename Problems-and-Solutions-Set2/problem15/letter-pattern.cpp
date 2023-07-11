@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int ReadPositiveNumber()
+int ReadPositiveNumber(string Msg)
 {
     int Number;
 
     do
     {
-        cout << "Please enter a positive number:\n";
+        cout << Msg << endl;
         cin >> Number;
     } while (Number <= 0);
 
@@ -28,6 +28,6 @@ void PrintLettersPattern(int Number)
 
 int main()
 {
-    PrintLettersPattern(ReadPositiveNumber());
+    PrintLettersPattern(ReadPositiveNumber("Please enter a positive number"));
     return 0;
 }
