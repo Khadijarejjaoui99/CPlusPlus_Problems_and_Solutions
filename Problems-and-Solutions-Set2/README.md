@@ -189,3 +189,11 @@ Write a program to raed a name and encrypt it then decrypt it
 <br> Text Before Encryption = Khadija
 <br> Text After Encryption = Mjcfklc
 <br> Text After Decryption = Khadija
+
+## Problem19: Random 3 Numbers From 1 To 10
+
+Write a program to print 3 random number from 1 to 10
+<br>Output:
+<br>9
+<br>5
+<br>3
