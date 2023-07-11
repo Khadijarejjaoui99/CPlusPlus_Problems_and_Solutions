@@ -197,3 +197,12 @@ Write a program to print 3 random number from 1 to 10
 <br>9
 <br>5
 <br>3
+
+## Problem20: Small Letter, Capital Letter, Special Character, Digit
+
+Write a program to print random Small Letter, Capital Letter, Special Character, Digit
+<br> Example Output:
+<br> a
+<br> G
+<br> $
+<br> 3
