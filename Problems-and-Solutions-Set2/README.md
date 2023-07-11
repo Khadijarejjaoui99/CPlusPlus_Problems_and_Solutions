@@ -6,7 +6,7 @@ Write a program to print the multiplication table as the following:
 
 <img src = "./problem1/problem1.png" alt = "Multiplication table">
 
-## Problem2: Print Prime Numbers From 1 To N
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem2" >Problem2: Print Prime Numbers From 1 To N</a>
 
 Write a program to print all prime numbers from 1 to N.
 <br> Example Input:
@@ -18,7 +18,7 @@ Write a program to print all prime numbers from 1 to N.
 <br>5
 <br>7
 
-## Problem3:Perfect Number:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem3" >Problem3:Perfect Number:</a>
 
 Write a program to check if the number is perfect or not.
 <br>Note: Prfect Number = Sum (all divisors).
@@ -33,7 +33,7 @@ Write a program to check if the number is perfect or not.
 <br> Output:
 <br> 12 is not perfect
 
-## Problem4: Perfect Numbers From 1 To N
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem4" >Problem4: Perfect Numbers From 1 To N</a>
 
 Write a program to print all perfect numbers from 1 to N.
 <br> Example Input:
@@ -43,7 +43,7 @@ Write a program to print all perfect numbers from 1 to N.
 <br>28
 <br>496
 
-## Problem5: Print Digits in Reversed Order:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem5" >Problem5: Print Digits in Reversed Order:</a>
 
 Write a program to read a number and print it in the reversed order.
 <br> Input:
@@ -54,7 +54,7 @@ Write a program to read a number and print it in the reversed order.
 <br>2
 <br>1
 
-## Problem6: Sum all digits:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem6" >Problem6: Sum all digits:</a>
 
 Write a program to read a number and print the sum of its digits.
 <br> Example Input:
@@ -62,7 +62,7 @@ Write a program to read a number and print the sum of its digits.
 <br> Output:
 <br> Sum Of Digits = 10
 
-## Problem7: Reversed Number
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem7" >Problem7: Reversed Number</a>
 
 Write a program to read a number and print its reversed.
 <br> Example Input:
@@ -70,7 +70,7 @@ Write a program to read a number and print its reversed.
 <br>Output:
 <br>4321
 
-## Problem8: Digits Frequency
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem8" >Problem8: Digits Frequency</a>
 
 Write a program to read a number and a digit, then print digits frequency in that number.
 <br> Example Input:
@@ -79,7 +79,7 @@ Write a program to read a number and a digit, then print digits frequency in tha
 <br> Output:
 <br> Digit 2 Frequency is 5 Time(s).
 
-## Problem9: Digits Frquency
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem9" >Problem9: Digits Frquency</a>
 
 Write a program that reads a number and prints all digits frequencies in that number.
 <br>Input:
@@ -89,7 +89,7 @@ Write a program that reads a number and prints all digits frequencies in that nu
 <br>Digit 2 Frequency is 5 Time(s).
 <br>Digit 3 Frequency is 1 Time(s).
 
-## Problem10: Print digits in order
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem10" >Problem10: Print digits in order</a>
 
 Write a program to read a number and print it in order from left to right.
 <br>Example Input:
@@ -100,7 +100,7 @@ Write a program to read a number and print it in order from left to right.
 <br>3
 <br>4
 
-## Problem11: Palindrome Number
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem11" >Problem11: Palindrome Number</a>
 
 Write a program to read a number and check if it palindrome.
 <br>Note: Palindrom is a number that reads the same from the right and left
@@ -113,8 +113,9 @@ Write a program to read a number and check if it palindrome.
 <br>Ouput:
 <br>Yes, it is a Plaindrome Number.
 
-## Problem12: Inverted Number Pattern:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem12" >Problem12: Inverted Number Pattern:
 
+</a>
 Write a program to read a number and print inverted pattern as follows:
 <br> Input:
 <br> 3
@@ -123,7 +124,7 @@ Write a program to read a number and print inverted pattern as follows:
 <br> 22
 <br> 1
 
-## Problem13: Number Pattern
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem13" >Problem13: Number Pattern</a>
 
 Write a program to read a number and print number pattern as follows:
 <br> Input:
@@ -133,7 +134,7 @@ Write a program to read a number and print number pattern as follows:
 <br> 22
 <br> 333
 
-## Problem14: Inverted Letter Pattern:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem14" >Problem14: Inverted Letter Pattern:</a>
 
 Write a program to read a number and print inverted pattern as follows:
 <br> Input:
@@ -143,7 +144,7 @@ Write a program to read a number and print inverted pattern as follows:
 <br> BB
 <br> A
 
-## Problem15: Letter Pattern:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem15" >Problem15: Letter Pattern:</a>
 
 Write a program to read a number and print inverted pattern as follows:
 <br> Input:
@@ -153,7 +154,7 @@ Write a program to read a number and print inverted pattern as follows:
 <br> BB
 <br> CCC
 
-## Problem16: All Words From AAA To ZZZ:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem16" >Problem16: All Words From AAA To ZZZ:</a>
 
 Write a program to print all the words from AAA to ZZZ.
 <br> Output
@@ -165,8 +166,8 @@ Write a program to print all the words from AAA to ZZZ.
 <br> .
 <br> ZZZ
 
-## Problem17: Guess a 3-Letters Password
-
+##<a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem17" > Problem17: Guess a 3-Letters Password</a>
+</a>
 Write a program to guess 3-Letters Password (all capital)
 <br>Example Input:
 <br>AAF
@@ -180,7 +181,7 @@ Write a program to guess 3-Letters Password (all capital)
 <br>Password is AAF
 <br>Found After 6 Trial(s)
 
-## Problem18: Encryption Decryption Name:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem18" >Problem18: Encryption Decryption Name:</a>
 
 Write a program to raed a name and encrypt it then decrypt it
 <br> Input:
@@ -190,7 +191,7 @@ Write a program to raed a name and encrypt it then decrypt it
 <br> Text After Encryption = Mjcfklc
 <br> Text After Decryption = Khadija
 
-## Problem19: Random 3 Numbers From 1 To 10
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem19" >Problem19: Random 3 Numbers From 1 To 10</a>
 
 Write a program to print 3 random number from 1 to 10
 <br>Output:
@@ -198,7 +199,7 @@ Write a program to print 3 random number from 1 to 10
 <br>5
 <br>3
 
-## Problem20: Small Letter, Capital Letter, Special Character, Digit
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem20" >Problem20: Small Letter, Capital Letter, Special Character, Digit</a>
 
 Write a program to print random Small Letter, Capital Letter, Special Character, Digit
 <br> Example Output:
@@ -207,7 +208,7 @@ Write a program to print random Small Letter, Capital Letter, Special Character,
 <br> $
 <br> 3
 
-## Problem21: Generate Random keys:
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem21" >Problem21: Generate Random keys:</a>
 
 write a program to generate random keys.
 <br>Input:
@@ -219,7 +220,7 @@ write a program to generate random keys.
 <br>Key [4]: NIOL-HDEY-BIHB-TKVM
 <br>Key [5]: OVKK-UQBX-OLGF-IJMX
 
-## Problem23: Repeated Element Count In An Array
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem23" >Problem23: Repeated Element Count In An Array</a>
 
 Write a program to N numbers and store them in an array the print all array elements and ask for a number to check, then print how many times that number is repeated in an array.
 <br>Example:
