@@ -166,7 +166,8 @@ Write a program to print all the words from AAA to ZZZ.
 <br> .
 <br> ZZZ
 
-##<a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem17" > Problem17: Guess a 3-Letters Password</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem17" > Problem17: Guess a 3-Letters Password</a>
+
 </a>
 Write a program to guess 3-Letters Password (all capital)
 <br>Example Input:
