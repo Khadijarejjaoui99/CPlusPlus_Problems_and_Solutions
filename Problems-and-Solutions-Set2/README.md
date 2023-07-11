@@ -179,3 +179,13 @@ Write a program to guess 3-Letters Password (all capital)
 <br>Trial [6]: AAF
 <br>Password is AAF
 <br>Found After 6 Trial(s)
+
+## Problem18: Encryption Decryption Name:
+
+Write a program to raed a name and encrypt it then decrypt it
+<br> Input:
+<br> Khadija
+<br> Output:
+<br> Text Before Encryption = Khadija
+<br> Text After Encryption = Mjcfklc
+<br> Text After Decryption = Khadija
