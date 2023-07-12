@@ -312,3 +312,14 @@ Write a program to fill two arrays of max size of 100 with random numbers from 1
 <br>21 87 40 47 100 19 87 68 34 57
 <br>Sum of Array 1 and Array 2:
 <br>52 178 61 131 186 46 89 165 36 129
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem31" >Problem31: Shuffle Array</a>
+
+Write a program to fill array with ordered numbers from 1 to N, then print it. After that shuffle the array and print it after shuffling.
+<br>Example:
+<br>How many elements do you want in the array (1 to 100):
+<br>10
+<br>Array Before Shuffle:
+<br>1 2 3 4 5 6 7 8 9 10
+<br>Array After Shuffle:
+<br>1 2 10 4 5 3 7 6 9 8
