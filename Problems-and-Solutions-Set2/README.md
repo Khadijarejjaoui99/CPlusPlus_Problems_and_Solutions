@@ -290,3 +290,12 @@ Write a program to fill array of max size of 100 with random numbers from 1 to 1
 <br>10
 <br>Array Elements are: 24 56 77 23 15 88 84 6 82 34
 <br>Array Copy Elements are: 24 56 77 23 15 88 84 6 82 34
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem29" >Problem29: Copy Only Prime Elements In An Array </a>
+
+Write a program to fill array of max size of 100 with random numbers from 1 to 100 then copy only prime numbers to another array and print them.
+<br>Example:
+<br>How many elements do you want in the array (1 to 100):
+<br>10
+<br>Array Elements are: 12 100 91 75 72 97 21 22 8 25
+<br>Array Copy Prime Elements are: 97
