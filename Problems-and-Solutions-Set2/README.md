@@ -281,3 +281,12 @@ Write a program to N numbers and fill the array with random numbers from 1 to 10
 <br>10
 <br>Array elements are: 83 58 66 19 64 85 76 83 37 16
 <br>Average of All Numbers is: 58.7
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem28" >Problem28: Copy Array</a>
+
+Write a program to fill array of max size of 100 with random numbers from 1 to 100 then copy it to another array and print them.
+<br>Example:
+<br>How many elements do you want in the array (1 to 100):
+<br>10
+<br>Array Elements are: 24 56 77 23 15 88 84 6 82 34
+<br>Array Copy Elements are: 24 56 77 23 15 88 84 6 82 34
