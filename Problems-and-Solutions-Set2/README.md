@@ -334,3 +334,15 @@ Write a program to fill array of max size of 100 with random numbers from 1 to 1
 <br>68 34 66 5 63 62 70 54 33 65
 <br>Reversed Array Elements are:
 <br>65 33 54 70 62 63 5 66 34 68
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem33" >Problem33: Fill Array with Keys</a>
+
+Write a program to read how many keys to generate and fill array with then the print the array.
+<br>Example:
+<br>How many keys do you want to generate(1, 100):
+<br>5
+<br>Array[0]: KFBS-LVZP-ZYNU-AHOM
+<br>Array[1]: OIHC-QKLY-TAJG-TYSR
+<br>Array[2]: EACO-IWMX-JRQX-PIKL
+<br>Array[3]: CWNF-AIAW-KJEI-BIBW
+<br>Array[4]: UUVK-PKKL-WFBV-VJYX
