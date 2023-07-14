@@ -11,7 +11,7 @@ int ReadNumber()
     return Number;
 }
 
-void AddNumberToArray(int Number, int Array[100], int &Length)
+void AddArrayElement(int Number, int Array[100], int &Length)
 {
     Length++;
 
@@ -24,7 +24,7 @@ void FillArrayWithUserInput(int Array[100], int &Length)
 
     do
     {
-        AddNumberToArray(ReadNumber(), Array, Length);
+        AddArrayElement(ReadNumber(), Array, Length);
 
         cout << "\nDo you want to add more numbers? [0]: No, [1]:Yes: ";
         cin >> AddMore;
