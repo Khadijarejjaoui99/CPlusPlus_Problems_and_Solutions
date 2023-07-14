@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <cmath>
 using namespace std;
 
 enum enPrimeNotPrime
@@ -22,8 +23,12 @@ int ReadPositiveNumber()
 
 enPrimeNotPrime CheckPrime(int Number)
 {
+    if (Number == 0 || Number == 1)
+        return enPrimeNotPrime::NotPrime;
+
     int M = round(Number / 2);
-    for (int i = 2; i < M; i++)
+
+    for (int i = 2; i <= M; i++)
     {
         if (Number % i == 0)
             return enPrimeNotPrime::NotPrime;
