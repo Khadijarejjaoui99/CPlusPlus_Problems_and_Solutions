@@ -40,7 +40,7 @@ void PrintArrayData(int Array[100], int Length)
     cout << endl;
 }
 
-int FindNumberPosition(int Array[100], int Length, int Number)
+int FindNumberIndex(int Array[100], int Length, int Number)
 {
     for (int i = 0; i < Length; i++)
     {
@@ -53,7 +53,7 @@ int FindNumberPosition(int Array[100], int Length, int Number)
 
 bool IsNumberInArray(int Array[100], int Length, int Number)
 {
-    return FindNumberPosition(Array, Length, Number) != -1;
+    return FindNumberIndex(Array, Length, Number) != -1;
 }
 
 void FindNumberInArray(int Array[100], int Length, int Number)
