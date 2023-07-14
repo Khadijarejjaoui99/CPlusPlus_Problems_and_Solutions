@@ -21,6 +21,9 @@ int ReadPositiveNumber()
 
 enPrimeNotPrime CheckPrime(int Number)
 {
+    if (Number == 0 || Number == 1)
+        return enPrimeNotPrime::NotPrime;
+
     int M = round(Number / 2);
 
     for (int i = 2; i <= M; i++)
@@ -30,7 +33,6 @@ enPrimeNotPrime CheckPrime(int Number)
     }
     return enPrimeNotPrime::Prime;
 }
-
 void PrintPrimeNumbersFrom1ToN(int Number)
 {
     cout << "\n Prime Numbers From 1 To " << Number << " are:\n";
