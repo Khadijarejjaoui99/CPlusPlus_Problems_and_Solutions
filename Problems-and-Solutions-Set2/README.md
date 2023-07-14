@@ -393,7 +393,7 @@ Write a program to fill array of max size of 100 with random numbers from 1 to 1
 <br>Number you are looking for is: 10
 <br>No, The number is Not Found
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem35" >Problem36: Semi Dynamic Array</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem36" >Problem36: Semi Dynamic Array</a>
 
 Write a program to dynamically read numbers from the user and add them to the array, max size of array is 100, allocate semi dynamic array length
 <br>Example:
@@ -405,3 +405,12 @@ Write a program to dynamically read numbers from the user and add them to the ar
 <br>Do you want to add more numbers? [0]: No, [1]:Yes: 0
 <br>Array Length: 3
 <br>Array Elements: 10 20 30
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem37" >Problem37: Copy Array Using AddArrayElement functions</a>
+
+Write a program to fill array of max size of 100 with random numbers from 1 to 100 then copy it to another array using AddArrayElement() used in the prev problem and print them.
+<br>Example:
+<br>How many elements do you want in the array (1 to 100):
+<br>10
+<br>Array 1 Elements: 29 54 94 11 5 18 1 100 18 10
+<br>Array 2 Elements: 29 54 94 11 5 18 1 100 18 10
