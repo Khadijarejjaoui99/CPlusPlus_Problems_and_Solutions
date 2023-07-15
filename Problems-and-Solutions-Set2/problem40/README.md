@@ -1,6 +1,6 @@
 ## Problem40: Copy Only Distinct Numbers Using AddArrayElement function
 
-Write a program to fill array of max size of 100 with random numbers from 1 to 100 then copy only Distinct numbers to another array using AddArrayElement() used in the prev problem and print them.
+Write a program to copy only Distinct numbers to another array using AddArrayElement() used in the prev problem and print them.
 <br>Example:
 <br>How many numbers do you want to enter(1 to 100):
 <br>5
