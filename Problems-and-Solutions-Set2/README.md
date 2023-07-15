@@ -504,3 +504,12 @@ Write a program to fill array of max size of 100 with random numbers from -100 t
 <br>10
 <br>Array Elements are: -16 -87 -46 47 5 96 -20 2 74 61
 <br>Negative Numbers Count is: 4
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem46" >Problem46: abs function</a>
+
+Write a program to print abs of numbers, don't use built-in abs function.
+<br>Example:
+<br>Please enter a number:
+<br>-30
+<br>My abs Result : 30
+<br>C++ abs Result: 30
