@@ -513,3 +513,12 @@ Write a program to print abs of numbers, don't use built-in abs function.
 <br>-30
 <br>My abs Result : 30
 <br>C++ abs Result: 30
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem47" >Problem47: round() function</a>
+
+Write a program to print round of numbers, don't use built-in round() function.
+<br>Example:
+<br>Please enter a number:
+<br>10.5
+<br>My round Result : 11
+<br>C++ round Result: 11
