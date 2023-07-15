@@ -435,7 +435,7 @@ Write a program to fill array of max size of 100 with random numbers from 1 to 1
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem40" >Problem40: Copy Only Distinct Numbers Using AddArrayElement function</a>
 
-Write a program to fill array of max size of 100 with random numbers from 1 to 100 then copy only Distinct numbers to another array using AddArrayElement() used in the prev problem and print them.
+Write a program to copy only Distinct numbers to another array using AddArrayElement() used in the prev problem and print them.
 <br>Example:
 <br>How many numbers do you want to enter(1 to 100):
 <br>5
@@ -453,3 +453,18 @@ Write a program to fill array of max size of 100 with random numbers from 1 to 1
 <br>10 10 20 20 30  
 <br>Array 2 Elements:
 <br>10 20 30
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem41" >Problem41: Palindrome Array</a>
+
+Write a program to check array if palindrome or not.
+<br>Example:
+<br>How many numbers do you want to enter:
+<br>6
+<br>Please enter number 1: 10
+<br>Please enter number 2: 20
+<br>Please enter number 3: 30
+<br>Please enter number 4: 30
+<br>Please enter number 5: 20
+<br>Please enter number 6: 10
+<br>Array Elements are: 10 20 30 30 20 10
+<br>Yes, Array is Palindrome
