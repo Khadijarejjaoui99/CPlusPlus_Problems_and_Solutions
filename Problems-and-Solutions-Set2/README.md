@@ -531,3 +531,12 @@ Write a program to print floor of numbers, don't use built-in floor() function.
 <br>10.5
 <br>My floor Result : 10
 <br>C++ floor Result: 10
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem49" >Problem49: ceil() function</a>
+
+Write a program to print ceil of numbers, don't use built-in ceil() function.
+<br>Example:
+<br>Please enter a number:
+<br>-10.2
+<br>My ceil Result : -10
+<br>C++ ceil Result: -10
