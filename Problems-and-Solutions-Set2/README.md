@@ -432,3 +432,24 @@ Write a program to fill array of max size of 100 with random numbers from 1 to 1
 <br>10
 <br>Array 1 Elements are: 8 86 81 18 23 71 49 14 49 74
 <br>Array 2 Prime Elements are: 23 71
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem40" >Problem40: Copy Only Distinct Numbers Using AddArrayElement function</a>
+
+Write a program to fill array of max size of 100 with random numbers from 1 to 100 then copy only Distinct numbers to another array using AddArrayElement() used in the prev problem and print them.
+<br>Example:
+<br>How many numbers do you want to enter(1 to 100):
+<br>5
+<br>Please enter number 1:
+<br>10
+<br>Please enter number 2:
+<br>10
+<br>Please enter number 3:
+<br>20
+<br>Please enter number 4:
+<br>20
+<br>Please enter number 5:
+<br>30
+<br>Array 1 Elements:
+<br>10 10 20 20 30  
+<br>Array 2 Elements:
+<br>10 20 30
