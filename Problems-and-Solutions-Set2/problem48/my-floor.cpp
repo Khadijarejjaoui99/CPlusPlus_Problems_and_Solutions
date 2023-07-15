@@ -11,14 +11,24 @@ float ReadNumber()
 
     return Number;
 }
+float GetFractionPart(float Number)
+{
+    return Number - (int)Number;
+}
 float Myfloor(float Number)
 {
     int IntegerPart = (int)Number;
+    float FractionPart = GetFractionPart(Number);
 
-    if (Number > 0)
-        return IntegerPart;
+    if (abs(FractionPart) > 0)
+    {
+        if (Number > 0)
+            return IntegerPart;
+        else
+            return --IntegerPart;
+    }
     else
-        return --IntegerPart;
+        return Number;
 }
 
 int main()
