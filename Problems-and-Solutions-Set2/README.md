@@ -478,7 +478,7 @@ Write a program to fill array of max size of 100 with random numbers from 1 to 1
 <br>Array Elements are: 43 21 94 3 42 42 71 12 58 39
 <br>Odd Numbers Count is: 5
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem42" >Problem43: Even Numbers Count In Array</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem43" >Problem43: Even Numbers Count In Array</a>
 
 Write a program to fill array of max size of 100 with random numbers from 1 to 100 then count number of Even numbers in the array.
 <br>Example:
