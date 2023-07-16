@@ -9,5 +9,3 @@ This repository contains C++ Homeworks and different problems solutions
 ## Problems-and-Solutions-set3
 
 ## Problems-and-Solutions-set4
-
-<video src = "v.ts">
