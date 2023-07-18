@@ -9,12 +9,14 @@ enum enGameChoice
     Paper = 2,
     Scissors = 3
 };
+
 enum enWinner
 {
     Player = 1,
     Computer = 2,
     Draw = 3
 };
+
 struct stGameResults
 {
     short GameRounds = 0;
@@ -24,6 +26,7 @@ struct stGameResults
     enWinner FinalWinner;
     string FinalWinnerName;
 };
+
 struct stRoundInfo
 {
     short RoundNumber = 0;
@@ -60,6 +63,7 @@ enGameChoice ReadPlayerChoice()
 
     return (enGameChoice)Choice;
 }
+
 enGameChoice ReadComputerChoice()
 {
     return (enGameChoice)GetRandomNumber(1, 3);
@@ -149,6 +153,7 @@ void PrintRoundResult(stRoundInfo RoundInfo)
     cout << "Round Winner: " << RoundInfo.RoundWinnerName << endl;
     cout << "-----------------------------------------\n";
 }
+
 stGameResults PlayRounds(short HowManyRounds)
 {
     stRoundInfo RoundInfo;
@@ -190,6 +195,7 @@ void PrintGameOverScreen()
     cout << Tab(2) << "+++ Game Over +++\n";
     cout << Tab(2) << "----------------------------------------------------------\n";
 }
+
 void PrintGameResults(stGameResults GameResults)
 {
     ChangeScreenColor(GameResults.FinalWinnerName);
