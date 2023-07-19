@@ -60,8 +60,8 @@ namespace ArrayLib
         return Sum;
     }
 
-    int AverageArrayNumbers(int Array[100], int Length)
+    float AverageArrayNumbers(int Array[100], int Length)
     {
-        return (float)SumArrayNumbers(Array[100], Length) / Length;
+        return (float)SumArrayNumbers(Array, Length) / Length;
     }
 }
