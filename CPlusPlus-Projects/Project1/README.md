@@ -3,7 +3,7 @@
 Write a small game program for stone-paper-scissors
 <br>
 
-<img src = "game.png" alt = "Game"/>
+<img src = "Game.png" alt = "Game"/>
 <br>
 Program Requirements:
 
