@@ -57,7 +57,7 @@ enGameChoice ReadPlayerChoice()
     int Choice = 0;
     do
     {
-        cout << "Your choice: [1]: Stone, [2]: Paper, [3]: Scissors? ";
+        cout << "\nYour choice: [1]: Stone, [2]: Paper, [3]: Scissors? ";
         cin >> Choice;
     } while (Choice < 1 || Choice > 3);
 
@@ -147,11 +147,11 @@ stGameResults FillGameResults(short HowManyRounds, short PlayerWonTime, short Co
 void PrintRoundResult(stRoundInfo RoundInfo)
 {
     ChangeScreenColor(RoundInfo.RoundWinnerName);
-    cout << "--------------Round [" << RoundInfo.RoundNumber << "]--------------\n";
+    cout << "\n------------- Round [" << RoundInfo.RoundNumber << "] -------------\n";
     cout << "Player Choice: " << GetChoiceName(RoundInfo.PlayerChoice) << endl;
     cout << "Computer Choice: " << GetChoiceName(RoundInfo.ComputerChoice) << endl;
     cout << "Round Winner: " << RoundInfo.RoundWinnerName << endl;
-    cout << "-----------------------------------------\n";
+    cout << "-------------------------------------\n";
 }
 
 stGameResults PlayRounds(short HowManyRounds)
@@ -160,7 +160,7 @@ stGameResults PlayRounds(short HowManyRounds)
     short PlayerWonTime = 0, DrawTime = 0, ComputerWonTime = 0;
     for (int RoundNumber = 1; RoundNumber <= HowManyRounds; RoundNumber++)
     {
-        cout << "Round [" << RoundNumber << "] begins:\n";
+        cout << "\nRound [" << RoundNumber << "] begins:\n";
 
         RoundInfo.RoundNumber = RoundNumber;
         RoundInfo.PlayerChoice = ReadPlayerChoice();
@@ -191,8 +191,9 @@ string Tab(int Num)
 
 void PrintGameOverScreen()
 {
+    cout << endl;
     cout << Tab(2) << "----------------------------------------------------------\n";
-    cout << Tab(2) << "+++ Game Over +++\n";
+    cout << Tab(4) << "+++ G a m e O v e r +++\n";
     cout << Tab(2) << "----------------------------------------------------------\n";
 }
 
@@ -200,13 +201,14 @@ void PrintGameResults(stGameResults GameResults)
 {
     ChangeScreenColor(GameResults.FinalWinnerName);
 
-    cout << Tab(2) << "----[Game Result]-------------------------------------\n";
+    cout << endl;
+    cout << Tab(2) << "-------------------- [Game Results] ----------------------\n";
     cout << Tab(2) << "Game Rounds: " << GameResults.GameRounds << endl;
     cout << Tab(2) << "Player Won Time: " << GameResults.PlayerWonTime << endl;
     cout << Tab(2) << "Computer Won Time: " << GameResults.ComputerWonTime << endl;
     cout << Tab(2) << "Draw Time: " << GameResults.DrawTime << endl;
     cout << Tab(2) << "Final Winner: " << GameResults.FinalWinnerName << endl;
-    cout << Tab(2) << "-------------------------------------------------------\n";
+    cout << Tab(2) << "----------------------------------------------------------\n";
 }
 
 void ClearScreen()
@@ -226,7 +228,8 @@ void StartGame()
         PrintGameOverScreen();
         PrintGameResults(GameResults);
 
-        cout << "Do you want to play again? Y/N?\n";
+        cout << endl
+             << Tab(2) << "Do you want to play again? Y/N? ";
         cin >> PlayAgain;
     } while (PlayAgain == 'Y' || PlayAgain == 'y');
 }
