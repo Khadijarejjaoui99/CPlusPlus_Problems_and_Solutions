@@ -6,8 +6,8 @@ Write a small game program for stone-paper-scissors
 <br>
 Program Requirements:
 <br>
-<img src = "requirements.png" alt = "Requirements"/>
+<img src = "requirements.PNG" alt = "Requirements"/>
 <br>
 Screen Shot of the program:
 <br>
-<img src = "project-img.png" alt = "project img"/>
+<img src = "project-img.PNG" alt = "project img"/>
