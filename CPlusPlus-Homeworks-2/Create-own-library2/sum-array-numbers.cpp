@@ -13,7 +13,7 @@ int main()
 
     PrintArray(Array, Length);
 
-    cout << "Min in Array  = " << MinNumberInArray(Array, Length) << endl;
+    cout << "Sum = " << SumArray(Array, Length) << endl;
 
     return 0;
 }
