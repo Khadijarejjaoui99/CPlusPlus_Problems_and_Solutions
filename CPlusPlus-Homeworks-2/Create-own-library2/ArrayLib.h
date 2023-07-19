@@ -64,4 +64,16 @@ namespace ArrayLib
     {
         return (float)SumArrayNumbers(Array, Length) / Length;
     }
+
+    void AddElementToArray(int Number, int Array[100], int &Length)
+    {
+        Length++;
+        Array[Length - 1] = Number;
+    }
+
+    void CopyArrayElements(int ArraySource[100], int ArrayDestination[100], int Length1, int &Length2)
+    {
+        for (int i = 0; i < Length1; i++)
+            AddElementToArray(ArraySource[i], ArrayDestination, Length2);
+    }
 }
