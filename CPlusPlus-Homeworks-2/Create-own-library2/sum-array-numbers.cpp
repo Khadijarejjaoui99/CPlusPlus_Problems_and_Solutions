@@ -13,7 +13,7 @@ int main()
 
     PrintArray(Array, Length);
 
-    cout << "Sum = " << SumArray(Array, Length) << endl;
+    cout << "Sum = " << SumArrayNumbers(Array, Length) << endl;
 
     return 0;
 }

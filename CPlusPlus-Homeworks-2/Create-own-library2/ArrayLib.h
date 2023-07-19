@@ -48,7 +48,7 @@ namespace ArrayLib
         return Min;
     }
 
-    int SumArray(int Array[100], int Length)
+    int SumArrayNumbers(int Array[100], int Length)
     {
         int Sum = 0;
 
@@ -58,5 +58,10 @@ namespace ArrayLib
         }
 
         return Sum;
+    }
+
+    int AverageArrayNumbers(int Array[100], int Length)
+    {
+        return (float)SumArrayNumbers(Array[100], Length) / Length;
     }
 }
