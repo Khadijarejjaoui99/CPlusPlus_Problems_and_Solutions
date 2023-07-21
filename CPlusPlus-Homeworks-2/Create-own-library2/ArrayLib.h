@@ -1,8 +1,10 @@
 #pragma
 #include <iostream>
 #include "InputsLib.h"
+#include "NumberTypeLib.h"
 using namespace std;
 using namespace InputsLib;
+using namespace NumberTypeLib;
 
 namespace ArrayLib
 {
@@ -75,5 +77,14 @@ namespace ArrayLib
     {
         for (int i = 0; i < Length1; i++)
             AddElementToArray(ArraySource[i], ArrayDestination, Length2);
+    }
+
+    void CopyOnlyPrimeNumbers(int ArraySource[100], int ArrayDestination[100], int Length1, int &Length2)
+    {
+        for (int i = 0; i < Length1; i++)
+        {
+            if (CheckPrime(ArraySource[i]) == enPrimeNotPrime::Prime)
+                AddElementToArray(ArraySource[i], ArrayDestination, Length2);
+        }
     }
 }
