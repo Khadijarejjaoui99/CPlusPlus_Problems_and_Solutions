@@ -90,4 +90,10 @@ namespace ArrayLib
                 AddElementToArray(ArraySource[i], ArrayDestination, Length2);
         }
     }
+
+    void SumTwoArrays(int Array1[100], int Array2[100], int ArraySum[100], int Length)
+    {
+        for (int i = 0; i < Length; i++)
+            ArraySum[i] = Array1[i] + Array2[i];
+    }
 }
