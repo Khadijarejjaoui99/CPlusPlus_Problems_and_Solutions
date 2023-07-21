@@ -7,6 +7,8 @@ int main()
 {
     int Array[100], Length1 = 0, PrimeNumbersArray[100], Length2 = 0;
 
+    Length1 = ReadArrayLength();
+
     FillArrayWithRandomNumbers(Array, Length1);
 
     cout << "Array Elements are: \n";
