@@ -9,6 +9,8 @@ int main()
 
     int Array1[100], Length1 = 0, Array2[100], Length2 = 0;
 
+    Length1 = ReadArrayLength();
+
     FillArrayWithRandomNumbers(Array1, Length1);
 
     cout << "Array 1 Elements are: ";
