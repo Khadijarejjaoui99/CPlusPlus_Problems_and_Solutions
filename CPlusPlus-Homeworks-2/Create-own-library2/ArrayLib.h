@@ -8,10 +8,13 @@ using namespace NumberTypeLib;
 
 namespace ArrayLib
 {
-    void FillArrayWithRandomNumbers(int Array[100], int &Length)
+    int ReadArrayLength()
     {
-        Length = ReadNumberInRange(1, 100, "How many numbers do you want in the array:");
+        return ReadNumberInRange(1, 100, "How many numbers do you want in the array:");
+    }
 
+    void FillArrayWithRandomNumbers(int Array[100], int Length)
+    {
         for (int i = 0; i < Length; i++)
             Array[i] = GetRandomNumber(1, 100);
     }
