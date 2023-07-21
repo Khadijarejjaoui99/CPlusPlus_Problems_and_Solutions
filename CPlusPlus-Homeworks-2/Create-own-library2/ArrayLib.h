@@ -117,4 +117,12 @@ namespace ArrayLib
             Swap(Array[GetRandomNumber(0, Length - 1)], Array[GetRandomNumber(0, Length - 1)]);
         }
     }
+
+    void CopyReversedArray(int Array[100], int ArrayRev[100], int Length)
+    {
+        for (int i = 0; i < Length; i++)
+        {
+            ArrayRev[i] = Array[Length - 1 - i];
+        }
+    }
 }
