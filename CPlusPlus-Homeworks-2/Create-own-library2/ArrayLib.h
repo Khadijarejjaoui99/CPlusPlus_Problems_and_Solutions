@@ -19,6 +19,12 @@ namespace ArrayLib
             Array[i] = GetRandomNumber(1, 100);
     }
 
+    void FillArrayFrom1toN(int Array[100], int Length)
+    {
+        for (int i = 0; i < Length; i++)
+            Array[i] = i + 1;
+    }
+
     void PrintArray(int Array[100], int Length)
     {
         for (int i = 0; i < Length; i++)
@@ -95,5 +101,20 @@ namespace ArrayLib
     {
         for (int i = 0; i < Length; i++)
             ArraySum[i] = Array1[i] + Array2[i];
+    }
+
+    void Swap(int &A, int &B)
+    {
+        int Temp = A;
+        A = B;
+        B = Temp;
+    }
+
+    void ShuffleArray(int Array[100], int Length)
+    {
+        for (int i = 0; i < Length; i++)
+        {
+            Swap(Array[GetRandomNumber(0, Length - 1)], Array[GetRandomNumber(0, Length - 1)]);
+        }
     }
 }
