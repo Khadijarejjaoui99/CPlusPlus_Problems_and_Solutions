@@ -9,6 +9,8 @@ int main()
 
     int Array[100], Length = 0;
 
+    Length = ReadArrayLength();
+
     FillArrayWithRandomNumbers(Array, Length);
 
     PrintArray(Array, Length);
