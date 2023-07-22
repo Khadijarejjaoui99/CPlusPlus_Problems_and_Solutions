@@ -2,10 +2,10 @@
 
 Write a program to do the following:
 <br>
-(12 & 25)
+12 bitwise and 25
 <br>
-(200 & 125)
+200 bitwise and 125
 <br>
-(7 & 10)
+7 bitwise and 10
 <br>
-(100 & 5)
+100 bitwise and 5
