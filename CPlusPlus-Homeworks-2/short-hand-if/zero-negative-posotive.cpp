@@ -13,8 +13,7 @@ int ReadNumber()
 
 string NumberType(int Number)
 {
-    return (Number == 0) ? "Zero" : (Number > 0) ? "Positive"
-                                                 : "Negative";
+    return (Number == 0) ? "Zero" : ((Number > 0) ? "Positive" : "Negative");
 }
 
 int main()
