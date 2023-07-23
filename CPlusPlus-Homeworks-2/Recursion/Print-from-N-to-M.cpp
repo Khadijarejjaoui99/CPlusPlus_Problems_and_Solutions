@@ -12,6 +12,9 @@ void PrintFromNtoM(int N, int M)
 
 int main()
 {
+    cout << "Numbers from 1 to 5:\n";
     PrintFromNtoM(1, 5);
+    cout << "Numbers from 20 to 30:\n";
+    PrintFromNtoM(20, 30);
     return 0;
 }
