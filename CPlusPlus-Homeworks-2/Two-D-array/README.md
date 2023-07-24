@@ -6,7 +6,7 @@ Write a program that declare a 2d array and print it.
 <br> 5 6 7 8
 <br> 9 10 11 12
 
-## homework 1:
+## homework 2:
 
 Write a program to store the multiplication table result and print it on the screen.
 <br> Output:
