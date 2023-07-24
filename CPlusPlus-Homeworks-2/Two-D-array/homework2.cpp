@@ -18,11 +18,7 @@ void PrintArray(int Array[10][10])
     {
         for (int j = 0; j < 10; j++)
         {
-
-            if (Array[i][j] <= 9)
-                printf("%0*d ", 2, Array[i][j]);
-            else
-                printf("%d ", Array[i][j]);
+            printf("%0*d ", 2, Array[i][j]);
         }
 
         cout << endl;
