@@ -16,6 +16,8 @@ int main()
             printf("%d\n", i);
     }
 
+    int i = 2;
+
     int Num1 = 20, Num2 = 40;
 
     printf("%d + %d = %d\n", Num1, Num2, Num1 + Num2);
