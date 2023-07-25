@@ -27,3 +27,15 @@ Example of vector of type struct
 <br>First Name: Zineb
 <br>Last Name: Amine
 <br>Salary: 3000
+
+## struct vector2
+
+Write a program to ask the user to enter as many employees as s/he wants, each time the user enter employee info it got added to the vector, and ask the user if s/he wants to enter more employees, if no print the vector elements on the screen.
+<br> Output Example:
+<br> First Name: Khadija
+<br>Last Name: Rejjoui
+<br>Salary: 2000
+<br>
+<br>First Name: Zineb
+<br>Last Name: Amine
+<br>Salary: 3000
