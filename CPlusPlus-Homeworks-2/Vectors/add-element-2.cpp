@@ -29,7 +29,7 @@ void ReadNumbers(vector<int> &vNumbers)
     } while (AddMore == 'y' || AddMore == 'Y');
 }
 
-void PrintNumbers(vector<int> vNumbers)
+void PrintNumbers(vector<int> &vNumbers)
 {
     for (int &Number : vNumbers)
         cout << Number << " ";
