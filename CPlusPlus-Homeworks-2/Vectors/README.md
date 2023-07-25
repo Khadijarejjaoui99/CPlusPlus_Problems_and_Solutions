@@ -39,3 +39,19 @@ Write a program to ask the user to enter as many employees as s/he wants, each t
 <br>First Name: Zineb
 <br>Last Name: Amine
 <br>Salary: 3000
+
+## Remove element
+
+Write a program that demonstrates various operations on two vectors: vNumbers1 and vNumbers2. Your task is to implement a C++ program that performs vector manipulation operations such as adding elements, removing elements using the pop_back() function, and clearing the vector using the clear() function.
+<br>The program should perform the following steps:
+<br>Declare two integer vectors, vNumbers1 and vNumbers2.
+<br>Add the following integers to vNumbers1 using the push_back() function: 12, 20, 11, 40, 15.
+<br>Print the elements of vNumbers1 using a custom function named PrintVector() that takes a reference to a vector as input and displays its contents.
+<br>Display the size of vNumbers1 using the size() function.
+<br>Use the pop_back() function twice on vNumbers1 to remove the last two elements.
+<br>Print the elements of vNumbers1 again and display its size after the pop_back() operations.
+<br>Add the following integers to vNumbers2 using the push_back() function: 3, 1, 14, 4, 100, 200.
+<br>Print the elements of vNumbers2 using the PrintVector() function.
+<br>Display the size of vNumbers2 using the size() function.
+<br>Use the clear() function on vNumbers2 to remove all elements from the vector.
+<br>Print the elements of vNumbers2 again and display its size after the clear() operation.
