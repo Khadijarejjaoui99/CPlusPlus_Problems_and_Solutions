@@ -58,7 +58,7 @@ Write a program that demonstrates various operations on two vectors: vNumbers1 a
 
 ## vector functions:
 
-write a porgram to do the following:
+Write a porgram to do the following:
 <br>1. Declare a vector vNumbers of integers and initialize it with the following elements: 11, 2, 3, 10, 33, 10, 8.
 <br>2. Display the first element of the vector.
 <br>3. Display the last element of the vector.
