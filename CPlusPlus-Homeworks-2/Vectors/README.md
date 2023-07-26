@@ -55,3 +55,13 @@ Write a program that demonstrates various operations on two vectors: vNumbers1 a
 <br>Display the size of vNumbers2 using the size() function.
 <br>Use the clear() function on vNumbers2 to remove all elements from the vector.
 <br>Print the elements of vNumbers2 again and display its size after the clear() operation.
+
+## vector functions:
+
+write a porgram to do the following:
+<br>1. Declare a vector vNumbers of integers and initialize it with the following elements: 11, 2, 3, 10, 33, 10, 8.
+<br>2. Display the first element of the vector.
+<br>3. Display the last element of the vector.
+<br>4. Display the number of elements in the vector.
+<br>5. Display the capacity of the vector.
+<br>6. Check if the vector is empty or not.
