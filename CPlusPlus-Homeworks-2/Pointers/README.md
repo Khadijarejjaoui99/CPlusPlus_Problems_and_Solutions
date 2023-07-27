@@ -9,3 +9,7 @@ Write a program that declares an integer variable a and a pointer ptr. The point
 ## Call by reference using pointer:
 
 Swap two variables using pointers.
+
+## Array and pointer
+
+Declare an array and a pointer, let the pointer point to the array and print addresses of the elements of the array and their values using pointer.
