@@ -13,3 +13,7 @@ Swap two variables using pointers.
 ## Array and pointer
 
 Declare an array and a pointer, let the pointer point to the array and print addresses of the elements of the array and their values using pointer.
+
+## Struct and pointer
+
+Write a program that defines a structure stEmployee representing employee details, including their name and salary. The program should create a structure variable Employee1 and a pointer ptr to the structure type. The Employee1 variable should be initialized with a name "Khadija Rejjaoui" and a salary of 5000. The program should display the name and salary of Employee1 using regular variable access. Then, it should use the pointer ptr to access and display the name and salary of Employee1. After that, change the values of Employee1 using the pointer ptr, and display the updated name and salary using the pointer.
