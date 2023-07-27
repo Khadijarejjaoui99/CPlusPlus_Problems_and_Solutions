@@ -17,3 +17,7 @@ Declare an array and a pointer, let the pointer point to the array and print add
 ## Struct and pointer
 
 Write a program that defines a structure stEmployee representing employee details, including their name and salary. The program should create a structure variable Employee1 and a pointer ptr to the structure type. The Employee1 variable should be initialized with a name "Khadija Rejjaoui" and a salary of 5000. The program should display the name and salary of Employee1 using regular variable access. Then, it should use the pointer ptr to access and display the name and salary of Employee1. After that, change the values of Employee1 using the pointer ptr, and display the updated name and salary using the pointer.
+
+## void and pointer
+
+Write a program that demonstrates the use of a void pointer to manipulate different data types. Declare an integer variable x and a float variable y. Create a void pointer ptr and use it to point to the memory address of x. Display the address stored in the pointer ptr. Change the value of x using the void pointer, and display the updated value of x and the value pointed to by the void pointer(which is value of x). Then, let the void pointer ptr point to the memory address of y, which is of type float. Display the address stored in the pointer ptr, the original value of y, and the value pointed to by the void pointer (which is the value of y).
