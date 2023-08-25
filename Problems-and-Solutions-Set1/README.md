@@ -71,7 +71,7 @@ entered numbers.
 <br>Output:
 <br>45
 
-## Problem #10: Average of 3 marks
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2310">Problem #10: Average of 3 marks</a>
 
 Write a program to ask the user to enter 3, then print average of the entered
 marks.
@@ -82,7 +82,7 @@ marks.
 <br>Output:
 <br>60
 
-## Problem #11: Average Pass/Fail
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2311">Problem #11: Average Pass/Fail</a>
 
 Write a program to ask the user to enter 3, then print average of the entered
 average, if the average >= 50 print "Pass" otherwise print "Fail" .
@@ -94,7 +94,7 @@ average, if the average >= 50 print "Pass" otherwise print "Fail" .
 <br>60
 <br>"Pass"
 
-## Problem #12: Max of 2 numbers
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2312">Problem #12: Max of 2 numbers</a>
 
 Write a program to ask the user to enter 2 numbers, then print the max number.
 <br>Example Input:
@@ -103,7 +103,7 @@ Write a program to ask the user to enter 2 numbers, then print the max number.
 <br>Output:
 <br>100
 
-## Problem #13: Max of 3 numbers
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2313">Problem #13: Max of 3 numbers</a>
 
 Write a program to ask the user to enter 3 numbers, then print the max number.
 <br>Example Input:
@@ -113,12 +113,12 @@ Write a program to ask the user to enter 3 numbers, then print the max number.
 <br>Output:
 <br>300
 
-## Problem #14: Swap numbers
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2314">Problem #14: Swap numbers</a>
 
 Write a program to ask the user to enter 2 numbers, then print them, after that
 swap them and print them again
 
-## Problem #15: Rectangle Area I
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2315">Problem #15: Rectangle Area I</a>
 
 Write a program to calculate rectangle area and print it on the screen.
 <br>Example Input:
@@ -129,7 +129,7 @@ Write a program to calculate rectangle area and print it on the screen.
 <br>
 <img src = "p15-rule.PNG" alt = "problem #15 rule">
 
-## Problem #16: Rectangle Area II
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2316">Problem #16: Rectangle Area II</a>
 
 Write a program to calculate rectangle area through diagonal and side area of
 rectangle and print it on the screen.
@@ -141,7 +141,7 @@ rectangle and print it on the screen.
 <br>
 <img src = "p16-rule.PNG" alt = "problem #16 rule">
 
-## Problem #17: Triangle Area
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2317">Problem #17: Triangle Area</a>
 
 Write a program to calculate triangle area then print it on the screen.
 <br>Example Input:
@@ -152,7 +152,7 @@ Write a program to calculate triangle area then print it on the screen.
 <br>
 <img src = "p17-rule.PNG" alt = "problem #17 rule">
 
-## Problem #18: Circle Area I
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2318">Problem #18: Circle Area I</a>
 
 Write a program to calculate circle area then print it on the screen.
 <br>Example Input:
@@ -161,7 +161,7 @@ Write a program to calculate circle area then print it on the screen.
 <br>78.54
 <br><img src = "p18-rule.PNG" alt = "problem #18 rule">
 
-## Problem #19: Circle Area II
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2319">Problem #19: Circle Area II</a>
 
 Write a program to calculate circle area through diameter, then print it on the
 screen.
@@ -171,7 +171,7 @@ screen.
 <br>78.54
 <br><img src = "p19-rule.PNG" alt = "problem #19 rule">
 
-## Problem #20: Circle Area III
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2320">Problem #20: Circle Area III</a>
 
 Write a program to calculate circle area inscribed in a square, then print it on the
 screen.
@@ -181,7 +181,7 @@ screen.
 <br>78.54
 <br><img src = "p20-rule.PNG" alt = "problem #20 rule">
 
-## Problem #21: Circle Area IV
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2321">Problem #21: Circle Area IV</a>
 
 Write a program to calculate circle area along the circumstance, then print it on
 the screen.
