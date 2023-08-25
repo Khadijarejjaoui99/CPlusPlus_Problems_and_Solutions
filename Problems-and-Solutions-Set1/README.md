@@ -1,17 +1,17 @@
-## Problem #1: Print your name
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%231">Problem #1: Print your name</a>
 
 Write a program to print your name on the screen.
 
-## Problem #2: Read name and print it
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%232">Problem #2: Read name and print it</a>
 
 Write a program to ask the user to enter his/her name and print it on the screen
 
-## Problem #3: Check Odd or Even
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%233">Problem #3: Check Odd or Even</a>
 
 Write a program to ask the user to enter a number, then print "Odd" if it is odd,
 or "Even" if it is even.
 
-## Problem #4: Hire a driver case I
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%234">Problem #4: Hire a driver case I</a>
 
 Write a program that ask the user to enter his/her:
 <br> - Age
@@ -20,7 +20,7 @@ Write a program that ask the user to enter his/her:
 Then print "Hired" if his/her age is greater than 21 years old and she/he has a
 driving license, otherwise print "Rejected".
 
-## Problem #5: Hire a driver case II
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%235">Problem #5: Hire a driver case II</a>
 
 Write a program that ask the user to enter his/her:
 <br> - Age
@@ -30,7 +30,7 @@ Write a program that ask the user to enter his/her:
 Then print "Hired" if s/he has recommendations or if his/her age is greater than
 21 years old and she/he has a driving license, otherwise print "Rejected".
 
-## Problem #6: Full Name
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%236">Problem #6: Full Name</a>
 
 Write a program that ask the user to enter his/her:
 <br> - First name
@@ -43,7 +43,7 @@ Then print the full name on the screen.
 <br> Output:
 <br> Khadija Rejjaoui
 
-## Problem #7: Half number
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%237">Problem #7: Half number</a>
 
 Write a program that ask the user to enter a number, then print "Half of (number) is (???)"on the screen.
 <br>Example Input:
@@ -51,7 +51,7 @@ Write a program that ask the user to enter a number, then print "Half of (number
 <br>Output:
 <br>Half of 50 is 25
 
-## Problem #8: Pass/Fail
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%238">Problem #8: Pass/Fail</a>
 
 Write a program that ask the user to enter a mark, then print "Pass" if the mark
 is greater or equal to 50 , otherwise print fail
@@ -60,7 +60,7 @@ is greater or equal to 50 , otherwise print fail
 <br>Output:
 <br>Pass
 
-## Problem #9: Sum of 3 numbers
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%239">Problem #9: Sum of 3 numbers</a>
 
 Write a program to ask the user to enter 3 numbers, then print sum of the
 entered numbers.
