@@ -33,8 +33,7 @@ Write a program that ask the user to enter his/her:
 Write a program that ask the user to enter his/her:
 <br> - First name
 <br> - Last name
-<br> Write a program that ask the user to enter his/her:
-Then print the full name on the screen.
+<br> Then print the full name on the screen.
 <br> Example Input:
 <br> Khadija
 <br> Rejjaoui
