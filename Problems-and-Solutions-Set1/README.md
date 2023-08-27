@@ -16,8 +16,7 @@ or "Even" if it is even.
 Write a program that ask the user to enter his/her:
 <br> - Age
 <br> - Driving license.
-<br> Write a program that ask the user to enter his/her:
-Then print "Hired" if his/her age is greater than 21 years old and she/he has a
+<br>Then print "Hired" if his/her age is greater than 21 years old and she/he has a
 driving license, otherwise print "Rejected".
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%235">Problem #5: Hire a driver case II</a>
@@ -26,8 +25,7 @@ Write a program that ask the user to enter his/her:
 <br> - Age
 <br> - Has driving license.
 <br> - Has recommendation
-<br> Write a program that ask the user to enter his/her:
-Then print "Hired" if s/he has recommendations or if his/her age is greater than
+<br>Then print "Hired" if s/he has recommendations or if his/her age is greater than
 21 years old and she/he has a driving license, otherwise print "Rejected".
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%236">Problem #6: Full Name</a>
@@ -35,8 +33,7 @@ Then print "Hired" if s/he has recommendations or if his/her age is greater than
 Write a program that ask the user to enter his/her:
 <br> - First name
 <br> - Last name
-<br> Write a program that ask the user to enter his/her:
-Then print the full name on the screen.
+<br> Then print the full name on the screen.
 <br> Example Input:
 <br> Khadija
 <br> Rejjaoui
