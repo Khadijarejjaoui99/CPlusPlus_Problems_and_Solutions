@@ -180,7 +180,7 @@ screen.
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2321">Problem #21: Circle Area IV</a>
 
-Write a program to calculate circle area along the circumstance, then print it on
+Write a program to calculate circle area along the circumference, then print it on
 the screen.
 <br>Example Input:
 <br>20
