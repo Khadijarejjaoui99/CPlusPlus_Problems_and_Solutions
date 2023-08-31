@@ -376,7 +376,7 @@ be paid back.
 <br>Output:
 <br>30
 
-## Problem #41: Service Fee and Sales Tax
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2341">Problem #41: Service Fee and Sales Tax </a>
 
 A restaurant charges 10% service fees and 16% sales tax.
 Write a program to read BillValue and add service fees and sales tax to it, and
@@ -385,12 +385,12 @@ print TotalBill on screen.
 <br>Output:
 <br>127.6
 
-## Problem #42: Weeks and Days
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2342">Problem #42: Weeks and Days </a>
 
 Write a program to read NumberOfHours and calculate the number of weeks
 and days included in that number.
 
-## Problem #43:Task Duration In Seconds
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2343">Problem #43:Task Duration In Seconds</a>
 
 Write a program to calculate the task duration in seconds and print it on the
 screen. -> Given the time duration of task in the number of days, hours, minutes,
@@ -403,7 +403,7 @@ and seconds.
 <br>Output:
 <br>193,535 Seconds
 
-## Problem #44:Seconds to Days Hours Minutes Seconds
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2344">Problem #44:Seconds to Days Hours Minutes Seconds</a>
 
 Write a program that takes number of seconds as inputs and change it into
 days, hours, minutes, and seconds.
@@ -412,7 +412,7 @@ days, hours, minutes, and seconds.
 <br>Output:
 <br>2:5:45:35
 
-## Problem #45: Day Of Week
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2345">Problem #45: Day Of Week</a>
 
 Write a program to ask the user to enter day number and print the day name.
 <br>1 print Sunday
@@ -423,7 +423,7 @@ Write a program to ask the user to enter day number and print the day name.
 <br>6 print Friday
 <br>7 print Saturday
 
-## Problem #45: Months of the year
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2346">Problem #46: Months of the year</a>
 
 Write a program to ask the user to enter month number and print the month name.
 <br>1 print January
@@ -439,11 +439,11 @@ Write a program to ask the user to enter month number and print the month name.
 <br>11 print November
 <br>12 print December
 
-## Problem #47: Print from A to Z
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2347">Problem #47: Print from A to Z</a>
 
 Write a program that prints letters from A to Z.
 
-## Problem #48: Loan Instalment Months
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2348">Problem #48: Loan Instalment Months</a>
 
 Write a program to read a LoanAmount and a MonthlyPayment and calculate
 how many months you need to settle the loan
@@ -453,7 +453,7 @@ how many months you need to settle the loan
 <br>Output:
 <br>10 months
 
-## Problem #49: Monthly Loan Installment
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2349">Problem #49: Monthly Loan Installment</a>
 
 Write a program to read LoanAmount and ask you how many months you need
 to settle the loan, and calculate the monthly installments.
@@ -463,20 +463,20 @@ to settle the loan, and calculate the monthly installments.
 <br>Output:
 <br>500
 
-## Problem #50: ATM PIN
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2350">Problem #50: ATM PIN</a>
 
 Write a program to read ATM PIN code from the user, then check if the PIN code
 = 1234, then show the balance to the user, otherwise print "Wrong PIN"
 Assume user balance is 7800.
 
-## Problem #51: ATM PIN 2
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2351">Problem #51: ATM PIN 2</a>
 
 Write a program to read ATM PIN code from the user, then check if the PIN code
 = 1234, then show the balance to the user, otherwise print "Wrong PIN" and ask
 the user to enter the PIN again and make the screen red.
 Assume user balance is 7800.
 
-## Problem #52: ATM PIN
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2352">Problem #52: ATM PIN</a>
 
 Write a program to read ATM PIN code from the user, then check if the PIN code
 = 1234, then show the balance to the user, otherwise print "Wrong PIN" and ask
