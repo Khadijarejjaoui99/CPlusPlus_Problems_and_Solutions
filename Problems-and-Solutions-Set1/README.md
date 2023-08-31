@@ -238,7 +238,7 @@ Write a program that print from 1 to N.
 <br>4
 <br>5
 
-## Problem #27: Print Numbers from N to 1
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2327">Problem #27: Print Numbers from N to 1</a>
 
 Write a program that print from N to 1.
 <br>Example input:
@@ -250,7 +250,7 @@ Write a program that print from N to 1.
 <br>2
 <br>1
 
-## Problem #28: Print Sum Odd Numbers from 1 to N
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2328">Problem #28: Print Sum Odd Numbers from 1 to N</a>
 
 Write a program to sum odd numbers from 1 to N.
 <br>Example input:
@@ -258,7 +258,7 @@ Write a program to sum odd numbers from 1 to N.
 <br>Output:
 <br>9
 
-## Problem #29: Print Sum Even Numbers from 1 to N
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2329">Problem #29: Print Sum Even Numbers from 1 to N</a>
 
 Write a program to sum even numbers from 1 to N.
 <br>Example input:
@@ -266,7 +266,7 @@ Write a program to sum even numbers from 1 to N.
 <br>Output:
 <br>6
 
-## Problem #30: Sum 1 To N
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2330">Problem #30: Sum 1 To N</a>
 
 You are tasked with creating a program that calculates the sum of numbers based on user input. The program should provide the user with options to choose what type of numbers they want to include in the sum: all numbers, even numbers, or odd numbers. The program should then calculate the sum based on the selected option and display the result.
 
@@ -278,7 +278,7 @@ You are tasked with creating a program that calculates the sum of numbers based 
 <br>c. Sum Odd Numbers: Calculate the sum of all odd numbers from 1 to the user-entered number.
 <br>3. The program should display appropriate messages to inform the user of their selections and the calculated sum.
 
-## Problem #31: Factorial of N!
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2331">Problem #31: Factorial of N!</a>
 
 Write a program to calculate Factorial of N!
 <br>Example input:
@@ -286,7 +286,7 @@ Write a program to calculate Factorial of N!
 <br>Output:
 <br>720
 
-## Problem #32: Power of 2,3,4
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2332">Problem #32: Power of 2,3,4</a>
 
 Write a program to ask the user to enter a number and print number^2,
 number^3, number^4
@@ -297,7 +297,7 @@ number^3, number^4
 <br>27
 <br>81
 
-## Problem #33: Power of M
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2333">Problem #33: Power of M</a>
 
 Write a program to ask the user to enter a number and power and print result
 <br>Example Input:
@@ -306,7 +306,7 @@ Write a program to ask the user to enter a number and power and print result
 <br>Output:
 <br>16
 
-## Problem #34: Grade A,B,C,D,E,F
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2334">Problem #34: Grade A,B,C,D,E,F</a>
 
 Write a program to ask the user to enter his/ her mark and print his/her grade.
 <br>90 - 100 Print A.
@@ -316,7 +316,7 @@ Write a program to ask the user to enter his/ her mark and print his/her grade.
 <br>50 - 59 Print E.
 <br>Otherwise Print F.
 
-## Problem #35: Commission Percentage
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2335">Problem #35: Commission Percentage</a>
 
 <br>>= 1000,000 -> percentage is 1%
 <br>> 500K to 1M -> percentage is 2%
@@ -330,7 +330,7 @@ Write a program to ask the user to enter his/ her mark and print his/her grade.
 <br>Output
 <br>3,300
 
-## Problem #36: Piggy Bank Calculator
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2336">Problem #36: Piggy Bank Calculator</a>
 
 Write a program to ask the user to enter Pennies, Nickels, Dimes, Quarters,
 Dollars. Print the TotalPennies and TotalDollars.
@@ -340,7 +340,7 @@ Dollars. Print the TotalPennies and TotalDollars.
 <br>Quarter = 25
 <br>Dollar = 100
 
-## Problem #37: Simple Calculator
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2337">Problem #37: Simple Calculator</a>
 
 Write a program to ask the user to enter two numbers and operation type.
 <br>"+" Add two numbers
@@ -348,7 +348,7 @@ Write a program to ask the user to enter two numbers and operation type.
 <br>"\*" Multiply two numbers
 <br>"/" Divide two numbers
 
-## Problem #38: Sum Until -99
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2338">Problem #38: Sum Until -99</a>
 
 Write a program to read numbers from the user and sum them, keep reading
 until the user enter -99 then print the sum on the screen.
@@ -358,7 +358,7 @@ until the user enter -99 then print the sum on the screen.
 <br>Output:
 <br>30
 
-## Problem #39: Is Prime Number
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2339">Problem #39: Is Prime Number</a>
 
 Write a program to read a number and check if it is a prime number or not. Print
 "Prime" if it is prime, and "Not Prime" otherwise.
@@ -367,7 +367,7 @@ A prime number can only be divided by 1 and itself.
 <br>Output:
 <br>Prime
 
-## Problem #40: Pay Remainder
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2340">Problem #40: Pay Remainder</a>
 
 Write a program to read TotalBill and CashPaid and calculate the remainder to
 be paid back.
