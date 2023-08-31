@@ -188,7 +188,7 @@ the screen.
 <br>31.847
 <br><img src = "p21-rule.PNG" alt = "problem #21 rule">
 
-## Problem #22: Circle Area V
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2322">Problem #22: Circle Area V</a>
 
 Write a program to calculate circle area inscribed in an isosceles triangle, then
 print it on the screen.
@@ -199,7 +199,7 @@ print it on the screen.
 <br>47.124
 <br><img src = "p22-rule.PNG" alt = "problem #22 rule">
 
-## Problem #23: Circle Area VI
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2323">Problem #23: Circle Area VI</a>
 
 Write a program to calculate circle area circle described around an arbitrary
 triangle, then print it on the screen.
@@ -211,7 +211,7 @@ triangle, then print it on the screen.
 <br>40.088
 <br><img src = "p23-rule.PNG" alt = "problem #23 rule">
 
-## Problem #24: Validate Age Between 18 and 45
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%234">Problem #24: Validate Age Between 18 and 45</a>
 
 Write a program to ask the user to enter his/ her age. If the age is between 18
 and 45 print "Valid Age" otherwise print "Invalid Age"
@@ -220,7 +220,7 @@ and 45 print "Valid Age" otherwise print "Invalid Age"
 <br>Output:
 <br>Valid Age
 
-## Problem #25: Read Until Age Between 18 and 45
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%235">Problem #25: Read Until Age Between 18 and 45</a>
 
 Write a program to ask the user to enter his/ her age. If the age is between 18
 and 45 print "Valid Age" otherwise print "Invalid Age" and re-ask user to enter a
