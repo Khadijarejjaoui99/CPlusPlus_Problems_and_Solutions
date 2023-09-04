@@ -51,3 +51,11 @@ Remove the last character from the following string:
 <br> S1 = "My Name is Khadija Rejjaoui#"
 <br> Output:
 <br> My Name is Khadija Rejjaoui
+
+## Find text in a string
+
+Check "Khadija", and "Amira" if they are in the following string, if not return "Not Found"
+<br> S1 = "My Name is Khadija Rejjaoui"
+<br> Output:
+<br> 11
+<br> Amira Not Found
