@@ -16,3 +16,10 @@ Print all the characters in the string each in a separate line. For the followin
 <br> l
 <br> l
 <br> o
+
+## Append a string at the end
+
+Add ", I love programming!" to the following string:
+<br> S1 = "My Name is Khadija Rejjaoui"
+<br> Output:
+<br> My Name is Khadija Rejjaoui, I love programming!
