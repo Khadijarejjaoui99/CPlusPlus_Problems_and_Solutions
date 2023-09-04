@@ -59,3 +59,8 @@ Check "Khadija", and "Amira" if they are in the following string, if not return 
 <br> Output:
 <br> 11
 <br> Amira Not Found
+
+## Clear all characters in a string
+
+Clear all the characters in the following string:
+<br> S1 = "My Name is Khadija Rejjaoui."
