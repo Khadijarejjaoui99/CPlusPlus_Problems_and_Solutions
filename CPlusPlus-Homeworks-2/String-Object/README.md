@@ -34,6 +34,13 @@ Insert " Full" to the following string:
 ## Print parts of string
 
 Print all the next 7 letters starting from index 11 of the following string:
-<br> S1 = "My Name is Khadija Rejjaoui" at index 2
+<br> S1 = "My Name is Khadija Rejjaoui"
 <br> Output:
 <br> Khadija
+
+## Add character at the end of string
+
+Add '.' at the end of the following string
+<br> S1 = "My Name is Khadija Rejjaoui"
+<br> Output:
+<br> My Name is Khadija Rejjaoui.
