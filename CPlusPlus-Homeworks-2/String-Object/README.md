@@ -38,9 +38,16 @@ Print all the next 7 letters starting from index 11 of the following string:
 <br> Output:
 <br> Khadija
 
-## Add character at the end of string
+## Add a character at the end of a string
 
 Add '.' at the end of the following string
 <br> S1 = "My Name is Khadija Rejjaoui"
 <br> Output:
 <br> My Name is Khadija Rejjaoui.
+
+## Remove character from the end of a string
+
+Remove the last character from the following string:
+<br> S1 = "My Name is Khadija Rejjaoui#"
+<br> Output:
+<br> My Name is Khadija Rejjaoui
