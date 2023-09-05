@@ -25,3 +25,11 @@ Read a character from the user and check if it is upper case or not.
 <br> Example Output: A is an Upper Case Letter
 <br> Example input: a
 <br> Example Output: a is Not an Upper Case Letter
+
+## Digit Or Not
+
+Read a character from the user and check if it is digit or not.
+<br> Example input: 9
+<br> Example Output: 9 is a Digit
+<br> Example input: a
+<br> Example Output: a is Not a Digit
