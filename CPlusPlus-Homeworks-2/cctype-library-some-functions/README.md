@@ -9,3 +9,11 @@ Read a character from the user and convert it into lower case.
 Read a character from the user and convert it into upper case.
 <br> Example input: a
 <br> Example Output: A
+
+## Lower Or Not
+
+Read a character from the user and check if it is lower case or not.
+<br> Example input: a
+<br> Example Output: a is a Lower Case Letter
+<br> Example input: A
+<br> Example Output: A is Not a Lower Case Letter
