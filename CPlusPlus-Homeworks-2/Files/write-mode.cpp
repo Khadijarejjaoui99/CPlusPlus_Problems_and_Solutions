@@ -6,10 +6,11 @@ int main()
 {
     fstream MyFile;
 
-    MyFile.open("homework.txt", ios::out);
+    MyFile.open("homework1.txt", ios::out);
 
     if (MyFile.is_open())
     {
+        MyFile << "My Name is Khadija Rejjaoui.\n";
         MyFile << "This is my C++ homework assignment.\n";
         MyFile << "I'm learning file handling in C++.\n";
 
