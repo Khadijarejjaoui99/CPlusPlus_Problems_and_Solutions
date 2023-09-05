@@ -1,0 +1,2 @@
+This is my C++ homework assignment.
+I'm learning file handling in C++.
