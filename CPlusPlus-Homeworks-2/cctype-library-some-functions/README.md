@@ -33,3 +33,11 @@ Read a character from the user and check if it is digit or not.
 <br> Example Output: 9 is a Digit
 <br> Example input: a
 <br> Example Output: a is Not a Digit
+
+## Punctuation Or Not
+
+Read a character from the user and check if it is punctuation or not.
+<br> Example input: ;
+<br> Example Output: ; is a Punctuation
+<br> Example input: a
+<br> Example Output: a is Not a Punctuation
