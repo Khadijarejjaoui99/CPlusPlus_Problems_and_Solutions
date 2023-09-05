@@ -11,3 +11,7 @@ Create a text file named "homework2.txt" and run the program three times to writ
 <br>My Name is Khadija Rejjaoui.
 <br>This is my C++ homework assignment.
 <br>I'm learning file handling in C++.
+
+## Read mode
+
+Print the contents of "homework1.txt" on the console.
