@@ -19,3 +19,8 @@ Print the contents of "homework1.txt" on the console.
 ## Load Data From File To Vector
 
 Load data from "Names.txt" file to a vector and print that vector.
+
+## Save Vector To File
+
+vFruits is a vector containing the following data "apple, banana, cherry, date, fig, grape, honeydew, kiwi, lemon, mango"
+try to save them in a file named "fruits-names.txt".
