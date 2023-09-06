@@ -28,3 +28,7 @@ try to save them in a file named "fruits-names.txt".
 ## Delete a Record
 
 Delete "Jennifer Lee" from "Names.txt".
+
+## Update a Record
+
+Update "Sarah Johnson" from "Names.txt" with "Khadija Rejjaoui".
