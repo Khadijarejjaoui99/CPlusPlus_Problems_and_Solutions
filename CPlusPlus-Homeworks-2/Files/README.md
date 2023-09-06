@@ -24,3 +24,7 @@ Load data from "Names.txt" file to a vector and print that vector.
 
 vFruits is a vector containing the following data "apple, banana, cherry, date, fig, grape, honeydew, kiwi, lemon, mango"
 try to save them in a file named "fruits-names.txt".
+
+## Delete a Record
+
+Delete "Jennifer Lee" from "Names.txt".
