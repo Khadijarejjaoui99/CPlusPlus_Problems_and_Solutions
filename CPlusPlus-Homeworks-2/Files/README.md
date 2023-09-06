@@ -15,3 +15,7 @@ Create a text file named "homework2.txt" and run the program three times to writ
 ## Read mode
 
 Print the contents of "homework1.txt" on the console.
+
+## Load Data From File To Vector
+
+Load data from "Names.txt" file to a vector and print that vector.
