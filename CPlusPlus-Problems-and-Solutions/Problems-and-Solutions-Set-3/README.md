@@ -67,3 +67,8 @@ Write a program to check if a matrix is identical or not.
 
 Write a program to check if a matrix is scalar or not.
 <br><br> <img src = "problem14/problem14.png" alt = "problem 14 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem15">Problem 15: Number Count : </a>
+
+Write a program to print the count of a given number in a matrix.
+<br><br> <img src = "problem15/problem15.png" alt = "problem 15 output example">
