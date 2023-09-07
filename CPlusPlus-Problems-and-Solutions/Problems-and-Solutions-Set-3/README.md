@@ -58,7 +58,12 @@ Write a program to compare two matrices and check if they are equal or not. (Fil
 Write a program to compare two matrices and check if they are typical or not. (Fill each matrix with random numbers from 1 to 10)
 <br><br> <img src = "problem12/problem12.png" alt = "problem 12 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem12">Problem 13: Check Identity Matrix : </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem13">Problem 13: Check Identity Matrix : </a>
 
 Write a program to check if a matrix is identical or not.
 <br><br> <img src = "problem13/problem13.png" alt = "problem 13 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem14">Problem 14: Check Scalar Matrix : </a>
+
+Write a program to check if a matrix is scalar or not.
+<br><br> <img src = "problem14/problem14.png" alt = "problem 14 output example">
