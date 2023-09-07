@@ -42,3 +42,8 @@ Fill two matrices with random numbers from 1 to 10. Then multiply them into a 3r
 
 Fill a matrix with random numbers from 1 to 10. Then print middle row and middle column.
 <br><br> <img src = "problem9/problem9.png" alt = "problem 9 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem10">Problem 10: Multiply Two 3x3 Matrices: </a>
+
+Fill a matrix with random numbers from 1 to 10. Then print sum of the matrix.
+<br><br> <img src = "problem10/problem10.png" alt = "problem 10 output example">
