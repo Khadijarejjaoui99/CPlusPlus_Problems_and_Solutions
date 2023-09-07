@@ -38,12 +38,17 @@ Write a program to fill a 3x3 matrix with Ordered numbers, and print it, then tr
 Fill two matrices with random numbers from 1 to 10. Then multiply them into a 3rd matrix and print it.
 <br><br> <img src = "problem8/problem8.png" alt = "problem 8 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem9">Problem 9: Multiply Two 3x3 Matrices: </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem9">Problem 9: Print Middle Row And Middle Column: </a>
 
 Fill a matrix with random numbers from 1 to 10. Then print middle row and middle column.
 <br><br> <img src = "problem9/problem9.png" alt = "problem 9 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem10">Problem 10: Multiply Two 3x3 Matrices: </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem10">Problem 10: Print Matrix Sum: </a>
 
 Fill a matrix with random numbers from 1 to 10. Then print sum of the matrix.
 <br><br> <img src = "problem10/problem10.png" alt = "problem 10 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem11">Problem 11: Check matrices equality: </a>
+
+Write a program to compare two matrices and check if they are equal or not. (Fill each matrix with random numbers from 1 to 10)
+<br><br> <img src = "problem11/problem11.png" alt = "problem 11 output example">
