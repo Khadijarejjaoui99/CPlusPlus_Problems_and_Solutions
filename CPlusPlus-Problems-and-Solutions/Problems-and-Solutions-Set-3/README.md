@@ -48,7 +48,12 @@ Fill a matrix with random numbers from 1 to 10. Then print middle row and middle
 Fill a matrix with random numbers from 1 to 10. Then print sum of the matrix.
 <br><br> <img src = "problem10/problem10.png" alt = "problem 10 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem11">Problem 11: Check matrices equality: </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem11">Problem 11: Check Matrices Equality: </a>
 
 Write a program to compare two matrices and check if they are equal or not. (Fill each matrix with random numbers from 1 to 10)
 <br><br> <img src = "problem11/problem11.png" alt = "problem 11 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem12">Problem 12: Check Typical Matrices : </a>
+
+Write a program to compare two matrices and check if they are typical or not. (Fill each matrix with random numbers from 1 to 10)
+<br><br> <img src = "problem12/problem12.png" alt = "problem 12 output example">
