@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 void PrintMatrix(int Matrix[3][3], short Rows, short Cols)
@@ -7,7 +8,7 @@ void PrintMatrix(int Matrix[3][3], short Rows, short Cols)
     {
         for (short j = 0; j < Cols; j++)
         {
-            printf(" %0*d\t", 2, Matrix[i][j]);
+            cout << setw(3) << Matrix[i][j] << "\t";
         }
         cout << endl;
     }
@@ -32,9 +33,9 @@ bool IsIdentityMatrix(int Matrix[3][3], short Rows, short Cols)
 void PrintIdentityResult(int Matrix[3][3], short Rows, short Cols)
 {
     if (IsIdentityMatrix(Matrix, 3, 3))
-        cout << "\nYes. Matrix is Identical\n";
+        cout << "\nYes: Matrix is identity\n";
     else
-        cout << "\nNo. Matrix is NOT Identical\n";
+        cout << "\nNo: Matrix is NOT identity\n";
 }
 
 int main()
