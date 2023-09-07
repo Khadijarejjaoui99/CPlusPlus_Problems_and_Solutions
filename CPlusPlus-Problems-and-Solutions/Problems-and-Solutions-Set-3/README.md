@@ -28,7 +28,12 @@ Write a program to fill a 3x3 matrix with random numbers from 1 to 100. Then sum
 Write a program to fill a 3x3 matrix with Ordered numbers.
 <br><br> <img src = "problem6/problem6.png" alt = "problem 6 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem6">Problem 7: 3X3 Transposed Matrix: </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem7">Problem 7: 3X3 Transposed Matrix: </a>
 
 Write a program to fill a 3x3 matrix with Ordered numbers, and print it, then transpose the matrix and print it.
 <br><br> <img src = "problem7/problem7.png" alt = "problem 7 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem8">Problem 8: Multiply Two 3x3 Matrices: </a>
+
+Fill two matrices with random numbers from 1 to 10. Then multiply them into a 3rd matrix and print it.
+<br><br> <img src = "problem8/problem8.png" alt = "problem 8 output example">
