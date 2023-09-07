@@ -37,3 +37,8 @@ Write a program to fill a 3x3 matrix with Ordered numbers, and print it, then tr
 
 Fill two matrices with random numbers from 1 to 10. Then multiply them into a 3rd matrix and print it.
 <br><br> <img src = "problem8/problem8.png" alt = "problem 8 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem9">Problem 9: Multiply Two 3x3 Matrices: </a>
+
+Fill a matrix with random numbers from 1 to 10. Then print middle row and middle column.
+<br><br> <img src = "problem9/problem9.png" alt = "problem 9 output example">
