@@ -18,13 +18,13 @@ char ReadCharacter(string Msg)
     return C;
 }
 
-short GetLetterCount(string Str, char LetterToCount)
+short GetCharCount(string Str, char CharToCount)
 {
     short Counter = 0;
 
     for (short i = 0; i < Str.length(); i++)
     {
-        if (Str[i] == LetterToCount)
+        if (Str[i] == CharToCount)
             Counter++;
     }
 
@@ -34,9 +34,9 @@ short GetLetterCount(string Str, char LetterToCount)
 int main()
 {
     string Str = ReadString("Please enter your String:");
-    char LetterToCount = ReadCharacter("Please enter character to count:");
+    char CharToCount = ReadCharacter("Please enter character to count:");
 
-    cout << "Letter \'" << LetterToCount << "\' Count = " << GetLetterCount(Str, LetterToCount) << endl;
+    cout << "Character \'" << CharToCount << "\' Count = " << GetCharCount(Str, CharToCount) << endl;
 
     system("pause>0");
 
