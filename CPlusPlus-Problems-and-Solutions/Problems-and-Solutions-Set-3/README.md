@@ -103,3 +103,9 @@ Write a program to check if a matrix is palindrome or not.
 Write a program to print fibonacci series.
 <br> Example output: Fibonacci Series of 10
 <br><br> <img src = "problem21/problem21.png" alt = "problem 21 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem22">Problem 22: Fibonacci series using Recursion</a>
+
+Write a program to print fibonacci series, using recursion.
+<br> Example output: Fibonacci Series of 10
+<br><br> <img src = "problem21/problem21.png" alt = "problem 22 output example">
