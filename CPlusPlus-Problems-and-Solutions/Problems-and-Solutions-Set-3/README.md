@@ -109,3 +109,7 @@ Write a program to print fibonacci series.
 Write a program to print fibonacci series, using recursion.
 <br> Example output: Fibonacci Series of 10
 <br><br> <img src = "problem21/problem21.png" alt = "problem 22 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem23">Problem 23: First Letter of each word in the string:</a>
+
+Write a program to print first letter of each word in the string
