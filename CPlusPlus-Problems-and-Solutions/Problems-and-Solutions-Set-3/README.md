@@ -130,6 +130,10 @@ Write a program to read a character then invert its case and print it.
 
 Write a program to read a string then invert its letters case and print it.
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem29">Problem 29:Count Small and Capital Letters in string:</a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem29">Problem 29: Count Small and Capital Letters in string:</a>
 
 Write a program to read a string then print its length, and print its Capital letters count and its Smaller letters Count.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem29">Problem 30: Count character in a String :</a>
+
+Write a program to read a string and a character then count the character in string
