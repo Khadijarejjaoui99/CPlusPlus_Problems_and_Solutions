@@ -14,7 +14,7 @@ void PrintMatrix(int Matrix[3][3], short Rows, short Cols)
     }
 }
 
-bool IsPalindromMatrix(int Matrix[3][3], short Rows, short Cols)
+bool IsPalindromeMatrix(int Matrix[3][3], short Rows, short Cols)
 {
     for (short i = 0; i < Rows; i++)
     {
@@ -35,10 +35,10 @@ int main()
     cout << "\nMatrix: \n";
     PrintMatrix(Matrix, 3, 3);
 
-    if (IsPalindromMatrix(Matrix, 3, 3))
-        cout << "Yes: is a Palindrom matrix\n";
+    if (IsPalindromeMatrix(Matrix, 3, 3))
+        cout << "Yes: is a Palindrome matrix\n";
     else
-        cout << "No: is Not a Palindrom matrix\n";
+        cout << "No: is Not a Palindrome matrix\n";
 
     system("pause>0");
 
