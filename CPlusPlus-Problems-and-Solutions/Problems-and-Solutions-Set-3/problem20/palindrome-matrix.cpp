@@ -29,7 +29,6 @@ bool IsPalindromeMatrix(int Matrix[3][3], short Rows, short Cols)
 
 int main()
 {
-
     int Matrix[3][3] = {{1, 2, 1}, {5, 5, 5}, {7, 3, 7}};
 
     cout << "\nMatrix: \n";

@@ -92,3 +92,8 @@ Write a program to print the intersectd Numbers in two matrices.
 
 Write a program to print the max and min number in a matrix.
 <br><br> <img src = "problem19/problem19.png" alt = "problem 19 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem20">Problem 20: Palindrome Matrix </a>
+
+Write a program to check if a matrix is palindrome or not.
+<br><br> <img src = "problem20/problem20.png" alt = "problem 20 output example">
