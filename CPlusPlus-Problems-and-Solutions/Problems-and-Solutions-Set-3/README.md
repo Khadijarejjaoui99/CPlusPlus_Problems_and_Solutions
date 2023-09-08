@@ -87,3 +87,8 @@ Write a program to check if a given number exists in matrix or not.
 
 Write a program to print the intersectd Numbers in two matrices.
 <br><br> <img src = "problem18/problem18.png" alt = "problem 18 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem19">Problem 19: Min/ Max Number In Matrix: </a>
+
+Write a program to print the max and min number in a matrix.
+<br><br> <img src = "problem19/problem19.png" alt = "problem 19 output example">
