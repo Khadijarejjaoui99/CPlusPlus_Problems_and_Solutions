@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 char ReadCharacter(string Msg)
@@ -11,10 +12,7 @@ char ReadCharacter(string Msg)
 
 char InvertCharacterCase(char C)
 {
-
-    C = (C == tolower(C) ? toupper(C) : tolower(C));
-
-    return C;
+    return isupper(C) ? tolower(C) : toupper(C);
 }
 
 int main()
@@ -23,7 +21,7 @@ int main()
 
     C = InvertCharacterCase(C);
 
-    cout << C << endl;
+    cout << "Character after inverting its Case: " << C << endl;
 
     system("pause>0");
     return 0;
