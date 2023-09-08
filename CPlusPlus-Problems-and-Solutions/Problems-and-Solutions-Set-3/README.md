@@ -77,3 +77,8 @@ Write a program to print the count of a given number in a matrix.
 
 Write a program to check if a matrix is sparce or not.
 <br><br> <img src = "problem16/problem16.png" alt = "problem 16 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem17">Problem 17: Number Exists In Matrix: </a>
+
+Write a program to check if a given number exists in matrix or not.
+<br><br> <img src = "problem17/problem17.png" alt = "problem 17 output example">
