@@ -82,3 +82,8 @@ Write a program to check if a matrix is sparce or not.
 
 Write a program to check if a given number exists in matrix or not.
 <br><br> <img src = "problem17/problem17.png" alt = "problem 17 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem18">Problem 18: Number Exists In Matrix: </a>
+
+Write a program to check if a given number exists in matrix or not.
+<br><br> <img src = "problem18/problem18.png" alt = "problem 18 output example">
