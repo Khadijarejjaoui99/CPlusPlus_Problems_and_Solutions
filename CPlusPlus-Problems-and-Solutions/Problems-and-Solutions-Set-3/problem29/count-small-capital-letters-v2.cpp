@@ -5,7 +5,8 @@ using namespace std;
 enum enWhatToCount
 {
     SmallLetters,
-    CapitaLetters
+    CapitaLetters,
+    All
 };
 
 string ReadString(string Msg)
@@ -16,8 +17,12 @@ string ReadString(string Msg)
     return Str;
 }
 
-short LettersCount(string Str, enWhatToCount WhatToCount)
+short LettersCount(string Str, enWhatToCount WhatToCount = enWhatToCount::All)
 {
+
+    if (WhatToCount == enWhatToCount::All)
+        return Str.length();
+
     short Counter = 0;
 
     for (short i = 0; i < Str.length(); i++)
@@ -35,7 +40,7 @@ int main()
 {
     string Str = ReadString("Please enter your String:");
 
-    cout << "String length = " << Str.length() << endl;
+    cout << "String length = " << LettersCount(Str) << endl;
     cout << "Capital Letters Count = " << LettersCount(Str, enWhatToCount::CapitaLetters) << endl;
     cout << "Small Letters Count = " << LettersCount(Str, enWhatToCount::SmallLetters) << endl;
 
