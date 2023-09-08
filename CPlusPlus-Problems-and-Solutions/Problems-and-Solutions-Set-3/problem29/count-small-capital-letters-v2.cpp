@@ -24,7 +24,7 @@ short LettersCount(string Str, enWhatToCount WhatToCount)
     {
         if (WhatToCount == enWhatToCount::CapitaLetters && isupper(Str[i]))
             Counter++;
-        else if (WhatToCount == enWhatToCount::SmallLetters && islower(Str[i]))
+        if (WhatToCount == enWhatToCount::SmallLetters && islower(Str[i]))
             Counter++;
     }
 
