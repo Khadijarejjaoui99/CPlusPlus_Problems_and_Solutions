@@ -72,3 +72,8 @@ Write a program to check if a matrix is scalar or not.
 
 Write a program to print the count of a given number in a matrix.
 <br><br> <img src = "problem15/problem15.png" alt = "problem 15 output example">
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem16">Problem 16: Check Sparce Matrix: </a>
+
+Write a program to check if a matrix is sparce or not.
+<br><br> <img src = "problem16/problem16.png" alt = "problem 16 output example">
