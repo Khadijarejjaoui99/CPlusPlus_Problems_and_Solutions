@@ -98,7 +98,7 @@ Write a program to print the max and min number in a matrix.
 Write a program to check if a matrix is palindrome or not.
 <br><br> <img src = "problem20/problem20.png" alt = "problem 20 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem21">Problem 21: Palindrome Matrix </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem21">Problem 21: Fibonacci series </a>
 
 Write a program to print fibonacci series.
 <br> Example output: Fibonacci Series of 10
