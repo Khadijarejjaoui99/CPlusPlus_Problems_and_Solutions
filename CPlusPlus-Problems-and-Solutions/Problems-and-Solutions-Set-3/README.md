@@ -118,6 +118,10 @@ Write a program to print first letter of each word in the string
 
 Write a program to read a string then uppercase the first letter of each word in the string.
 
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem25">Problem 25: Lower First Letter of each word:</a>
+
+Write a program to read a string then lowercase the first letter of each word in the string.
+
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem26">Problem 26:Lower/ Upper All the string:</a>
 
 Write a program to read a string then lower all its charaters then upper all its characters, and print them.
@@ -134,6 +138,6 @@ Write a program to read a string then invert its letters case and print it.
 
 Write a program to read a string then print its length, and print its Capital letters count and its Smaller letters Count.
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem29">Problem 30: Count character in a String :</a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem30">Problem 30: Count character in a String :</a>
 
 Write a program to read a string and a character then count the character in string
