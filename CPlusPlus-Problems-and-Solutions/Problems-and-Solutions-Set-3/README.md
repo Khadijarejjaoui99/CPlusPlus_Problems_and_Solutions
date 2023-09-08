@@ -121,3 +121,7 @@ Write a program to read a string then uppercase the first letter of each word in
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem26">Problem 26:Lower/ Upper All the string:</a>
 
 Write a program to read a string then lower all its charaters then upper all its characters, and print them.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set3/problem27">Problem 27:Invert Character Case:</a>
+
+Write a program to read a character then invert its case and print it.
