@@ -140,4 +140,8 @@ Write a program to read a string then print its length, and print its Capital le
 
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem30">Problem 30: Count character in a String :</a>
 
-Write a program to read a string and a character then count the character in string
+Write a program to read a string and a character then count the character in that string
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem30">Problem 31: Count character in a String (Match Case) :</a>
+
+Write a program to read a string and a character then count the character in that string (Match case or not).
