@@ -149,3 +149,7 @@ Write a program to read a string and a character then count the character in tha
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem32">Problem 32: Is a Vowel</a>
 
 Write a program to read a character and check if the character is vowel or not (vowels are: a,e,i,o,u).
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem33">Problem 33: Vowels Count</a>
+
+Write a program to read a string and count the number of vowels in it (vowels are: a,e,i,o,u).
