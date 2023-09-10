@@ -145,3 +145,7 @@ Write a program to read a string and a character then count the character in tha
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem31">Problem 31: Count character in a String (Match Case) :</a>
 
 Write a program to read a string and a character then count the character in that string (Match case or not).
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem32">Problem 32: Is a Vowel</a>
+
+Write a program to read a character and check if the character is vowel or not (vowels are: a,e,i,o,u).
