@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <cctype>
 using namespace std;
 
 string ReadString()
@@ -12,32 +13,34 @@ string ReadString()
     return Str;
 }
 
-void PrintEachWordInString(string Str)
+int CountWordsInString(string Str)
 {
-    cout << "\nString Words are:\n";
+    string delim = " ", sWord = "";
 
-    string delim = " ";
-    string sWord;
-    int pos = 0;
+    int pos = 0, Counter = 0;
 
     while ((pos = Str.find(delim)) != string::npos)
     {
         sWord = Str.substr(0, pos);
 
         if (sWord != "")
-            cout << sWord << endl;
+            Counter++;
 
         Str.erase(0, pos + delim.length());
     }
 
     if (Str != "")
-        cout << Str << endl;
+        Counter++;
+
+    return Counter;
 }
 
 int main()
 {
 
-    PrintEachWordInString(ReadString());
+    string Str = ReadString();
+
+    cout << "The number of words in string is: " << CountWordsInString(Str) << endl;
 
     system("pause>0");
 
