@@ -165,3 +165,7 @@ Write a program to read a string and print each word in it in a separate line.
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem36">Problem 36: Count Each Word In String</a>
 
 Write a program to read a string and count each word in it.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem37">Problem 37: Split a String</a>
+
+Write a program to read a string and make a function that split each word in vector.
