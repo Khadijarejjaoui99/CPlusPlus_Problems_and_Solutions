@@ -173,3 +173,7 @@ Write a program to read a string and make a function that split each word in vec
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem38">Problem 38: Trim string</a>
 
 Write a program to read a string then trim its left, its right and all of it.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem39">Problem 39: Join Vector</a>
+
+Write a program to join a vector of strings into one string and print it.
