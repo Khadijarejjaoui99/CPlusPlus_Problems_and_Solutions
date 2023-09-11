@@ -154,6 +154,10 @@ Write a program to read a character and check if the character is vowel or not (
 
 Write a program to read a string and count the number of vowels in it (vowels are: a,e,i,o,u).
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem34">Problem 43: Vowels Count</a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem34">Problem 34: Vowels Count</a>
 
 Write a program to read a string and print all the vowels in the string (vowels are: a,e,i,o,u).
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem35">Problem 35: Print Each Word In String</a>
+
+Write a program to read a string and print each word in it in a separate line.
