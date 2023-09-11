@@ -169,3 +169,7 @@ Write a program to read a string and count each word in it.
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem37">Problem 37: Split a String</a>
 
 Write a program to read a string and make a function that split each word in vector.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem38">Problem 38: Trim string</a>
+
+Write a program to read a string then trim its left, its right and all of it.
