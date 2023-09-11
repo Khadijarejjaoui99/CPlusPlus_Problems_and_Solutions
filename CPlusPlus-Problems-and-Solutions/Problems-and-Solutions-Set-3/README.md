@@ -161,3 +161,7 @@ Write a program to read a string and print all the vowels in the string (vowels 
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem35">Problem 35: Print Each Word In String</a>
 
 Write a program to read a string and print each word in it in a separate line.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem36">Problem 36: Count Each Word In String</a>
+
+Write a program to read a string and count each word in it.
