@@ -181,3 +181,7 @@ Write a program to join a vector of strings into one string and print it.
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem40">Problem 40: Join String (Overloading)</a>
 
 Write a program to join a vector and array of strings into one string and print it (using function overloading).
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem41">Problem 41: Reverse a String</a>
+
+Write a program to read a string then print its reverse.
