@@ -197,3 +197,9 @@ Write a program to replace words in a string, using custom function.
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem44">Problem 44: Remove Punctuations from a String</a>
 
 Write a program to read a string, then remove all punctuations in the string.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem45">Problem 45: Convert a line of Data to a Record</a>
+
+Write a program to convert a line of data to a record and print it.
+<br><br>
+<img src = "problem45/ouput-problem45" alt ="Output Example of problem 45"/>
