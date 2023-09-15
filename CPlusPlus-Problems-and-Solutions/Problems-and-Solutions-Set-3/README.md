@@ -202,4 +202,10 @@ Write a program to read a string, then remove all punctuations in the string.
 
 Write a program to convert a line of data to a record and print it.
 <br><br>
-<img src = "ouput-problem45.png" alt ="Output Example of problem 45"/>
+<img src = "problem45/problem45.png" alt ="Output Example of problem 45"/>
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem46">Problem 46: Convert a line of Data to a Record</a>
+
+Write a program to convert a record to a line and print it.
+<br><br>
+<img src = "problem46/problem46.png" alt ="Output Example of problem 46"/>
