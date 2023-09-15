@@ -2,4 +2,4 @@
 
 Write a program to convert a line of data to a record and print it.
 <br><br>
-<img src = "ouput-problem45.png" alt ="Output Example of problem 45"/>
+<img src = "output-problem45.png" alt ="Output Example of problem 45"/>
