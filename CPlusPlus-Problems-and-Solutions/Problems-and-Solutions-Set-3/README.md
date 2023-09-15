@@ -193,3 +193,7 @@ Write a program to replace words in a string.
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem43">Problem 43: Replace Words in String</a>
 
 Write a program to replace words in a string, using custom function.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem44">Problem 44: Remove Punctuations from a String</a>
+
+Write a program to read a string, then remove all punctuations in the string.
