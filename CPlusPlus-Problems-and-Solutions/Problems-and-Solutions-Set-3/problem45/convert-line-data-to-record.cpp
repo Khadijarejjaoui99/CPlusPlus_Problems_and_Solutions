@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-struct stRecord
+struct stClient
 {
     string AccountNumber, PINCode, Name, Phone;
     double AccountBalance;
@@ -41,39 +41,39 @@ vector<string> SplitString(string Str, string Delim)
     return vString;
 }
 
-stRecord ConvertLineToRecord(string Str)
+stClient ConvertLineToRecord(string Str)
 {
     vector<string> vString = SplitString(Str, "#//#");
-    stRecord Record;
+    stClient Client;
 
-    Record.AccountNumber = vString[0];
-    Record.PINCode = vString[1];
-    Record.Name = vString[2];
-    Record.Phone = vString[3];
-    Record.AccountBalance = stod(vString[4]);
+    Client.AccountNumber = vString[0];
+    Client.PINCode = vString[1];
+    Client.Name = vString[2];
+    Client.Phone = vString[3];
+    Client.AccountBalance = stod(vString[4]);
 
-    return Record;
+    return Client;
 }
 
-void PrintRecord(stRecord Record)
+void PrintRecord(stClient Client)
 {
     cout << "\nThe following is the extracted record:\n\n";
-    cout << "Account Number: " << Record.AccountNumber << endl;
-    cout << "PIN Code: " << Record.PINCode << endl;
-    cout << "Name: " << Record.Name << endl;
-    cout << "Phone: " << Record.Phone << endl;
-    cout << "Account Balance: " << Record.AccountBalance << endl;
+    cout << "Account Number: " << Client.AccountNumber << endl;
+    cout << "PIN Code: " << Client.PINCode << endl;
+    cout << "Name: " << Client.Name << endl;
+    cout << "Phone: " << Client.Phone << endl;
+    cout << "Account Balance: " << Client.AccountBalance << endl;
 }
 
 int main()
 {
     string sLine = ReadString();
-    cout << "\nLine Record is:\n";
+    cout << "\nLine:\n";
     cout << sLine << endl;
 
-    stRecord Record = ConvertLineToRecord(sLine);
+    stClient Client = ConvertLineToRecord(sLine);
 
-    PrintRecord(Record);
+    PrintRecord(Client);
 
     return 0;
 }
