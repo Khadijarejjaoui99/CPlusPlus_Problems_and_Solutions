@@ -189,3 +189,7 @@ Write a program to read a string then print its reverse.
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem42">Problem 42: Replace Words in String</a>
 
 Write a program to replace words in a string.
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem43">Problem 43: Replace Words in String</a>
+
+Write a program to replace words in a string, using custom function.
