@@ -41,9 +41,9 @@ vector<string> SplitString(string Str, string Delim)
     return vString;
 }
 
-stClient ConvertLineToRecord(string Str)
+stClient ConvertLineToRecord(string Str, string Separator = "#//#")
 {
-    vector<string> vString = SplitString(Str, "#//#");
+    vector<string> vString = SplitString(Str, Separator);
     stClient Client;
 
     Client.AccountNumber = vString[0];
