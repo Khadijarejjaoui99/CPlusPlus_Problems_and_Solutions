@@ -202,4 +202,4 @@ Write a program to read a string, then remove all punctuations in the string.
 
 Write a program to convert a line of data to a record and print it.
 <br><br>
-<img src = "problem45/ouput-problem45.png" alt ="Output Example of problem 45"/>
+<img src = "ouput-problem45.png" alt ="Output Example of problem 45"/>
