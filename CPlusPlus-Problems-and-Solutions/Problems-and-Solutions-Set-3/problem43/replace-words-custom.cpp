@@ -75,7 +75,7 @@ string ReplaceWordsInString(string Str, string StringToReplace, string ReplaceTo
 int main()
 {
 
-    string Str = "Welcome to Jordan     Jordan is a nice place";
+    string Str = "Welcome to Jordan, Jordan is a nice place";
 
     Str = ReplaceWordsInString(Str, "jordan", "Morocco");
     cout << Str << endl;
