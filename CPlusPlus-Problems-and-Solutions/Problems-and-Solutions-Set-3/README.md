@@ -214,4 +214,10 @@ Write a program to convert a record to a line and print it.
 
 Write a program to ask you to enter a clients and save them in the file.
 <br><br>
-<img src = "problem47/problem47.png" alt ="Output Example of problem 46"/>
+<img src = "problem47/problem47.png" alt ="Output Example of problem 47"/>
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem48">Problem 48: Add Clients to file</a>
+
+Write a program to read a clients file and show them on the screen as following:
+<br><br>
+<img src = "problem48/problem48.png" alt ="Output Example of problem 48"/>
