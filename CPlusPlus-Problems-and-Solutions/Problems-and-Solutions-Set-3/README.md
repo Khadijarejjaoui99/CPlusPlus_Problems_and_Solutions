@@ -209,3 +209,9 @@ Write a program to convert a line of data to a record and print it.
 Write a program to convert a record to a line and print it.
 <br><br>
 <img src = "problem46/problem46.png" alt ="Output Example of problem 46"/>
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem47">Problem 47: Add Clients to file</a>
+
+Write a program to ask you to enter a clients and save them in the file.
+<br><br>
+<img src = "problem47/problem47.png" alt ="Output Example of problem 46"/>
