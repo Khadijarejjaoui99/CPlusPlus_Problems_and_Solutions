@@ -29,7 +29,7 @@ stClient ReadClientRecord()
     return Client;
 }
 
-string ConvertRecordToDataLine(stClient Client, string Separator = "#\\#")
+string ConvertRecordToDataLine(stClient Client, string Separator = "#//#")
 {
     string DataLine = "";
 
