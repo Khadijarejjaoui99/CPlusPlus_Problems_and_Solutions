@@ -221,3 +221,9 @@ Write a program to ask you to enter a clients and save them in the file.
 Write a program to read a clients file and show them on the screen as following:
 <br><br>
 <img src = "problem48/problem48.png" alt ="Output Example of problem 48"/>
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem49">Problem 49: Find Client by AccountNumber</a>
+
+Write a program to find a client by AccountNumber and print it on the screen.
+<br><br>
+<img src = "problem49/problem49.png" alt ="Output Example of problem 49"/>
