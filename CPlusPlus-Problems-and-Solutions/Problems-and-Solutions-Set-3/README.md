@@ -233,3 +233,9 @@ Write a program to find a client by AccountNumber and print it on the screen.
 Write a program to delete a client by AccountNumber.
 <br><br>
 <img src = "problem50/problem50.png" alt ="Output Example of problem 50"/>
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem51">Problem 51: Find Client by AccountNumber</a>
+
+Write a program to delete a client by AccountNumber.
+<br><br>
+<img src = "problem51/problem51.png" alt ="Output Example of problem 51"/>

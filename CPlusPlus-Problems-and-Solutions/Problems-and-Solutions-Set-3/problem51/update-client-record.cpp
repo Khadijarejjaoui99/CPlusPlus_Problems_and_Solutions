@@ -189,8 +189,6 @@ void UpdateClientByAccountNumber(vector<stClient> &vClients, string AccountNumbe
 
             SaveClientsDataToFile(CLIENTS_FILE_NAME, vClients);
 
-            vClients = LoadClientsRecordsFromFile(CLIENTS_FILE_NAME);
-
             cout << "\nClient Updated Successfully\n";
         }
     }
