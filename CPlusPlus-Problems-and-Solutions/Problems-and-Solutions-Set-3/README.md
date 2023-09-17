@@ -227,3 +227,9 @@ Write a program to read a clients file and show them on the screen as following:
 Write a program to find a client by AccountNumber and print it on the screen.
 <br><br>
 <img src = "problem49/problem49.png" alt ="Output Example of problem 49"/>
+
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem50">Problem 50: Find Client by AccountNumber</a>
+
+Write a program to delete a client by AccountNumber.
+<br><br>
+<img src = "problem50/problem50.png" alt ="Output Example of problem 50"/>
