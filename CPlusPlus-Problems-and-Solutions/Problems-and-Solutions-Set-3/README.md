@@ -236,6 +236,6 @@ Write a program to delete a client by AccountNumber.
 
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem51">Problem 51: Find Client by AccountNumber</a>
 
-Write a program to delete a client by AccountNumber.
+Write a program to update a client data by AccountNumber.
 <br><br>
 <img src = "problem51/problem51.png" alt ="Output Example of problem 51"/>
