@@ -1,12 +1,12 @@
 # Problems and Solutions Set 2
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem01" >Problem01: Multiplication Table 1 To 10</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem01" >Problem01: Multiplication Table 1 To 10</a>
 
 Write a program to print the multiplication table as the following:
 
 <img src = "./problem01/problem1.png" alt = "Multiplication table">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem02" >Problem02: Print Prime Numbers From 1 To N</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem02" >Problem02: Print Prime Numbers From 1 To N</a>
 
 Write a program to print all prime numbers from 1 to N.
 <br> Example Input:
@@ -18,7 +18,7 @@ Write a program to print all prime numbers from 1 to N.
 <br>5
 <br>7
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem03" >Problem03:Perfect Number:</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem03" >Problem03:Perfect Number:</a>
 
 Write a program to check if the number is perfect or not.
 <br>Note: Prfect Number = Sum (all divisors).
@@ -33,7 +33,7 @@ Write a program to check if the number is perfect or not.
 <br> Output:
 <br> 12 is not perfect
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem04" >Problem04: Perfect Numbers From 1 To N</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem04" >Problem04: Perfect Numbers From 1 To N</a>
 
 Write a program to print all perfect numbers from 1 to N.
 <br> Example Input:
@@ -43,7 +43,7 @@ Write a program to print all perfect numbers from 1 to N.
 <br>28
 <br>496
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem05" >Problem05: Print Digits in Reversed Order:</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem05" >Problem05: Print Digits in Reversed Order:</a>
 
 Write a program to read a number and print it in the reversed order.
 <br> Input:
@@ -54,7 +54,7 @@ Write a program to read a number and print it in the reversed order.
 <br>2
 <br>1
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem06" >Problem06: Sum all digits:</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem06" >Problem06: Sum all digits:</a>
 
 Write a program to read a number and print the sum of its digits.
 <br> Example Input:
@@ -62,7 +62,7 @@ Write a program to read a number and print the sum of its digits.
 <br> Output:
 <br> Sum Of Digits = 10
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem07" >Problem07: Reversed Number</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem07" >Problem07: Reversed Number</a>
 
 Write a program to read a number and print its reversed.
 <br> Example Input:
@@ -70,7 +70,7 @@ Write a program to read a number and print its reversed.
 <br>Output:
 <br>4321
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem08" >Problem08: Digits Frequency</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem08" >Problem08: Digits Frequency</a>
 
 Write a program to read a number and a digit, then print digits frequency in that number.
 <br> Example Input:
@@ -79,7 +79,7 @@ Write a program to read a number and a digit, then print digits frequency in tha
 <br> Output:
 <br> Digit 2 Frequency is 5 Time(s).
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2/problem09" >Problem09: Digits Frquency</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem09" >Problem09: Digits Frquency</a>
 
 Write a program that reads a number and prints all digits frequencies in that number.
 <br>Input:
