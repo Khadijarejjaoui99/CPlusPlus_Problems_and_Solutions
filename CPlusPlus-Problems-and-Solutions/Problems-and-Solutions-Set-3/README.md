@@ -1,3 +1,5 @@
+# Problems and Solutions Set 3
+
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem01">Problem 01: 3x3 Random Matrix </a>
 
 Write a program to fill a 3x3 matrix with random numbers from 1 to 100.
