@@ -1,17 +1,17 @@
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%231">Problem #1: Print your name</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem01">Problem #01: Print your name</a>
 
 Write a program to print your name on the screen.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%232">Problem #2: Read name and print it</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem02">Problem #02: Read name and print it</a>
 
 Write a program to ask the user to enter his/her name and print it on the screen
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%233">Problem #3: Check Odd or Even</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem03">Problem #03: Check Odd or Even</a>
 
 Write a program to ask the user to enter a number, then print "Odd" if it is odd,
 or "Even" if it is even.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%234">Problem #4: Hire a driver case I</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem04">Problem #04: Hire a driver case I</a>
 
 Write a program that ask the user to enter his/her:
 <br> - Age
@@ -19,7 +19,7 @@ Write a program that ask the user to enter his/her:
 <br>Then print "Hired" if his/her age is greater than 21 years old and she/he has a
 driving license, otherwise print "Rejected".
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%235">Problem #5: Hire a driver case II</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem05">Problem #05: Hire a driver case II</a>
 
 Write a program that ask the user to enter his/her:
 <br> - Age
@@ -28,7 +28,7 @@ Write a program that ask the user to enter his/her:
 <br>Then print "Hired" if s/he has recommendations or if his/her age is greater than
 21 years old and she/he has a driving license, otherwise print "Rejected".
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%236">Problem #6: Full Name</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem06">Problem #06: Full Name</a>
 
 Write a program that ask the user to enter his/her:
 <br> - First name
@@ -40,7 +40,7 @@ Write a program that ask the user to enter his/her:
 <br> Output:
 <br> Khadija Rejjaoui
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%237">Problem #7: Half number</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem07">Problem #07: Half number</a>
 
 Write a program that ask the user to enter a number, then print "Half of (number) is (???)"on the screen.
 <br>Example Input:
@@ -48,7 +48,7 @@ Write a program that ask the user to enter a number, then print "Half of (number
 <br>Output:
 <br>Half of 50 is 25
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%238">Problem #8: Pass/Fail</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem08">Problem #08: Pass/Fail</a>
 
 Write a program that ask the user to enter a mark, then print "Pass" if the mark
 is greater or equal to 50 , otherwise print fail
@@ -57,7 +57,7 @@ is greater or equal to 50 , otherwise print fail
 <br>Output:
 <br>Pass
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%239">Problem #9: Sum of 3 numbers</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem09">Problem #09: Sum of 3 numbers</a>
 
 Write a program to ask the user to enter 3 numbers, then print sum of the
 entered numbers.
@@ -68,7 +68,7 @@ entered numbers.
 <br>Output:
 <br>45
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2310">Problem #10: Average of 3 marks</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem10">Problem #10: Average of 3 marks</a>
 
 Write a program to ask the user to enter 3, then print average of the entered
 marks.
@@ -79,7 +79,7 @@ marks.
 <br>Output:
 <br>60
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2311">Problem #11: Average Pass/Fail</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem11">Problem #11: Average Pass/Fail</a>
 
 Write a program to ask the user to enter 3, then print average of the entered
 average, if the average >= 50 print "Pass" otherwise print "Fail" .
@@ -91,7 +91,7 @@ average, if the average >= 50 print "Pass" otherwise print "Fail" .
 <br>60
 <br>"Pass"
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2312">Problem #12: Max of 2 numbers</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem12">Problem #12: Max of 2 numbers</a>
 
 Write a program to ask the user to enter 2 numbers, then print the max number.
 <br>Example Input:
@@ -100,7 +100,7 @@ Write a program to ask the user to enter 2 numbers, then print the max number.
 <br>Output:
 <br>100
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2313">Problem #13: Max of 3 numbers</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem13">Problem #13: Max of 3 numbers</a>
 
 Write a program to ask the user to enter 3 numbers, then print the max number.
 <br>Example Input:
@@ -110,12 +110,12 @@ Write a program to ask the user to enter 3 numbers, then print the max number.
 <br>Output:
 <br>300
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2314">Problem #14: Swap numbers</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem14">Problem #14: Swap numbers</a>
 
 Write a program to ask the user to enter 2 numbers, then print them, after that
 swap them and print them again
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2315">Problem #15: Rectangle Area I</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem15">Problem #15: Rectangle Area I</a>
 
 Write a program to calculate rectangle area and print it on the screen.
 <br>Example Input:
@@ -126,7 +126,7 @@ Write a program to calculate rectangle area and print it on the screen.
 <br>
 <img src = "p15-rule.PNG" alt = "problem #15 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2316">Problem #16: Rectangle Area II</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem16">Problem #16: Rectangle Area II</a>
 
 Write a program to calculate rectangle area through diagonal and side area of
 rectangle and print it on the screen.
@@ -138,7 +138,7 @@ rectangle and print it on the screen.
 <br>
 <img src = "p16-rule.PNG" alt = "problem #16 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2317">Problem #17: Triangle Area</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem17">Problem #17: Triangle Area</a>
 
 Write a program to calculate triangle area then print it on the screen.
 <br>Example Input:
@@ -149,7 +149,7 @@ Write a program to calculate triangle area then print it on the screen.
 <br>
 <img src = "p17-rule.PNG" alt = "problem #17 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2318">Problem #18: Circle Area I</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem18">Problem #18: Circle Area I</a>
 
 Write a program to calculate circle area then print it on the screen.
 <br>Example Input:
@@ -158,7 +158,7 @@ Write a program to calculate circle area then print it on the screen.
 <br>78.54
 <br><img src = "p18-rule.PNG" alt = "problem #18 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2319">Problem #19: Circle Area II</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem19">Problem #19: Circle Area II</a>
 
 Write a program to calculate circle area through diameter, then print it on the
 screen.
@@ -168,7 +168,7 @@ screen.
 <br>78.54
 <br><img src = "p19-rule.PNG" alt = "problem #19 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2320">Problem #20: Circle Area III</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem20">Problem #20: Circle Area III</a>
 
 Write a program to calculate circle area inscribed in a square, then print it on the
 screen.
@@ -178,7 +178,7 @@ screen.
 <br>78.54
 <br><img src = "p20-rule.PNG" alt = "problem #20 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2321">Problem #21: Circle Area IV</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem21">Problem #21: Circle Area IV</a>
 
 Write a program to calculate circle area along the circumference, then print it on
 the screen.
@@ -188,7 +188,7 @@ the screen.
 <br>31.847
 <br><img src = "p21-rule.PNG" alt = "problem #21 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2322">Problem #22: Circle Area V</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem22">Problem #22: Circle Area V</a>
 
 Write a program to calculate circle area inscribed in an isosceles triangle, then
 print it on the screen.
@@ -199,7 +199,7 @@ print it on the screen.
 <br>47.124
 <br><img src = "p22-rule.PNG" alt = "problem #22 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2323">Problem #23: Circle Area VI</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem23">Problem #23: Circle Area VI</a>
 
 Write a program to calculate circle area circle described around an arbitrary
 triangle, then print it on the screen.
@@ -211,7 +211,7 @@ triangle, then print it on the screen.
 <br>40.088
 <br><img src = "p23-rule.PNG" alt = "problem #23 rule">
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2324">Problem #24: Validate Age Between 18 and 45</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem24">Problem #24: Validate Age Between 18 and 45</a>
 
 Write a program to ask the user to enter his/ her age. If the age is between 18
 and 45 print "Valid Age" otherwise print "Invalid Age"
@@ -220,13 +220,13 @@ and 45 print "Valid Age" otherwise print "Invalid Age"
 <br>Output:
 <br>Valid Age
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2325">Problem #25: Read Until Age Between 18 and 45</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem25">Problem #25: Read Until Age Between 18 and 45</a>
 
 Write a program to ask the user to enter his/ her age. If the age is between 18
 and 45 print "Valid Age" otherwise print "Invalid Age" and re-ask user to enter a
 valid age.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2326">Problem #26: Print Numbers from 1 to N</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem26">Problem #26: Print Numbers from 1 to N</a>
 
 Write a program that print from 1 to N.
 <br>Example input:
@@ -238,7 +238,7 @@ Write a program that print from 1 to N.
 <br>4
 <br>5
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2327">Problem #27: Print Numbers from N to 1</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem27">Problem #27: Print Numbers from N to 1</a>
 
 Write a program that print from N to 1.
 <br>Example input:
@@ -250,7 +250,7 @@ Write a program that print from N to 1.
 <br>2
 <br>1
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2328">Problem #28: Print Sum Odd Numbers from 1 to N</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem28">Problem #28: Print Sum Odd Numbers from 1 to N</a>
 
 Write a program to sum odd numbers from 1 to N.
 <br>Example input:
@@ -258,7 +258,7 @@ Write a program to sum odd numbers from 1 to N.
 <br>Output:
 <br>9
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2329">Problem #29: Print Sum Even Numbers from 1 to N</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem29">Problem #29: Print Sum Even Numbers from 1 to N</a>
 
 Write a program to sum even numbers from 1 to N.
 <br>Example input:
@@ -266,7 +266,7 @@ Write a program to sum even numbers from 1 to N.
 <br>Output:
 <br>6
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2330">Problem #30: Sum 1 To N</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem30">Problem #30: Sum 1 To N</a>
 
 You are tasked with creating a program that calculates the sum of numbers based on user input. The program should provide the user with options to choose what type of numbers they want to include in the sum: all numbers, even numbers, or odd numbers. The program should then calculate the sum based on the selected option and display the result.
 
@@ -278,7 +278,7 @@ You are tasked with creating a program that calculates the sum of numbers based 
 <br>c. Sum Odd Numbers: Calculate the sum of all odd numbers from 1 to the user-entered number.
 <br>3. The program should display appropriate messages to inform the user of their selections and the calculated sum.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2331">Problem #31: Factorial of N!</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem31">Problem #31: Factorial of N!</a>
 
 Write a program to calculate Factorial of N!
 <br>Example input:
@@ -286,7 +286,7 @@ Write a program to calculate Factorial of N!
 <br>Output:
 <br>720
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2332">Problem #32: Power of 2,3,4</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem32">Problem #32: Power of 2,3,4</a>
 
 Write a program to ask the user to enter a number and print number^2,
 number^3, number^4
@@ -297,7 +297,7 @@ number^3, number^4
 <br>27
 <br>81
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2333">Problem #33: Power of M</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem33">Problem #33: Power of M</a>
 
 Write a program to ask the user to enter a number and power and print result
 <br>Example Input:
@@ -306,7 +306,7 @@ Write a program to ask the user to enter a number and power and print result
 <br>Output:
 <br>16
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2334">Problem #34: Grade A,B,C,D,E,F</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem34">Problem #34: Grade A,B,C,D,E,F</a>
 
 Write a program to ask the user to enter his/ her mark and print his/her grade.
 <br>90 - 100 Print A.
@@ -316,7 +316,7 @@ Write a program to ask the user to enter his/ her mark and print his/her grade.
 <br>50 - 59 Print E.
 <br>Otherwise Print F.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2335">Problem #35: Commission Percentage</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem35">Problem #35: Commission Percentage</a>
 
 <br>>= 1000,000 -> percentage is 1%
 <br>> 500K to 1M -> percentage is 2%
@@ -330,7 +330,7 @@ Write a program to ask the user to enter his/ her mark and print his/her grade.
 <br>Output
 <br>3,300
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2336">Problem #36: Piggy Bank Calculator</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem36">Problem #36: Piggy Bank Calculator</a>
 
 Write a program to ask the user to enter Pennies, Nickels, Dimes, Quarters,
 Dollars. Print the TotalPennies and TotalDollars.
@@ -340,7 +340,7 @@ Dollars. Print the TotalPennies and TotalDollars.
 <br>Quarter = 25
 <br>Dollar = 100
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2337">Problem #37: Simple Calculator</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem37">Problem #37: Simple Calculator</a>
 
 Write a program to ask the user to enter two numbers and operation type.
 <br>"+" Add two numbers
@@ -348,7 +348,7 @@ Write a program to ask the user to enter two numbers and operation type.
 <br>"\*" Multiply two numbers
 <br>"/" Divide two numbers
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2338">Problem #38: Sum Until -99</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem38">Problem #38: Sum Until -99</a>
 
 Write a program to read numbers from the user and sum them, keep reading
 until the user enter -99 then print the sum on the screen.
@@ -358,7 +358,7 @@ until the user enter -99 then print the sum on the screen.
 <br>Output:
 <br>30
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2339">Problem #39: Is Prime Number</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem39">Problem #39: Is Prime Number</a>
 
 Write a program to read a number and check if it is a prime number or not. Print
 "Prime" if it is prime, and "Not Prime" otherwise.
@@ -367,7 +367,7 @@ A prime number can only be divided by 1 and itself.
 <br>Output:
 <br>Prime
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2340">Problem #40: Pay Remainder</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem40">Problem #40: Pay Remainder</a>
 
 Write a program to read TotalBill and CashPaid and calculate the remainder to
 be paid back.
@@ -376,7 +376,7 @@ be paid back.
 <br>Output:
 <br>30
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2341">Problem #41: Service Fee and Sales Tax </a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem41">Problem #41: Service Fee and Sales Tax </a>
 
 A restaurant charges 10% service fees and 16% sales tax.
 Write a program to read BillValue and add service fees and sales tax to it, and
@@ -385,12 +385,12 @@ print TotalBill on screen.
 <br>Output:
 <br>127.6
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2342">Problem #42: Weeks and Days </a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem42">Problem #42: Weeks and Days </a>
 
 Write a program to read NumberOfHours and calculate the number of weeks
 and days included in that number.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2343">Problem #43:Task Duration In Seconds</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem43">Problem #43:Task Duration In Seconds</a>
 
 Write a program to calculate the task duration in seconds and print it on the
 screen. -> Given the time duration of task in the number of days, hours, minutes,
@@ -403,7 +403,7 @@ and seconds.
 <br>Output:
 <br>193,535 Seconds
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2344">Problem #44:Seconds to Days Hours Minutes Seconds</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem44">Problem #44:Seconds to Days Hours Minutes Seconds</a>
 
 Write a program that takes number of seconds as inputs and change it into
 days, hours, minutes, and seconds.
@@ -412,7 +412,7 @@ days, hours, minutes, and seconds.
 <br>Output:
 <br>2:5:45:35
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2345">Problem #45: Day Of Week</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem45">Problem #45: Day Of Week</a>
 
 Write a program to ask the user to enter day number and print the day name.
 <br>1 print Sunday
@@ -423,7 +423,7 @@ Write a program to ask the user to enter day number and print the day name.
 <br>6 print Friday
 <br>7 print Saturday
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2346">Problem #46: Months of the year</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem46">Problem #46: Months of the year</a>
 
 Write a program to ask the user to enter month number and print the month name.
 <br>1 print January
@@ -439,11 +439,11 @@ Write a program to ask the user to enter month number and print the month name.
 <br>11 print November
 <br>12 print December
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2347">Problem #47: Print from A to Z</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem47">Problem #47: Print from A to Z</a>
 
 Write a program that prints letters from A to Z.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2348">Problem #48: Loan Instalment Months</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem48">Problem #48: Loan Instalment Months</a>
 
 Write a program to read a LoanAmount and a MonthlyPayment and calculate
 how many months you need to settle the loan
@@ -453,7 +453,7 @@ how many months you need to settle the loan
 <br>Output:
 <br>10 months
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2349">Problem #49: Monthly Loan Installment</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem49">Problem #49: Monthly Loan Installment</a>
 
 Write a program to read LoanAmount and ask you how many months you need
 to settle the loan, and calculate the monthly installments.
@@ -463,20 +463,20 @@ to settle the loan, and calculate the monthly installments.
 <br>Output:
 <br>500
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2350">Problem #50: ATM PIN</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem50">Problem #50: ATM PIN</a>
 
 Write a program to read ATM PIN code from the user, then check if the PIN code
 = 1234, then show the balance to the user, otherwise print "Wrong PIN"
 Assume user balance is 7800.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2351">Problem #51: ATM PIN 2</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem51">Problem #51: ATM PIN 2</a>
 
 Write a program to read ATM PIN code from the user, then check if the PIN code
 = 1234, then show the balance to the user, otherwise print "Wrong PIN" and ask
 the user to enter the PIN again and make the screen red.
 Assume user balance is 7800.
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem%2352">Problem #52: ATM PIN</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set1/problem52">Problem #52: ATM PIN</a>
 
 Write a program to read ATM PIN code from the user, then check if the PIN code
 = 1234, then show the balance to the user, otherwise print "Wrong PIN" and ask
