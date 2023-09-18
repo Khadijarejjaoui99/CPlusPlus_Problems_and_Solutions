@@ -1,4 +1,4 @@
-# <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-1" style="color:#003366;">Problems and Solutions Set 1</a>
+# <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-1">Problems and Solutions Set 1</a>
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-1/problem01">Problem #01: Print your name</a>
 
@@ -486,7 +486,7 @@ the user to enter the PIN again.
 Assume user balance is 7800.
 Only allow the user to enter the 3 times. If fails, print "Card is Locked"
 
-# <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2" style="color:#003366;">Problems and Solutions Set 2</a>
+# <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-2">Problems and Solutions Set 2</a>
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/Problems-and-Solutions-Set2/problem01" >Problem01: Multiplication Table 1 To 10</a>
 
@@ -1038,7 +1038,7 @@ Write a program to print sqrt of numbers, don't use built-in sqrt() function.
 <br>My sqrt Result : 3
 <br>C++ sqrt Result: 3
 
-# <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3" style="color:#003366;>Problems and Solutions Set 3</a>
+# <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3">Problems and Solutions Set 3</a>
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem01">Problem 01: 3x3 Random Matrix </a>
 
