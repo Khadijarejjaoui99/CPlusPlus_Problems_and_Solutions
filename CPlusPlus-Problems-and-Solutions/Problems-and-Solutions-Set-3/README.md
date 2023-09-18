@@ -10,7 +10,7 @@ Write a program to fill a 3x3 matrix with random numbers from 1 to 100.
 Write a program to fill a 3x3 matrix with random numbers from 1 to 100. And print the sum of each row.
 <br><br> <img src = "problem02/problem2.png" alt = "problem 2 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem03">Problem 03: Sum Each Row in Matrix </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem03">Problem 03: Sum Each Row in Matrix In Another Array </a>
 
 Write a program to fill a 3x3 matrix with random numbers from 1 to 100. Then sum each row and store the result in array.
 <br><br> <img src = "problem02/problem2.png" alt = "problem 2 output example">
