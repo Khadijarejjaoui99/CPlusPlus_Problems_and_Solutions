@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-enum enPerfectNotPerfect
+enum enNumberType
 {
-    Perfect = 1,
-    NotPerfect = 2
+    Perfect,
+    NotPerfect
 };
 
 int ReadPositiveNumber()
@@ -20,7 +20,7 @@ int ReadPositiveNumber()
     return Num;
 }
 
-enPerfectNotPerfect CheckPerfect(int Number)
+enNumberType CheckPerfect(int Number)
 {
     int Sum = 0;
 
@@ -32,15 +32,12 @@ enPerfectNotPerfect CheckPerfect(int Number)
         }
     }
 
-    if (Number == Sum)
-        return enPerfectNotPerfect::Perfect;
-    else
-        return enPerfectNotPerfect::NotPerfect;
+    return Number == Sum ? enNumberType::Perfect : enNumberType::NotPerfect;
 }
 
 void PrintNumberType(int Number)
 {
-    if (CheckPerfect(Number) == enPerfectNotPerfect::Perfect)
+    if (CheckPerfect(Number) == enNumberType::Perfect)
         cout << Number << " is Perfect\n";
     else
         cout << Number << " is Not Perfect\n";
