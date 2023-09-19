@@ -1,4 +1,4 @@
-## Problem 50: Find Client by AccountNumber
+## Problem 50: Delete Client by AccountNumber
 
 Write a program to delete a client by AccountNumber.
 <br><br>

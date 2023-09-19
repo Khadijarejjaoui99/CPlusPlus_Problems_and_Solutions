@@ -206,7 +206,7 @@ Write a program to convert a line of data to a record and print it.
 <br><br>
 <img src = "problem45/problem45.png" alt ="Output Example of problem 45"/>
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem46">Problem 46: Convert a line of Data to a Record</a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem46">Problem 46: Convert a Record to a Line of Data</a>
 
 Write a program to convert a record to a line and print it.
 <br><br>
@@ -214,11 +214,11 @@ Write a program to convert a record to a line and print it.
 
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem47">Problem 47: Add Clients to file</a>
 
-Write a program to ask you to enter a clients and save them in the file.
+Write a program to ask you to enter clients and save them in the file.
 <br><br>
 <img src = "problem47/problem47.png" alt ="Output Example of problem 47"/>
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem48">Problem 48: Add Clients to file</a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem48">Problem 48: Show All Clients </a>
 
 Write a program to read a clients file and show them on the screen as following:
 <br><br>
@@ -230,13 +230,13 @@ Write a program to find a client by AccountNumber and print it on the screen.
 <br><br>
 <img src = "problem49/problem49.png" alt ="Output Example of problem 49"/>
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem50">Problem 50: Find Client by AccountNumber</a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem50">Problem 50: Delete Client by AccountNumber</a>
 
 Write a program to delete a client by AccountNumber.
 <br><br>
 <img src = "problem50/problem50.png" alt ="Output Example of problem 50"/>
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem51">Problem 51: Find Client by AccountNumber</a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem51">Problem 51: Update Client by AccountNumber</a>
 
 Write a program to update a client data by AccountNumber.
 <br><br>

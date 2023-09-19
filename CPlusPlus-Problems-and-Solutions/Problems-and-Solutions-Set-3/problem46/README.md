@@ -1,4 +1,4 @@
-## Problem 46: Convert Record to a Line</a>
+## Problem 46: Convert a Record to a Line of Data
 
 Write a program to convert a record to a line and print it.
 <br><br>

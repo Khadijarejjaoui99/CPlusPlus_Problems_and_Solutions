@@ -1,4 +1,4 @@
-## Problem 51: Find Client by AccountNumber
+## Problem 51: Update Client by AccountNumber
 
 Write a program to update a client data by AccountNumber.
 <br><br>

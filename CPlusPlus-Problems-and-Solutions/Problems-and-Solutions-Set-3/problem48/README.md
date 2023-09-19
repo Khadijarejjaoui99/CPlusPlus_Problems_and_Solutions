@@ -1,4 +1,4 @@
-## Problem 48: Add Clients to file
+## Problem 48: Show All Clients
 
 Write a program to read a clients file and show them on the screen as following:
 <br><br>
