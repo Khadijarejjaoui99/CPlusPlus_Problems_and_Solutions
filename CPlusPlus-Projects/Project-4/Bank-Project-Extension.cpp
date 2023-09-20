@@ -509,6 +509,7 @@ void GoBackToTransactionsMenu()
     ShowTransactionsMenu();
 }
 
+<<<<<<< HEAD
 void WithdrawBalanceByAccountNumber()
 {
     vector<stClient> vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
@@ -545,7 +546,9 @@ void ShowWithdrawScreen()
     WithdrawBalanceByAccountNumber();
 }
 
-short ReadTransactionsMenuOpetion()
+== == == =
+>>>>>>> 123d8149fb21b6a5369efaa57986cc5c648ea7d4
+             short ReadTransactionsMenuOpetion()
 {
     short Option;
 
