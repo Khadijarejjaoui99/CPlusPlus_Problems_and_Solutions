@@ -128,6 +128,13 @@ void ShowAllClientsScreen()
     ShowAllClients(vClients);
 }
 
+void GoBackToMainMenu()
+{
+    cout << "\n\nPlease press any key to go back to main menu ";
+    system("pause>0");
+    ShowMainMenuScreen();
+}
+
 short ReadMainMenuOpetion()
 {
     short Option;
@@ -148,23 +155,23 @@ void PerformMainMenuOption(enMainMenuOpetions MainMenuOption)
     {
     case enMainMenuOpetions::eListClients:
         ShowAllClientsScreen();
-        // GoBackToMainMenu();
+        GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eAddClients:
         // ShowAddClientsScreen();
-        // GoBackToMainMenu();
+        GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eDeleteClient:
         // ShowDeleteClientScreen();
-        // GoBackToMainMenu();
+        GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eUpdateClient:
         // ShowUpdateClientScreen();
-        // GoBackToMainMenu();
+        GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eFindClient:
         // ShowFindClientScreen();
-        // GoBackToMainMenu();
+        GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eExit:
         // ShowExitScreen();
