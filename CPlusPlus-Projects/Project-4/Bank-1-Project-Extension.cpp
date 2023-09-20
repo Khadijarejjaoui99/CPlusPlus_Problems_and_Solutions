@@ -449,10 +449,10 @@ short ReadMainMenuOpetion()
 
     do
     {
-        cout << "Choose what you want to do? [1 to 6]? ";
+        cout << "Choose what you want to do? [1 to 7]? ";
         cin >> Option;
 
-    } while (Option < 1 || Option > 6);
+    } while (Option < 1 || Option > 7);
 
     return Option;
 }
