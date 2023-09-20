@@ -427,6 +427,14 @@ void ShowFindClientScreen()
         cout << "\nClient with Account Number (" << AccountNumber << ") Not Found!\n";
 }
 
+void ShowExitScreen()
+{
+    system("cls");
+    cout << "==================================\n";
+    cout << "\tProgram Ends :-)\n";
+    cout << "==================================\n";
+}
+
 void GoBackToMainMenu()
 {
     cout << "\n\nPlease press any key to go back to main menu ";
@@ -473,7 +481,7 @@ void PerformMainMenuOption(enMainMenuOpetions MainMenuOption)
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eExit:
-        // ShowExitScreen();
+        ShowExitScreen();
         break;
     }
 }
