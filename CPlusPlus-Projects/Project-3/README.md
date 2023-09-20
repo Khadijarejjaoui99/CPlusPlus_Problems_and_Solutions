@@ -35,3 +35,6 @@ The Bank Project offers the following functionalities:
 Upon launching the application, you will be presented with a menu of options corresponding to the functionalities described above. Follow the prompts and select the desired action to manage the list of clients efficiently.
 
 ## Project Demo
+
+https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/assets/81415094/25531f81-9419-40ce-9a47-2e1ec37fde21
+
