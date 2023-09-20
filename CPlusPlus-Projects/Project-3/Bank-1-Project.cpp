@@ -29,7 +29,7 @@ void ShowMainMenuScreen();
 vector<string> SplitString(string Str, string Delim)
 {
     int pos = 0;
-    string sWord;
+    string sWord = "";
     vector<string> vString;
 
     while ((pos = Str.find(Delim)) != string::npos)
@@ -50,8 +50,8 @@ vector<string> SplitString(string Str, string Delim)
 
 stClient ConvertDataLineToRecord(string DataLine, string Separator = "#//#")
 {
-    stClient Client;
     vector<string> vString = SplitString(DataLine, Separator);
+    stClient Client;
 
     Client.AccountNumber = vString[0];
     Client.PINCode = vString[1];
@@ -64,9 +64,8 @@ stClient ConvertDataLineToRecord(string DataLine, string Separator = "#//#")
 
 vector<stClient> LoadClientDataFromFile(string FileName)
 {
-    vector<stClient> vClients;
-
     fstream MyFile;
+    vector<stClient> vClients;
 
     MyFile.open(FileName, ios::in);
 
@@ -100,10 +99,10 @@ void ShowAllClients(vector<stClient> vClients)
 {
     cout << "\n\t\t\t\tClient List (" << vClients.size() << ") client(s)." << endl;
     cout << "________________________________________________________________________________________________\n\n";
-    cout << "| " << left << setw(15) << "Account Number";
+    cout << "| " << left << setw(15) << "Accout Number";
     cout << "| " << left << setw(10) << "PIN Code";
-    cout << "| " << left << setw(40) << "Name";
-    cout << "| " << left << setw(12) << "Phone";
+    cout << "| " << left << setw(35) << "Client Name";
+    cout << "| " << left << setw(15) << "Phone";
     cout << "| " << left << setw(12) << "Balance";
     cout << "\n________________________________________________________________________________________________\n\n";
 
@@ -111,9 +110,9 @@ void ShowAllClients(vector<stClient> vClients)
         cout << "\t\t\t\t No Client available in the system!";
     else
     {
-        for (stClient &C : vClients)
+        for (stClient &Client : vClients)
         {
-            PrintClientRecord(C);
+            PrintClientRecord(Client);
             cout << endl;
         }
     }
@@ -126,6 +125,119 @@ void ShowAllClientsScreen()
     vector<stClient> vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
 
     ShowAllClients(vClients);
+}
+
+bool IsAccountNumberExists(string AccountNumber, string FileName)
+{
+    fstream MyFile;
+
+    MyFile.open(FileName, ios::in);
+
+    if (MyFile.is_open())
+    {
+        stClient Client;
+        string Line;
+
+        while (getline(MyFile, Line))
+        {
+            Client = ConvertDataLineToRecord(Line);
+
+            if (Client.AccountNumber == AccountNumber)
+            {
+                MyFile.close();
+
+                return true;
+            }
+        }
+        MyFile.close();
+    }
+
+    return false;
+}
+
+stClient ReadClientRecord()
+{
+    stClient Client;
+
+    cout << "Please Enter Account Number: ";
+    getline(cin >> ws, Client.AccountNumber);
+
+    while (IsAccountNumberExists(Client.AccountNumber, CLIENTS_FILE_NAME))
+    {
+        cout << "Account Number (" << Client.AccountNumber << ") Exist. Please enter another account number: ";
+        getline(cin, Client.AccountNumber);
+    }
+
+    cout << "Please Enter PIN Code: ";
+    getline(cin, Client.PINCode);
+    cout << "Please Enter Name: ";
+    getline(cin, Client.Name);
+    cout << "Please Enter Phone: ";
+    getline(cin, Client.Phone);
+    cout << "Please Enter Account Balance: ";
+    cin >> Client.AccountBalance;
+
+    return Client;
+}
+
+string ConvertRecordToDataLine(stClient Client, string Separator = "#//#")
+{
+    string DataLine = "";
+
+    DataLine += Client.AccountNumber + Separator;
+    DataLine += Client.PINCode + Separator;
+    DataLine += Client.Name + Separator;
+    DataLine += Client.Phone + Separator;
+    DataLine += to_string(Client.AccountBalance);
+
+    return DataLine;
+}
+
+void AddDataLineToFile(string FileName, string DataLine)
+{
+    fstream MyFile;
+
+    MyFile.open(FileName, ios::out | ios::app);
+
+    if (MyFile.is_open())
+    {
+        MyFile << DataLine << endl;
+        MyFile.close();
+    }
+}
+
+void AddNewClient()
+{
+    stClient Client = ReadClientRecord();
+
+    AddDataLineToFile(CLIENTS_FILE_NAME, ConvertRecordToDataLine(Client));
+}
+
+void AddNewClients()
+{
+    char AddMore = 'y';
+
+    do
+    {
+
+        cout << "\nAdding New Client:\n\n";
+
+        AddNewClient();
+
+        cout << "\nClient Added Successfully, do you want to add more clients: ";
+        cin >> AddMore;
+
+    } while (tolower(AddMore) == 'y');
+}
+
+void ShowAddClientsScreen()
+{
+    system("cls");
+    cout << "==================================\n";
+    cout << "\tAdd New Clients Screen\n";
+    cout << "==================================\n";
+
+    AddNewClients();
 }
 
 void GoBackToMainMenu()
@@ -158,7 +270,7 @@ void PerformMainMenuOption(enMainMenuOpetions MainMenuOption)
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eAddClients:
-        // ShowAddClientsScreen();
+        ShowAddClientsScreen();
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eDeleteClient:
