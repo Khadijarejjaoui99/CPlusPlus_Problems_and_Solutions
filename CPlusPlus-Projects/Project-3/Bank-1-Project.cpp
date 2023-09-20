@@ -254,7 +254,7 @@ void PrintClientCard(stClient Client)
 {
     cout << "\nThe followings are Client Details:\n";
     cout << "----------------------------------------\n";
-    cout << "\nAccount Number: " << Client.AccountNumber << endl;
+    cout << "Account Number: " << Client.AccountNumber << endl;
     cout << "PIN Code: " << Client.PINCode << endl;
     cout << "Name: " << Client.Name << endl;
     cout << "Phone: " << Client.Phone << endl;
@@ -410,6 +410,23 @@ void ShowUpdateClientScreen()
     UpdateClientByAccountNumber(vClients, AccountNumber);
 }
 
+void ShowFindClientScreen()
+{
+    system("cls");
+    cout << "==================================\n";
+    cout << "\tFind Client Screen\n";
+    cout << "==================================\n";
+
+    vector<stClient> vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
+    string AccountNumber = ReadAccountNumber();
+    stClient Client;
+
+    if (FindClientByAccountNumber(AccountNumber, Client, vClients))
+        PrintClientCard(Client);
+    else
+        cout << "\nClient with Account Number (" << AccountNumber << ") Not Found!\n";
+}
+
 void GoBackToMainMenu()
 {
     cout << "\n\nPlease press any key to go back to main menu ";
@@ -452,7 +469,7 @@ void PerformMainMenuOption(enMainMenuOpetions MainMenuOption)
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eFindClient:
-        // ShowFindClientScreen();
+        ShowFindClientScreen();
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eExit:
