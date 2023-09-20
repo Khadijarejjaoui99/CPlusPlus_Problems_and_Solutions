@@ -34,6 +34,7 @@ enum enTransactionsMenuOptions
 };
 
 void ShowMainMenuScreen();
+
 void ShowTransactionsMenu();
 
 vector<string> SplitString(string Str, string Delim)
@@ -229,6 +230,7 @@ void AddNewClients()
 
     do
     {
+
         cout << "\nAdding New Client:\n\n";
 
         AddNewClient();
@@ -444,13 +446,6 @@ void ShowExitScreen()
     cout << "==================================\n";
 }
 
-void GoBackToMainMenu()
-{
-    cout << "\n\nPlease press any key to go back to main menu ";
-    system("pause>0");
-    ShowMainMenuScreen();
-}
-
 void ApplyTransaction(vector<stClient> &vClients, string AccountNumber, double Amount)
 {
     char Answer = 'n';
@@ -502,14 +497,6 @@ void ShowDepositScreen()
     DepositBalanceByAccountNumber();
 }
 
-void GoBackToTransactionsMenu()
-{
-    cout << "\n\nPlease press any key to go back to transactions menu...";
-    system("pause>0");
-    ShowTransactionsMenu();
-}
-
-<<<<<<< HEAD
 void WithdrawBalanceByAccountNumber()
 {
     vector<stClient> vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
@@ -546,9 +533,50 @@ void ShowWithdrawScreen()
     WithdrawBalanceByAccountNumber();
 }
 
-== == == =
->>>>>>> 123d8149fb21b6a5369efaa57986cc5c648ea7d4
-             short ReadTransactionsMenuOpetion()
+void PrintClientInfo(stClient Client)
+{
+    cout << "| " << left << setw(15) << Client.AccountNumber;
+    cout << "| " << left << setw(40) << Client.Name;
+    cout << "| " << left << setw(20) << Client.AccountBalance;
+}
+
+void ShowBalanceList(vector<stClient> vClients)
+{
+
+    cout << "\n\t\t\t\tBalance List (" << vClients.size() << ") client(s)." << endl;
+    cout << "________________________________________________________________________________________________\n\n";
+    cout << "| " << left << setw(15) << "Accout Number";
+    cout << "| " << left << setw(40) << "Client Name";
+    cout << "| " << left << setw(20) << "Balance";
+    cout << "\n________________________________________________________________________________________________\n\n";
+
+    double TotalBalance = 0;
+
+    if (vClients.size() == 0)
+        cout << "\t\t\t\t No Client available in the system!";
+    else
+    {
+        for (stClient &Client : vClients)
+        {
+            PrintClientInfo(Client);
+            TotalBalance += Client.AccountBalance;
+            cout << endl;
+        }
+    }
+    cout << "\n\n_________________________________________________________________________________________________\n";
+
+    cout << "\n\t\t\t\t\t Total Balances = " << std::fixed << std::setprecision(2) << TotalBalance << endl;
+}
+
+void ShowTotalBalanceScreen()
+{
+    system("cls");
+    vector<stClient> vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
+
+    ShowBalanceList(vClients);
+}
+
+short ReadTransactionsMenuOpetion()
 {
     short Option;
 
@@ -560,6 +588,13 @@ void ShowWithdrawScreen()
     } while (Option < 1 || Option > 4);
 
     return Option;
+}
+
+void GoBackToTransactionsMenu()
+{
+    cout << "\n\nPlease press any key to go back to transactions menu...";
+    system("pause>0");
+    ShowTransactionsMenu();
 }
 
 void PerformTransactionsMenuOption(enTransactionsMenuOptions TransactionsMenuOption)
@@ -575,7 +610,7 @@ void PerformTransactionsMenuOption(enTransactionsMenuOptions TransactionsMenuOpt
         GoBackToTransactionsMenu();
         break;
     case enTransactionsMenuOptions::eTotalBalance:
-        // ShowTotalBalanceScreen();
+        ShowTotalBalanceScreen();
         GoBackToTransactionsMenu();
         break;
     case enTransactionsMenuOptions::eMainMenu:
@@ -597,6 +632,13 @@ void ShowTransactionsMenu()
     cout << "============================================\n";
 
     PerformTransactionsMenuOption((enTransactionsMenuOptions)ReadTransactionsMenuOpetion());
+}
+
+void GoBackToMainMenu()
+{
+    cout << "\n\nPlease press any key to go back to main menu...";
+    system("pause>0");
+    ShowMainMenuScreen();
 }
 
 short ReadMainMenuOpetion()
