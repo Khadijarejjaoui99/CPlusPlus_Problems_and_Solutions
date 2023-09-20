@@ -16,13 +16,117 @@ struct stClient
 
 enum enMainMenuOpetions
 {
-    eShowList = 1,
+    eListClients = 1,
     eAddClients = 2,
     eDeleteClient = 3,
     eUpdateClient = 4,
     eFindClient = 5,
     eExit = 6
 };
+
+void ShowMainMenuScreen();
+
+vector<string> SplitString(string Str, string Delim)
+{
+    int pos = 0;
+    string sWord;
+    vector<string> vString;
+
+    while ((pos = Str.find(Delim)) != string::npos)
+    {
+        sWord = Str.substr(0, pos);
+
+        if (sWord != "")
+            vString.push_back(sWord);
+
+        Str.erase(0, pos + Delim.length());
+    }
+
+    if (Str != "")
+        vString.push_back(Str);
+
+    return vString;
+}
+
+stClient ConvertDataLineToRecord(string DataLine, string Separator = "#//#")
+{
+    stClient Client;
+    vector<string> vString = SplitString(DataLine, Separator);
+
+    Client.AccountNumber = vString[0];
+    Client.PINCode = vString[1];
+    Client.Name = vString[2];
+    Client.Phone = vString[3];
+    Client.AccountBalance = stod(vString[4]);
+
+    return Client;
+}
+
+vector<stClient> LoadClientDataFromFile(string FileName)
+{
+    vector<stClient> vClients;
+
+    fstream MyFile;
+
+    MyFile.open(FileName, ios::in);
+
+    if (MyFile.is_open())
+    {
+        string Line = "";
+        stClient Client;
+
+        while (getline(MyFile, Line))
+        {
+            Client = ConvertDataLineToRecord(Line);
+            vClients.push_back(Client);
+        }
+
+        MyFile.close();
+    }
+
+    return vClients;
+}
+
+void PrintClientRecord(stClient Client)
+{
+    cout << "| " << left << setw(15) << Client.AccountNumber;
+    cout << "| " << left << setw(10) << Client.PINCode;
+    cout << "| " << left << setw(35) << Client.Name;
+    cout << "| " << left << setw(15) << Client.Phone;
+    cout << "| " << left << setw(12) << Client.AccountBalance;
+}
+
+void ShowAllClients(vector<stClient> vClients)
+{
+    cout << "\n\t\t\t\tClient List (" << vClients.size() << ") client(s)." << endl;
+    cout << "________________________________________________________________________________________________\n\n";
+    cout << "| " << left << setw(15) << "Account Number";
+    cout << "| " << left << setw(10) << "PIN Code";
+    cout << "| " << left << setw(40) << "Name";
+    cout << "| " << left << setw(12) << "Phone";
+    cout << "| " << left << setw(12) << "Balance";
+    cout << "\n________________________________________________________________________________________________\n\n";
+
+    if (vClients.size() == 0)
+        cout << "\t\t\t\t No Client available in the system!";
+    else
+    {
+        for (stClient &C : vClients)
+        {
+            PrintClientRecord(C);
+            cout << endl;
+        }
+    }
+    cout << "\n\n_________________________________________________________________________________________________\n";
+}
+
+void ShowAllClientsScreen()
+{
+    system("cls");
+    vector<stClient> vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
+
+    ShowAllClients(vClients);
+}
 
 short ReadMainMenuOpetion()
 {
@@ -42,28 +146,28 @@ void PerformMainMenuOption(enMainMenuOpetions MainMenuOption)
 {
     switch (MainMenuOption)
     {
-    case enMainMenuOpetions::eShowList:
-        ShowClientsListScreen();
-        GoBackToMainMenu();
+    case enMainMenuOpetions::eListClients:
+        ShowAllClientsScreen();
+        // GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eAddClients:
-        ShowAddClientsScreen();
-        GoBackToMainMenu();
+        // ShowAddClientsScreen();
+        // GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eDeleteClient:
-        ShowDeleteClientScreen();
-        GoBackToMainMenu();
+        // ShowDeleteClientScreen();
+        // GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eUpdateClient:
-        ShowUpdateClientScreen();
-        GoBackToMainMenu();
+        // ShowUpdateClientScreen();
+        // GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eFindClient:
-        ShowFindClientScreen();
-        GoBackToMainMenu();
+        // ShowFindClientScreen();
+        // GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eExit:
-        ShowExitScreen();
+        // ShowExitScreen();
         break;
     }
 }
