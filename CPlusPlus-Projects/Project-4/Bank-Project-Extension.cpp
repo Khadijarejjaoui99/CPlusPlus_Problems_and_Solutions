@@ -25,6 +25,14 @@ enum enMainMenuOptions
     eExit = 7
 };
 
+enum enTransactionsMenuOptions
+{
+    eDeposit = 1,
+    eWithdraw = 2,
+    eTotalBalance = 3,
+    eMainMenu = 4
+};
+
 void ShowMainMenuScreen();
 
 vector<string> SplitString(string Str, string Delim)
@@ -220,7 +228,6 @@ void AddNewClients()
 
     do
     {
-
         cout << "\nAdding New Client:\n\n";
 
         AddNewClient();
@@ -443,16 +450,67 @@ void GoBackToMainMenu()
     ShowMainMenuScreen();
 }
 
+short ReadTransactionsMenuOpetion()
+{
+    short Option;
+
+    do
+    {
+        cout << "Choose what you want to do? [1 to 4]? ";
+        cin >> Option;
+
+    } while (Option < 1 || Option > 4);
+
+    return Option;
+}
+
+void PerformTransactionsMenuOption(enTransactionsMenuOptions TransactionsMenuOption)
+{
+    switch (TransactionsMenuOption)
+    {
+    case enTransactionsMenuOptions::eDeposit:
+        // ShowDepositScreen();
+        // GoBackToTransactionsMenu();
+        break;
+    case enTransactionsMenuOptions::eWithdraw:
+        // ShowWithdrawScreen();
+        // GoBackToTransactionsMenu();
+        break;
+    case enTransactionsMenuOptions::eTotalBalance:
+        // ShowTotalBalanceScreen();
+        // GoBackToTransactionsMenu();
+        break;
+    case enTransactionsMenuOptions::eMainMenu:
+        // ShowMainMenuScreen();
+        break;
+    }
+}
+
+void ShowTransactionsMenu()
+{
+    system("cls");
+    cout << "============================================\n";
+    cout << "\tTransactions Menu Screen\n";
+    cout << "============================================\n";
+    cout << "\t[1] Deposit.\n";
+    cout << "\t[2] Withdraw.\n";
+    cout << "\t[3] Total Balances.\n";
+    cout << "\t[4] Main Menu.\n";
+    cout << "============================================\n";
+
+    PerformTransactionsMenuOption((enTransactionsMenuOptions)ReadTransactionsMenuOpetion());
+}
+
 short ReadMainMenuOpetion()
 {
     short Option;
 
     do
     {
-        cout << "Choose what you want to do? [1 to 6]? ";
+        cout << "Choose what you want to do? [1 to 7]? ";
         cin >> Option;
 
-    } while (Option < 1 || Option > 6);
+    } while (Option < 1 || Option > 7);
 
     return Option;
 }
@@ -480,6 +538,9 @@ void PerformMainMenuOption(enMainMenuOptions MainMenuOption)
     case enMainMenuOptions::eFindClient:
         ShowFindClientScreen();
         GoBackToMainMenu();
+        break;
+    case enMainMenuOptions::eTransactions:
+        ShowTransactionsMenu();
         break;
     case enMainMenuOptions::eExit:
         ShowExitScreen();
