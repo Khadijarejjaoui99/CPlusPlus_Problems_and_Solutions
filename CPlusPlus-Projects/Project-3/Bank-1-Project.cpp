@@ -343,6 +343,73 @@ void ShowDeleteClientScreen()
     DeleteClientByAccountNumber(vClients, AccountNumber);
 }
 
+stClient UpdateClientRecord(string AccountNumber)
+{
+    stClient Client;
+
+    Client.AccountNumber = AccountNumber;
+
+    cout << "\nPlease Enter PIN Code: ";
+    getline(cin >> ws, Client.PINCode);
+
+    cout << "Please Enter Name: ";
+    getline(cin, Client.Name);
+
+    cout << "Please Enter Phone: ";
+    getline(cin, Client.Phone);
+
+    cout << "Please Enter Account Balance: ";
+    cin >> Client.AccountBalance;
+
+    return Client;
+}
+
+void UpdateClientByAccountNumber(vector<stClient> &vClients, string AccountNumber)
+{
+    stClient Client;
+    char Answer = 'n';
+
+    if (FindClientByAccountNumber(AccountNumber, Client, vClients))
+    {
+        PrintClientCard(Client);
+
+        cout << "\nAre you sure you want to update this client? y/n? ";
+        cin >> Answer;
+
+        if (tolower(Answer) == 'y')
+        {
+            for (stClient &C : vClients)
+            {
+                if (C.AccountNumber == AccountNumber)
+                {
+                    C = UpdateClientRecord(AccountNumber);
+                    break;
+                }
+            }
+
+            SavaClientsToFile(vClients, CLIENTS_FILE_NAME);
+
+            cout << "\nClient Updated Successfully\n";
+        }
+    }
+    else
+    {
+        cout << "\nClient with Account Number (" << AccountNumber << ") Not Found!\n";
+    }
+}
+
+void ShowUpdateClientScreen()
+{
+    system("cls");
+    cout << "==================================\n";
+    cout << "\tUpdate Client Screen\n";
+    cout << "==================================\n";
+
+    vector<stClient> vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
+    string AccountNumber = ReadAccountNumber();
+    UpdateClientByAccountNumber(vClients, AccountNumber);
+}
+
 void GoBackToMainMenu()
 {
     cout << "\n\nPlease press any key to go back to main menu ";
@@ -381,7 +448,7 @@ void PerformMainMenuOption(enMainMenuOpetions MainMenuOption)
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eUpdateClient:
-        // ShowUpdateClientScreen();
+        ShowUpdateClientScreen();
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eFindClient:
