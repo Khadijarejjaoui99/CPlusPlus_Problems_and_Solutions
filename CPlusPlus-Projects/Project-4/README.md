@@ -36,6 +36,10 @@ Upon launching the application, you will be presented with a main menu that incl
 
 ## Project Demo
 
+
+https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/assets/81415094/6d17ac67-e763-4c57-a40f-f250a4296501
+
+
 ### Check Features of Project 3 (Bank 1 with transactions features):
 
 https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/assets/81415094/25531f81-9419-40ce-9a47-2e1ec37fde21
