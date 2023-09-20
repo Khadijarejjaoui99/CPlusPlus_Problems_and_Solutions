@@ -240,6 +240,109 @@ void ShowAddClientsScreen()
     AddNewClients();
 }
 
+string ReadAccountNumber()
+{
+    string AccountNumber;
+
+    cout << "Please enter Account Number: ";
+    getline(cin >> ws, AccountNumber);
+
+    return AccountNumber;
+}
+
+void PrintClientCard(stClient Client)
+{
+    cout << "\nThe followings are Client Details:\n";
+    cout << "----------------------------------------\n";
+    cout << "\nAccount Number: " << Client.AccountNumber << endl;
+    cout << "PIN Code: " << Client.PINCode << endl;
+    cout << "Name: " << Client.Name << endl;
+    cout << "Phone: " << Client.Phone << endl;
+    cout << "Account Balance: " << Client.AccountBalance << endl;
+    cout << "----------------------------------------\n";
+}
+
+void MarkClientForDelete(vector<stClient> &vClients, string AccountNumber)
+{
+    for (stClient &C : vClients)
+    {
+        if (C.AccountNumber == AccountNumber)
+        {
+            C.MarkForDelete = true;
+            break;
+        }
+    }
+}
+
+void SavaClientsToFile(vector<stClient> vClients, string FileName)
+{
+    fstream MyFile;
+
+    MyFile.open(FileName, ios::out);
+
+    if (MyFile.is_open())
+    {
+        for (stClient &C : vClients)
+        {
+            if (!C.MarkForDelete)
+                MyFile << ConvertRecordToDataLine(C) << endl;
+        }
+    }
+}
+
+bool FindClientByAccountNumber(string AccountNumber, stClient &Client, vector<stClient> vClients)
+{
+    for (stClient &C : vClients)
+    {
+        if (C.AccountNumber == AccountNumber)
+        {
+            Client = C;
+            return true;
+        }
+    }
+
+    return false;
+}
+
+void DeleteClientByAccountNumber(vector<stClient> &vClients, string AccountNumber)
+{
+    stClient Client;
+    char Answer = 'n';
+
+    if (FindClientByAccountNumber(AccountNumber, Client, vClients))
+    {
+        PrintClientCard(Client);
+
+        cout << "\nAre you sure you want to delete this client? y/n? ";
+        cin >> Answer;
+
+        if (tolower(Answer) == 'y')
+        {
+            MarkClientForDelete(vClients, AccountNumber);
+            SavaClientsToFile(vClients, CLIENTS_FILE_NAME);
+            vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
+
+            cout << "\nClient Deleted Successfully\n";
+        }
+    }
+    else
+    {
+        cout << "\nClient with Account Number (" << AccountNumber << ") Not Found!\n";
+    }
+}
+
+void ShowDeleteClientScreen()
+{
+    system("cls");
+    cout << "==================================\n";
+    cout << "\tDelete Client Screen\n";
+    cout << "==================================\n";
+
+    vector<stClient> vClients = LoadClientDataFromFile(CLIENTS_FILE_NAME);
+    string AccountNumber = ReadAccountNumber();
+    DeleteClientByAccountNumber(vClients, AccountNumber);
+}
+
 void GoBackToMainMenu()
 {
     cout << "\n\nPlease press any key to go back to main menu ";
@@ -274,7 +377,7 @@ void PerformMainMenuOption(enMainMenuOpetions MainMenuOption)
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eDeleteClient:
-        // ShowDeleteClientScreen();
+        ShowDeleteClientScreen();
         GoBackToMainMenu();
         break;
     case enMainMenuOpetions::eUpdateClient:
