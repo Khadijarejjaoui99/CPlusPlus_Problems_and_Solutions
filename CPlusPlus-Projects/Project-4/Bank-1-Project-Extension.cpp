@@ -21,7 +21,8 @@ enum enMainMenuOptions
     eDeleteClient = 3,
     eUpdateClient = 4,
     eFindClient = 5,
-    eExit = 6
+    eTransactions = 6,
+    eExit = 7
 };
 
 void ShowMainMenuScreen();
@@ -479,6 +480,9 @@ void PerformMainMenuOption(enMainMenuOptions MainMenuOption)
     case enMainMenuOptions::eFindClient:
         ShowFindClientScreen();
         GoBackToMainMenu();
+        break;
+    case enMainMenuOptions::eTransactions:
+        ShowExitScreen();
         break;
     case enMainMenuOptions::eExit:
         ShowExitScreen();
