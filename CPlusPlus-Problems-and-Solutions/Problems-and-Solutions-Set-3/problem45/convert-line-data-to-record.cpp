@@ -41,7 +41,7 @@ vector<string> SplitString(string Str, string Delim)
     return vString;
 }
 
-stClient ConvertLineToRecord(string Str, string Separator = "#//#")
+stClient ConvertDataLineToRecord(string Str, string Separator = "#//#")
 {
     vector<string> vString = SplitString(Str, Separator);
     stClient Client;
@@ -71,7 +71,7 @@ int main()
     cout << "\nLine:\n";
     cout << sLine << endl;
 
-    stClient Client = ConvertLineToRecord(sLine);
+    stClient Client = ConvertDataLineToRecord(sLine);
 
     PrintRecord(Client);
 

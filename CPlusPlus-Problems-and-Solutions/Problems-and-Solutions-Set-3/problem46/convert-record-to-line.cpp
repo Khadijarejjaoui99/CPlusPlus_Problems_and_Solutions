@@ -27,7 +27,7 @@ stClient ReadClientRecord()
     return Client;
 }
 
-string ConvertRecordToLine(stClient Client, string Separator = "#//#")
+string ConvertRecordToDataLine(stClient Client, string Separator = "#//#")
 {
     string Str = "";
 
@@ -44,7 +44,7 @@ int main()
 {
     stClient Client = ReadClientRecord();
 
-    string Line = ConvertRecordToLine(Client);
+    string Line = ConvertRecordToDataLine(Client);
 
     cout << "Client Record Line: " << Line << endl;
 
