@@ -29,3 +29,9 @@ Write a program to print number of days, hours, minutes, and seconds in a year.
 Write a program to print number of days, hours, minutes, and seconds in a month.
 <br><br>
 <img src="problem05/problem05.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem06">Problem 06: Number of Days in a month (Short Logic)</a>
+
+Write a program to print number of days in a certain month.
+<br><br>
+<img src="problem06/problem06.png" alt = "Example output"/>
