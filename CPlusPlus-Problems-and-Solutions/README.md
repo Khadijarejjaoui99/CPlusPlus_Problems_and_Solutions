@@ -1308,3 +1308,9 @@ Solve leap year problem with one line of code only.
 Write a program to print number of days, hours, minutes, and seconds in a year.
 <br><br>
 <img src="Problems-and-Solutions-Set-4/problem04/problem04.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem05">Problem 05: Number of Days Hours Minutes Seconds in a month</a>
+
+Write a program to print number of days, hours, minutes, and seconds in a month.
+<br><br>
+<img src="Problems-and-Solutions-Set-4/problem05/problem05.png" alt = "Example output"/>
