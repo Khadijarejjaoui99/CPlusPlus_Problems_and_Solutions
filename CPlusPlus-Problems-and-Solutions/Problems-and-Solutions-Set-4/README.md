@@ -22,4 +22,4 @@ Solve leap year problem with one line of code only.
 
 Write a program to print number of days, hours, minutes, and seconds in a year.
 <br><br>
-<img src="problem04/problem04.png" alt = "Examples of leap and not leap year"/>
+<img src="problem04/problem04.png" alt = "Example output"/>
