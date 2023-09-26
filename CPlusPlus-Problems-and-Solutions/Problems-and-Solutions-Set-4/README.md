@@ -74,3 +74,15 @@ Write a program to print total days from the beginning of the year.
 Write a program to read date and read how many days to add to add to it, then print result on the screen.
 <br><br>
 <img src="problem12/problem12.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem13">Problem 13: Date1 Less than Date2</a>
+
+Write a program to read Date1 and Date2 and check if Date1 less than Date 2.
+<br><br>
+<img src="problem13/problem13.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem14">Problem 14: Date1 Equal to Date2</a>
+
+Write a program to read Date1 and Date2 and check if Date1 equal to Date 2.
+<br><br>
+<img src="problem14/problem14.png" alt = "Example output"/>

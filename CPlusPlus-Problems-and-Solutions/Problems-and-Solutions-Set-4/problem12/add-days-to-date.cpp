@@ -46,7 +46,7 @@ int ReadDaysToAdd()
     return DaysToAdd;
 }
 
-stDate FullDate()
+stDate ReadFullDate()
 {
     stDate Date;
 
@@ -115,7 +115,7 @@ stDate AddDaysToDate(stDate Date, int DaysToAdd)
 
 int main()
 {
-    stDate Date = FullDate();
+    stDate Date = ReadFullDate();
     int DaysToAdd = ReadDaysToAdd();
 
     stDate NewDate = AddDaysToDate(Date, DaysToAdd);
