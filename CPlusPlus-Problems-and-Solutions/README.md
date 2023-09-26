@@ -1371,3 +1371,37 @@ Write a program to read Date1 and Date2 and check if Date1 less than Date 2.
 Write a program to read Date1 and Date2 and check if Date1 equal to Date 2.
 <br><br>
 <img src="Problems-and-Solutions-Set-4/problem14/problem14.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem15">Problem 15: Last Day, Last Month</a>
+
+Write a program to read a date and check:
+<br> _ If it is the last Day in the Month.
+<br> _ If it is the last Month in the Year.
+<br><br>
+<img src="Problems-and-Solutions-Set-4/problem15/problem15.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem16">Problem 16: Increase Date by One Day</a>
+
+Write a program to read a date and make a function to increase date by one day.
+<br><br>
+<img src="Problems-and-Solutions-Set-4/problem16/problem16.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem17">Problem 17: Diff in days</a>
+
+Write a program to read Date1 and Date2 and make a function to calculate the difference in days.
+<br>Note: Date1 should be less than Date2.
+<br><br>
+<img src="Problems-and-Solutions-Set-4/problem17/problem17.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem18">Problem 18: Age in Days.</a>
+
+Write a program to calculate your age in dates.
+<br><br>
+<img src="Problems-and-Solutions-Set-4/problem18/problem18.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem19">Problem 19: Diff in days (Negative Days)</a>
+
+Write a program to read Date1 and Date2 and make a function to calculate the difference in days.
+<br>Note: If Date1 Not less than Date2, print the negative of the result.
+<br><br>
+<img src="Problems-and-Solutions-Set-4/problem19/problem19.png" alt = "Example output"/>
