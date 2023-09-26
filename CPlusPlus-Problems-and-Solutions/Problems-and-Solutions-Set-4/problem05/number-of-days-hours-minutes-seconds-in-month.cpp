@@ -1,14 +1,24 @@
 #include <iostream>
 using namespace std;
 
-short ReadNumber(string Msg)
+short ReadYear()
 {
-    int Number;
+    short Year;
 
-    cout << Msg;
-    cin >> Number;
+    cout << "\nPlease enter a year: ";
+    cin >> Year;
 
-    return Number;
+    return Year;
+}
+
+short ReadMonth()
+{
+    short Month;
+
+    cout << "\nPlease enter a month: ";
+    cin >> Month;
+
+    return Month;
 }
 
 bool isLeapYear(short Year)
@@ -16,14 +26,15 @@ bool isLeapYear(short Year)
     return (Year % 4 == 0 && Year % 100 != 0) || (Year % 400 == 0);
 }
 
-short NumberOfDaysInAMonth(short Year, short Month)
+short NumberOfDaysInAMonth(short Month, short Year)
 {
     if (Month < 1 || Month > 12)
         return 0;
+
     if (Month == 2)
         return isLeapYear(Year) ? 29 : 28;
 
-    int arr31Days[7] = {1, 3, 5, 7, 8, 10, 12};
+    short arr31Days[7] = {1, 3, 5, 7, 8, 10, 12};
 
     for (short i = 0; i < 7; i++)
     {
@@ -34,30 +45,31 @@ short NumberOfDaysInAMonth(short Year, short Month)
     return 30;
 }
 
-short NumberOfHoursInAMonth(short Year, short Month)
+short NumberOfHoursInAMonth(short Month, short Year)
 {
-    return NumberOfDaysInAMonth(Year, Month) * 24;
+    return NumberOfDaysInAMonth(Month, Year) * 24;
 }
 
-int NumberOfMinutesInAMonth(short Year, short Month)
+int NumberOfMinutesInAMonth(short Month, short Year)
 {
-    return NumberOfHoursInAMonth(Year, Month) * 60;
+    return NumberOfHoursInAMonth(Month, Year) * 60;
 }
 
-int NumberOfSecondsInAMonth(short Year, short Month)
+int NumberOfSecondsInAMonth(short Month, short Year)
 {
-    return NumberOfMinutesInAMonth(Year, Month) * 60;
+    return NumberOfMinutesInAMonth(Month, Year) * 60;
 }
 
 int main()
 {
-    short Year = ReadNumber("Please enter a year to check: ");
-    short Month = ReadNumber("Please enter a month to check: ");
+    short Year = ReadYear();
+    short Month = ReadMonth();
 
-    cout << "\nNumber of Days   in Month[" << Month << "] is " << NumberOfDaysInAMonth(Year, Month) << endl;
-    cout << "Number of Hours   in Month[" << Month << "] is " << NumberOfHoursInAMonth(Year, Month) << endl;
-    cout << "Number of Minutes in Month[" << Month << "] is " << NumberOfMinutesInAMonth(Year, Month) << endl;
-    cout << "Number of Seconds in Month[" << Month << "] is " << NumberOfSecondsInAMonth(Year, Month) << endl;
+    cout << "\nNumber of Days    in Month [" << Month << "] is " << NumberOfDaysInAMonth(Month, Year) << endl;
+    cout << "Number of Hours   in Month [" << Month << "] is " << NumberOfHoursInAMonth(Month, Year) << endl;
+    cout << "Number of Minutes in Month [" << Month << "] is " << NumberOfMinutesInAMonth(Month, Year) << endl;
+    cout << "Number of Seconds in Month [" << Month << "] is " << NumberOfSecondsInAMonth(Month, Year) << endl;
+
     system("pause>0");
     return 0;
 }

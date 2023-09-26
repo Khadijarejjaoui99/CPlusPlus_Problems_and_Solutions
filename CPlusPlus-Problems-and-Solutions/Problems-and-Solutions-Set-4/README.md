@@ -35,3 +35,42 @@ Write a program to print number of days, hours, minutes, and seconds in a month.
 Write a program to print number of days in a certain month.
 <br><br>
 <img src="problem06/problem06.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem07">Problem 07: Day Name</a>
+
+Write a program to read a date and print the day name of the week.
+<br><br>
+<img src="problem07/problem07.png" alt = "Example output"/>
+<br><br>
+<img src="problem07/Formula.png" alt = "Formula to find day order"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem08">Problem 08: Month Calendar</a>
+
+Write a program to print month calendar.
+<br><br>
+<img src="problem08/problem08.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem09">Problem 09: Year Calendar</a>
+
+Write a program to print year calendar.
+<br><br>
+<img src="problem09/problem09.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem10">Problem 10: Days from the Beginning of the Year</a>
+
+Write a program to print total days from the beginning of the year.
+<br><br>
+<img src="problem10/problem10.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem11">Problem 11: Date from Day Order in a Year</a>
+
+Write a program to print total days from the beginning of the year.
+<br> Take the total days and convert them back to a date.
+<br><br>
+<img src="problem11/problem11.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem12">Problem 12: Add Days to Date</a>
+
+Write a program to read date and read how many days to add to add to it, then print result on the screen.
+<br><br>
+<img src="problem12/problem12.png" alt = "Example output"/>
