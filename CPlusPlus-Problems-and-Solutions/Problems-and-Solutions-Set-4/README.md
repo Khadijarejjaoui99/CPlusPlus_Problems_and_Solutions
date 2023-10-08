@@ -140,3 +140,23 @@ Write a program to read Date ane make functions to increase date as following:
 <br>IncreaseDateByOneMillennium
 <br><br>
 <img src="problem20-30/problem20-30.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem33-46">Problems 33-46: Increase Date problems</a>
+
+Write a program to read Date ane make functions to decrease date as following:
+<br>DecreaseDateByOneDay
+<br>DecreaseDateByXDays
+<br>DecreaseDateByOneWeek
+<br>DecreaseDateByXWeeks
+<br>DecreaseDateByOneMonth
+<br>DecreaseDateByXMonths
+<br>DecreaseDateByOneYear
+<br>DecreaseDateByXYears
+<br>DecreaseDateByXYearsFaster
+<br>DecreaseDateByOneDecade
+<br>DecreaseDateByXDecades
+<br>DecreaseDateByXDecadesFaster
+<br>DecreaseDateByOneCentury
+<br>DecreaseDateByOneMillennium
+<br><br>
+<img src="problem33-46/problem33-46.png" alt = "Example output"/>
