@@ -141,7 +141,7 @@ Write a program to read Date ane make functions to increase date as following:
 <br><br>
 <img src="problem20-30/problem20-30.png" alt = "Example output"/>
 
-## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem33-46">Problems 33-46: Increase Date problems</a>
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem33-46">Problems 33-46: Decrease Date problems</a>
 
 Write a program to read Date ane make functions to decrease date as following:
 <br>DecreaseDateByOneDay
@@ -160,3 +160,16 @@ Write a program to read Date ane make functions to decrease date as following:
 <br>DecreaseDateByOneMillennium
 <br><br>
 <img src="problem33-46/problem33-46.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem47-53">Problems 47-53: More Date problems</a>
+
+Write a program to read Date ane make functions to decrease date as following:
+<br>_ Overload the DayOfWeekOrder to take date structure.
+<br>_ isEndOfWeek
+<br>_ isWeekEnd
+<br>_ isBusinessDay
+<br>_ DaysUntilEndOfWeek
+<br>_ DaysUntilEndOfMonth
+<br>\_ DaysUntilEndOfYear
+<br><br>
+<img src="problem47-53/problem47-53.png" alt = "Example output"/>
