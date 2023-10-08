@@ -173,3 +173,11 @@ Write a program to read Date ane make functions to decrease date as following:
 <br>\_ DaysUntilEndOfYear
 <br><br>
 <img src="problem47-53/problem47-53.png" alt = "Example output"/>
+
+## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-4/problem54">Problems 54: More Date problems</a>
+
+Write a program to read vacation period DateFrom and DateTo to make a function to calculate the actual vacation days.
+<br>\_ Note: weekends are excluded
+
+<br><br>
+<img src="problem54/problem54.png" alt = "Example output"/>
