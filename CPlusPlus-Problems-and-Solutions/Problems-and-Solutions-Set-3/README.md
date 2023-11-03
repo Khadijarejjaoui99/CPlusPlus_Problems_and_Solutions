@@ -15,14 +15,14 @@ Write a program to fill a 3x3 matrix with random numbers from 1 to 100. And prin
 Write a program to fill a 3x3 matrix with random numbers from 1 to 100. Then sum each row and store the result in array.
 <br><br> <img src = "problem02/problem2.png" alt = "problem 2 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem04">Problem 04: Sum Each Colomun </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem04">Problem 04: Sum Each Column  </a>
 
-Write a program to fill a 3x3 matrix with random numbers from 1 to 100. And print the sum of each colomun.
+Write a program to fill a 3x3 matrix with random numbers from 1 to 100. And print the sum of each Column.
 <br><br> <img src = "problem04/problem4.png" alt = "problem 4 output example">
 
-## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem05">Problem 05: Sum Each Colomun In Another Array </a>
+## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem05">Problem 05: Sum Each Column  In Another Array </a>
 
-Write a program to fill a 3x3 matrix with random numbers from 1 to 100. Then sum each column and store the result in array.
+Write a program to fill a 3x3 matrix with random numbers from 1 to 100. Then sum each Column and store the result in array.
 <br><br> <img src = "problem04/problem4.png" alt = "problem 4 output example">
 
 ## <a href="https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-3/problem06">Problem 06: 3X3 Ordered Matrix: </a>
