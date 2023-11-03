@@ -17,18 +17,18 @@ or "Even" if it is even.
 
 Write a program that ask the user to enter his/her:
 <br> - Age
-<br> - Driving license.
+<br> - Driving licence.
 <br>Then print "Hired" if his/her age is greater than 21 years old and she/he has a
-driving license, otherwise print "Rejected".
+driving licence, otherwise print "Rejected".
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-1/problem05">Problem #05: Hire a driver case II</a>
 
 Write a program that ask the user to enter his/her:
 <br> - Age
-<br> - Has driving license.
+<br> - Has a driving licence.
 <br> - Has recommendation
 <br>Then print "Hired" if s/he has recommendations or if his/her age is greater than
-21 years old and she/he has a driving license, otherwise print "Rejected".
+21 years old and she/he has a driving licence, otherwise print "Rejected".
 
 ## <a href = "https://github.com/Khadijarejjaoui99/CPlusPlus_Problems_and_Solutions/tree/main/CPlusPlus-Problems-and-Solutions/Problems-and-Solutions-Set-1/problem06">Problem #06: Full Name</a>
 
